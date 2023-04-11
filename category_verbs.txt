@@ -1,0 +1,3 @@
+- Action physique : Abandon, Absorb, Abuse, Accelerate, Accent, Act, Add, Address, Adjust, Advance, Advertise, Aggravate, Alternate, Amend, Amuse, Announce, Annoy, Answer, Appear, Appease, Applaud, Apply, Approach, Arrest, Arrive, Ask, Assist, Assure.
+- Action mentale : Accommodate, Accuse, Achieve, Acknowledge, Acquire, Advice, Analyse, Approve, Argue, Arise, Arrange, Assess.
+- Sentiment : Admire, Admit, Adore, Advice, Afford, Agree, Allow.

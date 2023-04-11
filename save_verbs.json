@@ -1,0 +1,3847 @@
+{
+    "Abandon": {
+        "past_simple": "Abandoned",
+        "past_participe": "Abandoned",
+        "french": "Abandonner"
+    },
+    "Abide": {
+        "past_simple": "Abode / Abided",
+        "past_participe": "Abode / Abided",
+        "french": "Respecter"
+    },
+    "Abolish": {
+        "past_simple": "Abolished",
+        "past_participe": "Abolished",
+        "french": "Abolir"
+    },
+    "Absorb": {
+        "past_simple": "Absorbed",
+        "past_participe": "Absorbed",
+        "french": "Absorber"
+    },
+    "Abuse": {
+        "past_simple": "Abused",
+        "past_participe": "Abused",
+        "french": "Abuser"
+    },
+    "Accede": {
+        "past_simple": "Acceded",
+        "past_participe": "Acceded",
+        "french": "Acc\u00e9der"
+    },
+    "Accelerate": {
+        "past_simple": "Accelerated",
+        "past_participe": "Accelerated",
+        "french": "Acc\u00e9l\u00e9rer"
+    },
+    "Accent": {
+        "past_simple": "Accented",
+        "past_participe": "Accented",
+        "french": "Accentuer"
+    },
+    "Accept": {
+        "past_simple": "Accepted",
+        "past_participe": "Accepted",
+        "french": "Accepter"
+    },
+    "Accommodate": {
+        "past_simple": "Accommodated",
+        "past_participe": "Accommodated",
+        "french": "Accueillir / loger"
+    },
+    "Accuse": {
+        "past_simple": "Accused",
+        "past_participe": "Accused",
+        "french": "Accuser"
+    },
+    "Achieve": {
+        "past_simple": "Achieved",
+        "past_participe": "Achieved",
+        "french": "Accomplir"
+    },
+    "Acknowledge": {
+        "past_simple": "Acknowledged",
+        "past_participe": "Acknowledged",
+        "french": "Reconna\u00eetre / avouer"
+    },
+    "Acquire": {
+        "past_simple": "Acquired",
+        "past_participe": "Acquired",
+        "french": "Acqu\u00e9rir"
+    },
+    "Act": {
+        "past_simple": "Acted",
+        "past_participe": "Acted",
+        "french": "Agir"
+    },
+    "Add": {
+        "past_simple": "Added",
+        "past_participe": "Added",
+        "french": "Ajouter / Additionner"
+    },
+    "Address": {
+        "past_simple": "Addressed",
+        "past_participe": "Addressed",
+        "french": "Se diriger"
+    },
+    "Adjust": {
+        "past_simple": "Adjusted",
+        "past_participe": "Adjusted",
+        "french": "Ajuster"
+    },
+    "Admire": {
+        "past_simple": "Admired",
+        "past_participe": "Admired",
+        "french": "Admirer"
+    },
+    "Admit": {
+        "past_simple": "Admitted",
+        "past_participe": "Admitted",
+        "french": "Accepter"
+    },
+    "Adore": {
+        "past_simple": "Adored",
+        "past_participe": "Adored",
+        "french": "Adorer"
+    },
+    "Advance": {
+        "past_simple": "Advanced",
+        "past_participe": "Advanced",
+        "french": "Avancer"
+    },
+    "Advertise": {
+        "past_simple": "Advertised",
+        "past_participe": "Advertised",
+        "french": "Annoncer"
+    },
+    "Advice": {
+        "past_simple": "Adviced",
+        "past_participe": "Adviced",
+        "french": "Conseiller"
+    },
+    "Afford": {
+        "past_simple": "Afforded",
+        "past_participe": "Afforded",
+        "french": "Permettre"
+    },
+    "Agree": {
+        "past_simple": "Agreed",
+        "past_participe": "Agreed",
+        "french": "Convenir"
+    },
+    "Allow": {
+        "past_simple": "Allowed",
+        "past_participe": "Allowed",
+        "french": "Autoriser"
+    },
+    "Alternate": {
+        "past_simple": "Alternated",
+        "past_participe": "Alternated",
+        "french": "Alterner"
+    },
+    "Amend": {
+        "past_simple": "Amended",
+        "past_participe": "Amended",
+        "french": "Amender"
+    },
+    "Amuse": {
+        "past_simple": "Amused",
+        "past_participe": "Amused",
+        "french": "Divertir"
+    },
+    "Analyse": {
+        "past_simple": "Analysed",
+        "past_participe": "Analysed",
+        "french": "Analyser"
+    },
+    "Announce": {
+        "past_simple": "Announced",
+        "past_participe": "Announced",
+        "french": "Annoncer"
+    },
+    "Annoy": {
+        "past_simple": "Annoyed",
+        "past_participe": "Annoyed",
+        "french": "Emb\u00eater"
+    },
+    "Answer": {
+        "past_simple": "Answered",
+        "past_participe": "Answered",
+        "french": "R\u00e9pondre"
+    },
+    "Apologize": {
+        "past_simple": "Apologized",
+        "past_participe": "Apologized",
+        "french": "S\u2019excuser"
+    },
+    "Appear": {
+        "past_simple": "Appeared",
+        "past_participe": "Appeared",
+        "french": "Appara\u00eetre"
+    },
+    "Appease": {
+        "past_simple": "Appeased",
+        "past_participe": "Appeased",
+        "french": "Apaiser"
+    },
+    "Applaud": {
+        "past_simple": "Applauded",
+        "past_participe": "Applauded",
+        "french": "Applaudir"
+    },
+    "Apply": {
+        "past_simple": "Applied",
+        "past_participe": "Applied",
+        "french": "Appliquer"
+    },
+    "Approach": {
+        "past_simple": "Approached",
+        "past_participe": "Approached",
+        "french": "S\u2019approcher"
+    },
+    "Approve": {
+        "past_simple": "Approved",
+        "past_participe": "Approved",
+        "french": "Approuver"
+    },
+    "Argue": {
+        "past_simple": "Argued",
+        "past_participe": "Argued",
+        "french": "Argumenter"
+    },
+    "Arise": {
+        "past_simple": "Arose",
+        "past_participe": "Arisen",
+        "french": "Surgir"
+    },
+    "Arrange": {
+        "past_simple": "Arranged",
+        "past_participe": "Arranged",
+        "french": "R\u00e9parer"
+    },
+    "Arrest": {
+        "past_simple": "Arrested",
+        "past_participe": "Arrested",
+        "french": "Arr\u00eater"
+    },
+    "Arrive": {
+        "past_simple": "Arrived",
+        "past_participe": "Arrived",
+        "french": "Arriver"
+    },
+    "Ask": {
+        "past_simple": "Asked",
+        "past_participe": "Asked",
+        "french": "Demander"
+    },
+    "Assess": {
+        "past_simple": "Assessed",
+        "past_participe": "Assessed",
+        "french": "\u00c9valuer"
+    },
+    "Assist": {
+        "past_simple": "Assisted",
+        "past_participe": "Assisted",
+        "french": "Assister"
+    },
+    "Assure": {
+        "past_simple": "Assured",
+        "past_participe": "Assured",
+        "french": "Assurer"
+    },
+    "Attach": {
+        "past_simple": "Attached",
+        "past_participe": "Attached",
+        "french": "Attacher"
+    },
+    "Attack": {
+        "past_simple": "Attacked",
+        "past_participe": "Attacked",
+        "french": "Attaquer"
+    },
+    "Attempt": {
+        "past_simple": "Attempted",
+        "past_participe": "Attempted",
+        "french": "Essayer"
+    },
+    "Attend": {
+        "past_simple": "Attended",
+        "past_participe": "Attended",
+        "french": "Assister"
+    },
+    "Attract": {
+        "past_simple": "Attracted",
+        "past_participe": "Attracted",
+        "french": "Attirer"
+    },
+    "Avoid": {
+        "past_simple": "Avoided",
+        "past_participe": "Avoided",
+        "french": "\u00c9viter"
+    },
+    "Await": {
+        "past_simple": "Awaited",
+        "past_participe": "Awaited",
+        "french": "Attendre"
+    },
+    "Awake": {
+        "past_simple": "Awoke / Awaked",
+        "past_participe": "Awoken / Awakenedd",
+        "french": "\u00c9veiller / se r\u00e9veiller"
+    },
+    "Back": {
+        "past_simple": "Backed",
+        "past_participe": "Backed",
+        "french": "Appuyer"
+    },
+    "Balance": {
+        "past_simple": "Balanced",
+        "past_participe": "Balanced",
+        "french": "\u00c9quilibrer"
+    },
+    "Bang": {
+        "past_simple": "Banged",
+        "past_participe": "Banged",
+        "french": "Claquer"
+    },
+    "Bark": {
+        "past_simple": "Barked",
+        "past_participe": "Barked",
+        "french": "Aboyer"
+    },
+    "Bat": {
+        "past_simple": "Bated",
+        "past_participe": "Bated",
+        "french": "Frapper une balle avec une batte"
+    },
+    "Battle": {
+        "past_simple": "Battled",
+        "past_participe": "Battled",
+        "french": "Lutter"
+    },
+    "Be": {
+        "past_simple": "Was / Were",
+        "past_participe": "Been",
+        "french": "\u00catre"
+    },
+    "Bear": {
+        "past_simple": "Bore",
+        "past_participe": "Borne / Born",
+        "french": "Supporter"
+    },
+    "Beat": {
+        "past_simple": "Beat",
+        "past_participe": "Beaten",
+        "french": "Frapper"
+    },
+    "Become": {
+        "past_simple": "Became",
+        "past_participe": "Become",
+        "french": "Devenir"
+    },
+    "Befall": {
+        "past_simple": "Befell",
+        "past_participe": "Befallen",
+        "french": "Arriver \u00e0"
+    },
+    "Befriend": {
+        "past_simple": "Befriended",
+        "past_participe": "Befriended",
+        "french": "Sympathiser"
+    },
+    "Beg": {
+        "past_simple": "Begged",
+        "past_participe": "Begged",
+        "french": "Supplier"
+    },
+    "Beget": {
+        "past_simple": "Begot",
+        "past_participe": "Begotten",
+        "french": "Engendrer"
+    },
+    "Begin": {
+        "past_simple": "Began",
+        "past_participe": "Begun",
+        "french": "Commencer"
+    },
+    "Behave": {
+        "past_simple": "Behaved",
+        "past_participe": "Behaved",
+        "french": "Se comporter"
+    },
+    "Behold": {
+        "past_simple": "Beheld",
+        "past_participe": "Beheld",
+        "french": "Contempler"
+    },
+    "Believe": {
+        "past_simple": "Believed",
+        "past_participe": "Believed",
+        "french": "Croire"
+    },
+    "Belong": {
+        "past_simple": "Belonged",
+        "past_participe": "Belonged",
+        "french": "Appartenir"
+    },
+    "Bend": {
+        "past_simple": "Bent",
+        "past_participe": "Bent",
+        "french": "Plier"
+    },
+    "Bereave": {
+        "past_simple": "Bereft",
+        "past_participe": "Bereft",
+        "french": "Endeuiller"
+    },
+    "Beseech": {
+        "past_simple": "Besought",
+        "past_participe": "Besought",
+        "french": "Supplier"
+    },
+    "Bet": {
+        "past_simple": "Bet",
+        "past_participe": "Bet",
+        "french": "Miser"
+    },
+    "Bid": {
+        "past_simple": "Bid / Bade",
+        "past_participe": "Bid / Bidden",
+        "french": "Faire une offre / une ench\u00e8re"
+    },
+    "Bind": {
+        "past_simple": "Bound",
+        "past_participe": "Bound",
+        "french": "Attacher"
+    },
+    "Bite": {
+        "past_simple": "Bit",
+        "past_participe": "Bitten",
+        "french": "Mordre"
+    },
+    "Blame": {
+        "past_simple": "Blamed",
+        "past_participe": "Blamed",
+        "french": "Reprocher"
+    },
+    "Bleed": {
+        "past_simple": "Bled",
+        "past_participe": "Bled",
+        "french": "Saigner"
+    },
+    "Blend": {
+        "past_simple": "Blended",
+        "past_participe": "Blended",
+        "french": "M\u00e9langer"
+    },
+    "Bless": {
+        "past_simple": "Blessed",
+        "past_participe": "Blessed",
+        "french": "B\u00e9nir"
+    },
+    "Blink": {
+        "past_simple": "Blinked",
+        "past_participe": "Blinked",
+        "french": "Clignoter"
+    },
+    "Blow": {
+        "past_simple": "Blew",
+        "past_participe": "Blown",
+        "french": "Souffler"
+    },
+    "Blush": {
+        "past_simple": "Blushed",
+        "past_participe": "Blushed",
+        "french": "Rougir"
+    },
+    "Boil": {
+        "past_simple": "Boiled",
+        "past_participe": "Boiled",
+        "french": "Bouillir"
+    },
+    "Bond": {
+        "past_simple": "Bonded",
+        "past_participe": "Bonded",
+        "french": "Coller / \u00e9tablir un lien"
+    },
+    "Borrow": {
+        "past_simple": "Borrowed",
+        "past_participe": "Borrowed",
+        "french": "Emprunter"
+    },
+    "Brag": {
+        "past_simple": "Braged",
+        "past_participe": "Braged",
+        "french": "Se vanter"
+    },
+    "Brake": {
+        "past_simple": "Braked",
+        "past_participe": "Braked",
+        "french": "Freiner"
+    },
+    "Break": {
+        "past_simple": "Broke",
+        "past_participe": "Broken",
+        "french": "Briser"
+    },
+    "Breathe": {
+        "past_simple": "Breathed",
+        "past_participe": "Breathed",
+        "french": "Respirer"
+    },
+    "Breed": {
+        "past_simple": "Bred",
+        "past_participe": "Bred",
+        "french": "\u00c9lever"
+    },
+    "Bring": {
+        "past_simple": "Brought",
+        "past_participe": "Brought",
+        "french": "Apporter"
+    },
+    "Broadcast": {
+        "past_simple": "Broadcast / Broadcasted",
+        "past_participe": "Broadcast / Broadcasted",
+        "french": "Diffuser"
+    },
+    "Broaden": {
+        "past_simple": "Broadened",
+        "past_participe": "Broadened",
+        "french": "\u00c9largir"
+    },
+    "Bruise": {
+        "past_simple": "Bruised",
+        "past_participe": "Bruised",
+        "french": "Meurtrir"
+    },
+    "Brush": {
+        "past_simple": "Brushed",
+        "past_participe": "Brushed",
+        "french": "Brosser"
+    },
+    "Buckle": {
+        "past_simple": "Buckled",
+        "past_participe": "Buckled",
+        "french": "Boucler"
+    },
+    "Bug": {
+        "past_simple": "Bugged",
+        "past_participe": "Bugged",
+        "french": "Ennuyer"
+    },
+    "Build": {
+        "past_simple": "Built",
+        "past_participe": "Built",
+        "french": "Construire"
+    },
+    "Bundle": {
+        "past_simple": "Bundled",
+        "past_participe": "Bundled",
+        "french": "Empaqueter / grouper"
+    },
+    "Burn": {
+        "past_simple": "Burnt / Burned",
+        "past_participe": "Burnt / Burned",
+        "french": "Br\u00fbler"
+    },
+    "Burst": {
+        "past_simple": "Burst",
+        "past_participe": "Burst",
+        "french": "\u00c9clater"
+    },
+    "Buy": {
+        "past_simple": "Bought",
+        "past_participe": "Bought",
+        "french": "Acheter"
+    },
+    "Calculate": {
+        "past_simple": "Calculated",
+        "past_participe": "Calculated",
+        "french": "Calculer"
+    },
+    "Call": {
+        "past_simple": "Called",
+        "past_participe": "Called",
+        "french": "Appeler"
+    },
+    "Calm": {
+        "past_simple": "Calmed",
+        "past_participe": "Calmed",
+        "french": "Calmer"
+    },
+    "Camp": {
+        "past_simple": "Camped",
+        "past_participe": "Camped",
+        "french": "Camper"
+    },
+    "Capitulate": {
+        "past_simple": "Capitulated",
+        "past_participe": "Capitulated",
+        "french": "Capituler"
+    },
+    "Care": {
+        "past_simple": "Cared",
+        "past_participe": "Cared",
+        "french": "S\u2019occuper de"
+    },
+    "Carry": {
+        "past_simple": "Carried",
+        "past_participe": "Carried",
+        "french": "Porter"
+    },
+    "Cash": {
+        "past_simple": "Cashed",
+        "past_participe": "Cashed",
+        "french": "Encaisser"
+    },
+    "Catch": {
+        "past_simple": "Caught",
+        "past_participe": "Caught",
+        "french": "Attraper"
+    },
+    "Cause": {
+        "past_simple": "Caused",
+        "past_participe": "Caused",
+        "french": "Causer"
+    },
+    "Cease": {
+        "past_simple": "Ceased",
+        "past_participe": "Ceased",
+        "french": "Cesser"
+    },
+    "Center": {
+        "past_simple": "Centered",
+        "past_participe": "Centered",
+        "french": "Centrer"
+    },
+    "Challenge": {
+        "past_simple": "Challenged",
+        "past_participe": "Challenged",
+        "french": "Contester / d\u00e9fier"
+    },
+    "Change": {
+        "past_simple": "Changed",
+        "past_participe": "Changed",
+        "french": "Changer"
+    },
+    "Charge": {
+        "past_simple": "Charged",
+        "past_participe": "Charged",
+        "french": "Charger"
+    },
+    "Chase": {
+        "past_simple": "Chased",
+        "past_participe": "Chased",
+        "french": "Espionner"
+    },
+    "Chat": {
+        "past_simple": "Chated",
+        "past_participe": "Chated",
+        "french": "Discuter"
+    },
+    "Check": {
+        "past_simple": "Checked",
+        "past_participe": "Checked",
+        "french": "V\u00e9rifier"
+    },
+    "Chide": {
+        "past_simple": "Chid",
+        "past_participe": "Chide / Chidden",
+        "french": "Bl\u00e2mer"
+    },
+    "Choke": {
+        "past_simple": "Choked",
+        "past_participe": "Choked",
+        "french": "\u00c9touffer"
+    },
+    "Choose": {
+        "past_simple": "Chose",
+        "past_participe": "Chosen",
+        "french": "Choisir"
+    },
+    "Chop": {
+        "past_simple": "Chopped",
+        "past_participe": "Chopped",
+        "french": "Hacher"
+    },
+    "Circle": {
+        "past_simple": "Circled",
+        "past_participe": "Circled",
+        "french": "encercler"
+    },
+    "Claim": {
+        "past_simple": "Claimed",
+        "past_participe": "Claimed",
+        "french": "R\u00e9clamer"
+    },
+    "Clap": {
+        "past_simple": "Clapd",
+        "past_participe": "Clapd",
+        "french": "Frapper dans ses mains"
+    },
+    "Clarify": {
+        "past_simple": "Clarified",
+        "past_participe": "Clarified",
+        "french": "Clarifier"
+    },
+    "Clean": {
+        "past_simple": "Cleaned",
+        "past_participe": "Cleaned",
+        "french": "Nettoyer"
+    },
+    "Click": {
+        "past_simple": "Clicked",
+        "past_participe": "Clicked",
+        "french": "Cliquer"
+    },
+    "Climb": {
+        "past_simple": "Climbed",
+        "past_participe": "Climbed",
+        "french": "Escalader"
+    },
+    "Cling": {
+        "past_simple": "Clung",
+        "past_participe": "Clung",
+        "french": "S\u2019agripper"
+    },
+    "Close": {
+        "past_simple": "Closed",
+        "past_participe": "Closed",
+        "french": "Fermer"
+    },
+    "Coach": {
+        "past_simple": "Coached",
+        "past_participe": "Coached",
+        "french": "Entra\u00eener"
+    },
+    "Collapse": {
+        "past_simple": "Collapsed",
+        "past_participe": "Collapsed",
+        "french": "S\u2019effondrer"
+    },
+    "Collect": {
+        "past_simple": "Collected",
+        "past_participe": "Collected",
+        "french": "Collecter"
+    },
+    "Collide": {
+        "past_simple": "Collided",
+        "past_participe": "Collided",
+        "french": "Entrer en collision / heurter"
+    },
+    "Combine": {
+        "past_simple": "Combined",
+        "past_participe": "Combined",
+        "french": "Combiner"
+    },
+    "Come": {
+        "past_simple": "Came",
+        "past_participe": "Come",
+        "french": "Venir"
+    },
+    "Command": {
+        "past_simple": "Commanded",
+        "past_participe": "Commanded",
+        "french": "Commander"
+    },
+    "Commit": {
+        "past_simple": "Committed",
+        "past_participe": "Committed",
+        "french": "Commettre / S\u2019engager"
+    },
+    "Compare": {
+        "past_simple": "Compared",
+        "past_participe": "Compared",
+        "french": "Comparer"
+    },
+    "Compensate": {
+        "past_simple": "Compensated",
+        "past_participe": "Compensated",
+        "french": "Compenser / r\u00e9mun\u00e9rer"
+    },
+    "Complete": {
+        "past_simple": "Completed",
+        "past_participe": "Completed",
+        "french": "Compl\u00e9ter"
+    },
+    "Compose": {
+        "past_simple": "Composed",
+        "past_participe": "Composed",
+        "french": "Composer"
+    },
+    "Consider": {
+        "past_simple": "Considered",
+        "past_participe": "Considered",
+        "french": "Consid\u00e9rer"
+    },
+    "Consist": {
+        "past_simple": "Consisted",
+        "past_participe": "Consisted",
+        "french": "Consister"
+    },
+    "Contain": {
+        "past_simple": "Contained",
+        "past_participe": "Contained",
+        "french": "Contenir"
+    },
+    "Continue": {
+        "past_simple": "Continued",
+        "past_participe": "Continued",
+        "french": "Continuer"
+    },
+    "Cook": {
+        "past_simple": "Cooked",
+        "past_participe": "Cooked",
+        "french": "Cuisiner"
+    },
+    "Copy": {
+        "past_simple": "Copied",
+        "past_participe": "Copied",
+        "french": "Copier"
+    },
+    "Cost": {
+        "past_simple": "Cost",
+        "past_participe": "Cost",
+        "french": "Co\u00fbter"
+    },
+    "Count": {
+        "past_simple": "Counted",
+        "past_participe": "Counted",
+        "french": "Compter"
+    },
+    "Cover": {
+        "past_simple": "Covered",
+        "past_participe": "Covered",
+        "french": "Couvrir"
+    },
+    "Crash": {
+        "past_simple": "Crashed",
+        "past_participe": "Crashed",
+        "french": "Cogner"
+    },
+    "Creep": {
+        "past_simple": "Crept",
+        "past_participe": "Crept",
+        "french": "Ramper"
+    },
+    "Cross": {
+        "past_simple": "Crossed",
+        "past_participe": "Crossed",
+        "french": "Croiser"
+    },
+    "Crown": {
+        "past_simple": "Crowned",
+        "past_participe": "Crowned",
+        "french": "Couronner"
+    },
+    "Cry": {
+        "past_simple": "Cried",
+        "past_participe": "Cried",
+        "french": "Pleurer"
+    },
+    "Cut": {
+        "past_simple": "Cut",
+        "past_participe": "Cut",
+        "french": "Couper"
+    },
+    "Damage": {
+        "past_simple": "Damaged",
+        "past_participe": "Damaged",
+        "french": "Endommager"
+    },
+    "Dance": {
+        "past_simple": "Danced",
+        "past_participe": "Danced",
+        "french": "Danser"
+    },
+    "Deal": {
+        "past_simple": "Dealt",
+        "past_participe": "Dealt",
+        "french": "Distribuer"
+    },
+    "Decide": {
+        "past_simple": "Decided",
+        "past_participe": "Decided",
+        "french": "D\u00e9cider"
+    },
+    "Declare": {
+        "past_simple": "Declared",
+        "past_participe": "Declared",
+        "french": "D\u00e9clarer"
+    },
+    "Decline": {
+        "past_simple": "Declined",
+        "past_participe": "Declined",
+        "french": "Refuser"
+    },
+    "Decorate": {
+        "past_simple": "Decorated",
+        "past_participe": "Decorated",
+        "french": "D\u00e9corer"
+    },
+    "Delay": {
+        "past_simple": "Delayed",
+        "past_participe": "Delayed",
+        "french": "Retarder"
+    },
+    "Deliver": {
+        "past_simple": "Delivered",
+        "past_participe": "Delivered",
+        "french": "Livrer / remettre"
+    },
+    "Demonstrate": {
+        "past_simple": "Demonstrated",
+        "past_participe": "Demonstrated",
+        "french": "D\u00e9montrer"
+    },
+    "Deny": {
+        "past_simple": "Denied",
+        "past_participe": "Denied",
+        "french": "Refuser"
+    },
+    "Depend": {
+        "past_simple": "Depended",
+        "past_participe": "Depended",
+        "french": "D\u00e9pendre"
+    },
+    "Destroy": {
+        "past_simple": "Destroyed",
+        "past_participe": "Destroyed",
+        "french": "D\u00e9truire"
+    },
+    "Develop": {
+        "past_simple": "Developed",
+        "past_participe": "Developed",
+        "french": "D\u00e9velopper"
+    },
+    "Devote": {
+        "past_simple": "Devoted",
+        "past_participe": "Devoted",
+        "french": "Consacrer"
+    },
+    "Die": {
+        "past_simple": "Died",
+        "past_participe": "Died",
+        "french": "Mourir"
+    },
+    "Dig": {
+        "past_simple": "Dug",
+        "past_participe": "Dug",
+        "french": "Creuser"
+    },
+    "Disapprove": {
+        "past_simple": "Disapproved",
+        "past_participe": "Disapproved",
+        "french": "D\u00e9sapprouver"
+    },
+    "Disclose": {
+        "past_simple": "Disclosed",
+        "past_participe": "Disclosed",
+        "french": "Divulguer"
+    },
+    "Display": {
+        "past_simple": "Displayed",
+        "past_participe": "Displayed",
+        "french": "Afficher"
+    },
+    "Distract": {
+        "past_simple": "Distracted",
+        "past_participe": "Distracted",
+        "french": "D\u00e9tourner l\u2019attention"
+    },
+    "Dive": {
+        "past_simple": "Dived",
+        "past_participe": "Dived",
+        "french": "Plonger"
+    },
+    "Divide": {
+        "past_simple": "Divided",
+        "past_participe": "Divided",
+        "french": "Diviser"
+    },
+    "Do": {
+        "past_simple": "Did",
+        "past_participe": "Done",
+        "french": "Faire"
+    },
+    "Double": {
+        "past_simple": "Doubled",
+        "past_participe": "Doubled",
+        "french": "Doubler"
+    },
+    "Draw": {
+        "past_simple": "Drew",
+        "past_participe": "Drawn",
+        "french": "Dessiner"
+    },
+    "Dream": {
+        "past_simple": "Dreamt",
+        "past_participe": "Dreamt",
+        "french": "R\u00eaver"
+    },
+    "Dress": {
+        "past_simple": "Dressed",
+        "past_participe": "Dressed",
+        "french": "Habiller"
+    },
+    "Drink": {
+        "past_simple": "Drank",
+        "past_participe": "Drunk",
+        "french": "Boire"
+    },
+    "Drive": {
+        "past_simple": "Drove",
+        "past_participe": "Driven",
+        "french": "Conduire"
+    },
+    "Drop": {
+        "past_simple": "Dropped",
+        "past_participe": "Dropped",
+        "french": "Laisser tomber"
+    },
+    "Dry": {
+        "past_simple": "Dried",
+        "past_participe": "Dried",
+        "french": "S\u00e9cher"
+    },
+    "Dump": {
+        "past_simple": "Dumped",
+        "past_participe": "Dumped",
+        "french": "Decharger / laisser tomber qqch. / qqn"
+    },
+    "Dwell": {
+        "past_simple": "Dwelt",
+        "past_participe": "Dwelt",
+        "french": "Demeurer"
+    },
+    "Dye": {
+        "past_simple": "Dyed",
+        "past_participe": "Dyed",
+        "french": "Colorer"
+    },
+    "Earn": {
+        "past_simple": "Earned",
+        "past_participe": "Earned",
+        "french": "Gagner"
+    },
+    "Ease": {
+        "past_simple": "Eased",
+        "past_participe": "Eased",
+        "french": "Faciliter"
+    },
+    "Eat": {
+        "past_simple": "Ate",
+        "past_participe": "Eaten",
+        "french": "Manger"
+    },
+    "Eject": {
+        "past_simple": "Ejected",
+        "past_participe": "Ejected",
+        "french": "\u00c9jecter"
+    },
+    "Elect": {
+        "past_simple": "Elected",
+        "past_participe": "Elected",
+        "french": "\u00c9lire / choisir"
+    },
+    "Embarrass": {
+        "past_simple": "Embarrassed",
+        "past_participe": "Embarrassed",
+        "french": "Embarrasser"
+    },
+    "Embrace": {
+        "past_simple": "Embraced",
+        "past_participe": "Embraced",
+        "french": "Embrasser"
+    },
+    "Emerge": {
+        "past_simple": "Emerged",
+        "past_participe": "Emerged",
+        "french": "\u00c9merger"
+    },
+    "Enclose": {
+        "past_simple": "Enclosed",
+        "past_participe": "Enclosed",
+        "french": "Joindre / cl\u00f4turer"
+    },
+    "Encourage": {
+        "past_simple": "Encouraged",
+        "past_participe": "Encouraged",
+        "french": "Encourager"
+    },
+    "End": {
+        "past_simple": "Ended",
+        "past_participe": "Ended",
+        "french": "Finir"
+    },
+    "Engage": {
+        "past_simple": "Engaged",
+        "past_participe": "Engaged",
+        "french": "Engager"
+    },
+    "Enhance": {
+        "past_simple": "Enhanced",
+        "past_participe": "Enhanced",
+        "french": "Am\u00e9liorer"
+    },
+    "Enjoy": {
+        "past_simple": "Enjoyed",
+        "past_participe": "Enjoyed",
+        "french": "Profiter"
+    },
+    "Enquire": {
+        "past_simple": "Enquired",
+        "past_participe": "Enquired",
+        "french": "Demander"
+    },
+    "Envy": {
+        "past_simple": "Envied",
+        "past_participe": "Envied",
+        "french": "Jalouser"
+    },
+    "Erase": {
+        "past_simple": "Erased",
+        "past_participe": "Erased",
+        "french": "Effacer"
+    },
+    "Escape": {
+        "past_simple": "Escaped",
+        "past_participe": "Escaped",
+        "french": "\u00c9chapper"
+    },
+    "Exaggerate": {
+        "past_simple": "Exaggerated",
+        "past_participe": "Exaggerated",
+        "french": "Exag\u00e9rer"
+    },
+    "Excite": {
+        "past_simple": "Excited",
+        "past_participe": "Excited",
+        "french": "Exciter"
+    },
+    "Exclaim": {
+        "past_simple": "Exclaimed",
+        "past_participe": "Exclaimed",
+        "french": "Exclamer"
+    },
+    "Exclude": {
+        "past_simple": "Excluded",
+        "past_participe": "Excluded",
+        "french": "Exclure"
+    },
+    "Exist": {
+        "past_simple": "Existed",
+        "past_participe": "Existed",
+        "french": "Exister"
+    },
+    "Experience": {
+        "past_simple": "Experienced",
+        "past_participe": "Experienced",
+        "french": "Exp\u00e9rimenter"
+    },
+    "Explain": {
+        "past_simple": "Explained",
+        "past_participe": "Explained",
+        "french": "Expliquer"
+    },
+    "Expose": {
+        "past_simple": "Exposed",
+        "past_participe": "Exposed",
+        "french": "Exposer"
+    },
+    "Express": {
+        "past_simple": "Expressed",
+        "past_participe": "Expressed",
+        "french": "Exprimer"
+    },
+    "Extend": {
+        "past_simple": "Extended",
+        "past_participe": "Extended",
+        "french": "Prolonger"
+    },
+    "Extract": {
+        "past_simple": "Extracted",
+        "past_participe": "Extracted",
+        "french": "Extraire"
+    },
+    "Eye": {
+        "past_simple": "Eyed",
+        "past_participe": "Eyed",
+        "french": "Regarder"
+    },
+    "Fail": {
+        "past_simple": "Failed",
+        "past_participe": "Failed",
+        "french": "\u00c9chouer"
+    },
+    "Fall": {
+        "past_simple": "Fell",
+        "past_participe": "Fallen",
+        "french": "Tomber"
+    },
+    "Fancy": {
+        "past_simple": "Fancied",
+        "past_participe": "Fancied",
+        "french": "Avoir envie de qqch."
+    },
+    "Fasten": {
+        "past_simple": "Fastened",
+        "past_participe": "Fastened",
+        "french": "Attacher"
+    },
+    "Fatten": {
+        "past_simple": "Fattened",
+        "past_participe": "Fattened",
+        "french": "Engraisser"
+    },
+    "Fear": {
+        "past_simple": "Feared",
+        "past_participe": "Feared",
+        "french": "Avoir peur"
+    },
+    "Feed": {
+        "past_simple": "Fed",
+        "past_participe": "Fed",
+        "french": "Alimenter"
+    },
+    "Feel": {
+        "past_simple": "Felt",
+        "past_participe": "Felt",
+        "french": "Sentir"
+    },
+    "Feint": {
+        "past_simple": "Feinted",
+        "past_participe": "Feinted",
+        "french": "Faire une feinte"
+    },
+    "Fight": {
+        "past_simple": "Fought",
+        "past_participe": "Fought",
+        "french": "Combattre"
+    },
+    "File": {
+        "past_simple": "Filed",
+        "past_participe": "Filed",
+        "french": "Archiver"
+    },
+    "Fill": {
+        "past_simple": "Filled",
+        "past_participe": "Filled",
+        "french": "Remplir"
+    },
+    "Find": {
+        "past_simple": "Found",
+        "past_participe": "Found",
+        "french": "Trouver"
+    },
+    "Finish": {
+        "past_simple": "Finished",
+        "past_participe": "Finished",
+        "french": "Terminer"
+    },
+    "Fire": {
+        "past_simple": "Fired",
+        "past_participe": "Fired",
+        "french": "Tirer / Licencier"
+    },
+    "Fish": {
+        "past_simple": "Fished",
+        "past_participe": "Fished",
+        "french": "P\u00e9cher"
+    },
+    "Fix": {
+        "past_simple": "Fixed",
+        "past_participe": "Fixed",
+        "french": "R\u00e9parer"
+    },
+    "Flash": {
+        "past_simple": "Flashed",
+        "past_participe": "Flashed",
+        "french": "Clignoter"
+    },
+    "Flee": {
+        "past_simple": "Fled",
+        "past_participe": "Fled",
+        "french": "Fuir"
+    },
+    "Fling": {
+        "past_simple": "Flung",
+        "past_participe": "Flung",
+        "french": "Enfiler"
+    },
+    "Flip": {
+        "past_simple": "Flipped",
+        "past_participe": "Flipped",
+        "french": "Retourner"
+    },
+    "Flirt": {
+        "past_simple": "Flirted",
+        "past_participe": "Flirted",
+        "french": "Draguer"
+    },
+    "Flood": {
+        "past_simple": "Flooded",
+        "past_participe": "Flooded",
+        "french": "inonder"
+    },
+    "Flourish": {
+        "past_simple": "Flourished",
+        "past_participe": "Flourished",
+        "french": "S\u2019\u00e9panouir"
+    },
+    "Fly": {
+        "past_simple": "Flew",
+        "past_participe": "Flown",
+        "french": "Voler"
+    },
+    "Fold": {
+        "past_simple": "Folded",
+        "past_participe": "Folded",
+        "french": "Plier"
+    },
+    "Follow": {
+        "past_simple": "Followed",
+        "past_participe": "Followed",
+        "french": "Suivre"
+    },
+    "Fool": {
+        "past_simple": "Fooled",
+        "past_participe": "Fooled",
+        "french": "Tromper"
+    },
+    "Forbear": {
+        "past_simple": "Forebore",
+        "past_participe": "Foreborne",
+        "french": "S\u2019abstenir"
+    },
+    "Forbid": {
+        "past_simple": "Forbade",
+        "past_participe": "Forbidden",
+        "french": "Interdire"
+    },
+    "Force": {
+        "past_simple": "Forced",
+        "past_participe": "Forced",
+        "french": "Forcer"
+    },
+    "Forecast": {
+        "past_simple": "Forecast / Forecasted",
+        "past_participe": "Forecast / Forecasted",
+        "french": "Pr\u00e9voir"
+    },
+    "Forego": {
+        "past_simple": "Forewent",
+        "past_participe": "Foregone",
+        "french": "Sacrifier"
+    },
+    "Forget": {
+        "past_simple": "Forgot",
+        "past_participe": "Forgotten",
+        "french": "Oublier"
+    },
+    "Forgive": {
+        "past_simple": "Forgave",
+        "past_participe": "Forgiven",
+        "french": "Pardonner"
+    },
+    "Form": {
+        "past_simple": "Formed",
+        "past_participe": "Formed",
+        "french": "Former"
+    },
+    "Forsake": {
+        "past_simple": "Forsook",
+        "past_participe": "Forsaken",
+        "french": "Renoncer"
+    },
+    "Found": {
+        "past_simple": "Founded",
+        "past_participe": "Founded",
+        "french": "Fonder"
+    },
+    "Freeze": {
+        "past_simple": "Freezed",
+        "past_participe": "Freezed",
+        "french": "Congeler"
+    },
+    "Freshen": {
+        "past_simple": "Freshened",
+        "past_participe": "Freshened",
+        "french": "Rafra\u00eechir"
+    },
+    "Frighten": {
+        "past_simple": "Frightened",
+        "past_participe": "Frightened",
+        "french": "Effrayer"
+    },
+    "Fry": {
+        "past_simple": "Fried",
+        "past_participe": "Fried",
+        "french": "Frire"
+    },
+    "Gain": {
+        "past_simple": "Gained",
+        "past_participe": "Gained",
+        "french": "Gagner"
+    },
+    "Gamble": {
+        "past_simple": "Gambled",
+        "past_participe": "Gambled",
+        "french": "Parier"
+    },
+    "Gasp": {
+        "past_simple": "Gasped",
+        "past_participe": "Gasped",
+        "french": "Souffler / haleter"
+    },
+    "Gather": {
+        "past_simple": "Gathered",
+        "past_participe": "Gathered",
+        "french": "Recueillir / rassembler"
+    },
+    "Generalize": {
+        "past_simple": "Generalized",
+        "past_participe": "Generalized",
+        "french": "G\u00e9n\u00e9raliser"
+    },
+    "Generate": {
+        "past_simple": "Generated",
+        "past_participe": "Generated",
+        "french": "G\u00e9n\u00e9rer"
+    },
+    "Get": {
+        "past_simple": "Got",
+        "past_participe": "Got",
+        "french": "Obtenir"
+    },
+    "Give": {
+        "past_simple": "Gave",
+        "past_participe": "Given",
+        "french": "Donner"
+    },
+    "Glare": {
+        "past_simple": "Glared",
+        "past_participe": "Glared",
+        "french": "Briller / \u00e9blouir"
+    },
+    "Glimpse": {
+        "past_simple": "Glimpsed",
+        "past_participe": "Glimpsed",
+        "french": "Entrevoir"
+    },
+    "Glow": {
+        "past_simple": "Glowed",
+        "past_participe": "Glowed",
+        "french": "Briller"
+    },
+    "Glue": {
+        "past_simple": "Glued",
+        "past_participe": "Glued",
+        "french": "Coller"
+    },
+    "Go": {
+        "past_simple": "Went",
+        "past_participe": "Gone",
+        "french": "Aller"
+    },
+    "Gossip": {
+        "past_simple": "Gossiped",
+        "past_participe": "Gossiped",
+        "french": "Bavarder"
+    },
+    "Grab": {
+        "past_simple": "Grabbed",
+        "past_participe": "Grabbed",
+        "french": "Saisir"
+    },
+    "Grade": {
+        "past_simple": "Graded",
+        "past_participe": "Graded",
+        "french": "Niveler / noter"
+    },
+    "Grasp": {
+        "past_simple": "Grasped",
+        "past_participe": "Grasped",
+        "french": "Saisir / comprendre"
+    },
+    "Greet": {
+        "past_simple": "Greeted",
+        "past_participe": "Greeted",
+        "french": "Accueillir / saluer"
+    },
+    "Grieve": {
+        "past_simple": "Grieved",
+        "past_participe": "Grieved",
+        "french": "Pleurer"
+    },
+    "Grin": {
+        "past_simple": "Grined",
+        "past_participe": "Grined",
+        "french": "Sourire"
+    },
+    "Grind": {
+        "past_simple": "Ground",
+        "past_participe": "Ground",
+        "french": "Moudre"
+    },
+    "Groan": {
+        "past_simple": "Groaned",
+        "past_participe": "Groaned",
+        "french": "G\u00e9mir / maugr\u00e9er"
+    },
+    "Ground": {
+        "past_simple": "Grounded",
+        "past_participe": "Grounded",
+        "french": "S\u2019\u00e9chouer"
+    },
+    "Grow": {
+        "past_simple": "Grew",
+        "past_participe": "Grown",
+        "french": "Cro\u00eetre / Pousser"
+    },
+    "Guarantee": {
+        "past_simple": "Guaranteed",
+        "past_participe": "Guaranteed",
+        "french": "Garantir"
+    },
+    "Guess": {
+        "past_simple": "Guessed",
+        "past_participe": "Guessed",
+        "french": "Deviner"
+    },
+    "Guide": {
+        "past_simple": "Guided",
+        "past_participe": "Guided",
+        "french": "Guider"
+    },
+    "Hail": {
+        "past_simple": "Hailed",
+        "past_participe": "Hailed",
+        "french": "Saluer"
+    },
+    "Halt": {
+        "past_simple": "Halted",
+        "past_participe": "Halted",
+        "french": "Arr\u00eater"
+    },
+    "Hammer": {
+        "past_simple": "Hammered",
+        "past_participe": "Hammered",
+        "french": "Enfoncer / marteler"
+    },
+    "Hang": {
+        "past_simple": "Hung",
+        "past_participe": "Hung",
+        "french": "Accrocher"
+    },
+    "Happen": {
+        "past_simple": "Happened",
+        "past_participe": "Happened",
+        "french": "Arriver"
+    },
+    "Harden": {
+        "past_simple": "Hardened",
+        "past_participe": "Hardened",
+        "french": "Se durcir"
+    },
+    "Harvest": {
+        "past_simple": "Harvested",
+        "past_participe": "Harvested",
+        "french": "R\u00e9colter"
+    },
+    "Have": {
+        "past_simple": "Had",
+        "past_participe": "Had",
+        "french": "Avoir"
+    },
+    "Head": {
+        "past_simple": "Headed",
+        "past_participe": "Headed",
+        "french": "Diriger"
+    },
+    "Hear": {
+        "past_simple": "Heard",
+        "past_participe": "Heard",
+        "french": "Entendre"
+    },
+    "Heat": {
+        "past_simple": "Heated",
+        "past_participe": "Heated",
+        "french": "Chauffer"
+    },
+    "Heave": {
+        "past_simple": "Hove / Heaved",
+        "past_participe": "Hove / Heaved",
+        "french": "Soulever"
+    },
+    "Help": {
+        "past_simple": "Helped",
+        "past_participe": "Helped",
+        "french": "Aider"
+    },
+    "Hiccup": {
+        "past_simple": "Hiccuped",
+        "past_participe": "Hiccuped",
+        "french": "Hoqueter"
+    },
+    "Hide": {
+        "past_simple": "Hid",
+        "past_participe": "Hidden",
+        "french": "Se cacher"
+    },
+    "Hit": {
+        "past_simple": "Hit",
+        "past_participe": "Hit",
+        "french": "Frapper"
+    },
+    "Hoard": {
+        "past_simple": "Hoarded",
+        "past_participe": "Hoarded",
+        "french": "Amasser"
+    },
+    "Hold": {
+        "past_simple": "Held",
+        "past_participe": "Held",
+        "french": "Maintenir"
+    },
+    "Hook": {
+        "past_simple": "Hooked",
+        "past_participe": "Hooked",
+        "french": "Accrocher"
+    },
+    "Hop": {
+        "past_simple": "Hoped",
+        "past_participe": "Hoped",
+        "french": "Sauter"
+    },
+    "Hope": {
+        "past_simple": "Hoped",
+        "past_participe": "Hoped",
+        "french": "D\u00e9sirer"
+    },
+    "Howl": {
+        "past_simple": "Howled",
+        "past_participe": "Howled",
+        "french": "Hurler"
+    },
+    "Hug": {
+        "past_simple": "Huged",
+        "past_participe": "Huged",
+        "french": "Embrasser"
+    },
+    "Hunt": {
+        "past_simple": "Hunted",
+        "past_participe": "Hunted",
+        "french": "Chasser"
+    },
+    "Hurry": {
+        "past_simple": "Hurried",
+        "past_participe": "Hurried",
+        "french": "Se d\u00e9p\u00eacher"
+    },
+    "Hurt": {
+        "past_simple": "Hurt",
+        "past_participe": "Hurt",
+        "french": "Blesser / Faire mal"
+    },
+    "Imagine": {
+        "past_simple": "Imagined",
+        "past_participe": "Imagined",
+        "french": "Imaginer"
+    },
+    "Imitate": {
+        "past_simple": "Imitated",
+        "past_participe": "Imitated",
+        "french": "Imiter"
+    },
+    "Implore": {
+        "past_simple": "Implored",
+        "past_participe": "Implored",
+        "french": "Implorer"
+    },
+    "Imply": {
+        "past_simple": "Implied",
+        "past_participe": "Implied",
+        "french": "Impliquer"
+    },
+    "Impose": {
+        "past_simple": "Imposed",
+        "past_participe": "Imposed",
+        "french": "Imposer"
+    },
+    "Impress": {
+        "past_simple": "Impressed",
+        "past_participe": "Impressed",
+        "french": "Impressionner"
+    },
+    "Improve": {
+        "past_simple": "Improved",
+        "past_participe": "Improved",
+        "french": "Am\u00e9liorer"
+    },
+    "Improvise": {
+        "past_simple": "Improvised",
+        "past_participe": "Improvised",
+        "french": "Improviser"
+    },
+    "Include": {
+        "past_simple": "Included",
+        "past_participe": "Included",
+        "french": "Inclure"
+    },
+    "Increase": {
+        "past_simple": "Increased",
+        "past_participe": "Increased",
+        "french": "Augmenter"
+    },
+    "Inflate": {
+        "past_simple": "Inflated",
+        "past_participe": "Inflated",
+        "french": "Gonfler"
+    },
+    "Inform": {
+        "past_simple": "Informed",
+        "past_participe": "Informed",
+        "french": "Informer"
+    },
+    "Inhale": {
+        "past_simple": "Inhaled",
+        "past_participe": "Inhaled",
+        "french": "Inspirer"
+    },
+    "Initiate": {
+        "past_simple": "Initiated",
+        "past_participe": "Initiated",
+        "french": "Lancer / amorcer"
+    },
+    "Inject": {
+        "past_simple": "Injected",
+        "past_participe": "Injected",
+        "french": "Injecter"
+    },
+    "Insert": {
+        "past_simple": "Inserted",
+        "past_participe": "Inserted",
+        "french": "Ins\u00e9rer"
+    },
+    "Insist": {
+        "past_simple": "Insisted",
+        "past_participe": "Insisted",
+        "french": "Insister"
+    },
+    "Inspire": {
+        "past_simple": "Inspired",
+        "past_participe": "Inspired",
+        "french": "Inspirer"
+    },
+    "Instruct": {
+        "past_simple": "Instructed",
+        "past_participe": "Instructed",
+        "french": "Instruire"
+    },
+    "Insult": {
+        "past_simple": "Insulted",
+        "past_participe": "Insulted",
+        "french": "Insulter"
+    },
+    "Integrate": {
+        "past_simple": "Integrated",
+        "past_participe": "Integrated",
+        "french": "Int\u00e9grer"
+    },
+    "Interfere": {
+        "past_simple": "Interfered",
+        "past_participe": "Interfered",
+        "french": "Interf\u00e9rer"
+    },
+    "Invite": {
+        "past_simple": "Invited",
+        "past_participe": "Invited",
+        "french": "Inviter"
+    },
+    "Irritate": {
+        "past_simple": "Irritated",
+        "past_participe": "Irritated",
+        "french": "Irriter"
+    },
+    "Jail": {
+        "past_simple": "Jailed",
+        "past_participe": "Jailed",
+        "french": "Emprisonner"
+    },
+    "Jeopardize": {
+        "past_simple": "Jeopardized",
+        "past_participe": "Jeopardized",
+        "french": "Compromettre / mettre en danger"
+    },
+    "Jog": {
+        "past_simple": "Jogged",
+        "past_participe": "Jogged",
+        "french": "Faire du jogging"
+    },
+    "Join": {
+        "past_simple": "Joined",
+        "past_participe": "Joined",
+        "french": "Rejoindre"
+    },
+    "Judge": {
+        "past_simple": "Judged",
+        "past_participe": "Judged",
+        "french": "Juger"
+    },
+    "Jump": {
+        "past_simple": "Jumped",
+        "past_participe": "Jumped",
+        "french": "Sauter"
+    },
+    "Justify": {
+        "past_simple": "Justified",
+        "past_participe": "Justified",
+        "french": "Justifier"
+    },
+    "Keep": {
+        "past_simple": "Kept",
+        "past_participe": "Kept",
+        "french": "Garder"
+    },
+    "Kick": {
+        "past_simple": "Kicked",
+        "past_participe": "Kicked",
+        "french": "Botter"
+    },
+    "Kidnap": {
+        "past_simple": "Kidnapped",
+        "past_participe": "Kidnapped",
+        "french": "Kidnapper"
+    },
+    "Kill": {
+        "past_simple": "Killed",
+        "past_participe": "Killed",
+        "french": "Tuer"
+    },
+    "Kiss": {
+        "past_simple": "Kissed",
+        "past_participe": "Kissed",
+        "french": "Embrasser"
+    },
+    "Knee": {
+        "past_simple": "Kneed",
+        "past_participe": "Kneed",
+        "french": "Donner un coup de genou"
+    },
+    "Kneel": {
+        "past_simple": "Knelt",
+        "past_participe": "Knelt",
+        "french": "S\u2019agenouiller"
+    },
+    "Knit": {
+        "past_simple": "Knit / Knitted",
+        "past_participe": "Knit / Knitted",
+        "french": "Tricoter"
+    },
+    "Knock": {
+        "past_simple": "Knocked",
+        "past_participe": "Knocked",
+        "french": "Frapper"
+    },
+    "Knot": {
+        "past_simple": "Knotted",
+        "past_participe": "Knotted",
+        "french": "Nouer"
+    },
+    "Know": {
+        "past_simple": "Knew",
+        "past_participe": "Known",
+        "french": "Savoir"
+    },
+    "Label": {
+        "past_simple": "Labeled",
+        "past_participe": "Labeled",
+        "french": "\u00c9tiqueter"
+    },
+    "Last": {
+        "past_simple": "Lasted",
+        "past_participe": "Lasted",
+        "french": "Durer"
+    },
+    "Laugh": {
+        "past_simple": "Laughed",
+        "past_participe": "Laughed",
+        "french": "Rire"
+    },
+    "Launch": {
+        "past_simple": "Launched",
+        "past_participe": "Launched",
+        "french": "Lancer"
+    },
+    "Lay": {
+        "past_simple": "Laid",
+        "past_participe": "Laid",
+        "french": "Mettre / poser"
+    },
+    "Lead": {
+        "past_simple": "Led",
+        "past_participe": "Led",
+        "french": "Mener"
+    },
+    "Lean": {
+        "past_simple": "Leant / Leaned",
+        "past_participe": "Leant / Leaned",
+        "french": "Appuyer"
+    },
+    "Leap": {
+        "past_simple": "Leapt / Leaped",
+        "past_participe": "Leapt / Leaped",
+        "french": "Sauter"
+    },
+    "Learn": {
+        "past_simple": "Learnt",
+        "past_participe": "Learnt",
+        "french": "Apprendre"
+    },
+    "Leave": {
+        "past_simple": "Left",
+        "past_participe": "Left",
+        "french": "Laisser"
+    },
+    "Lend": {
+        "past_simple": "Lent",
+        "past_participe": "Lent",
+        "french": "Pr\u00eater"
+    },
+    "Lengthen": {
+        "past_simple": "Lengthened",
+        "past_participe": "Lengthened",
+        "french": "Allonger"
+    },
+    "Let": {
+        "past_simple": "Let",
+        "past_participe": "Let",
+        "french": "Laisser"
+    },
+    "Lick": {
+        "past_simple": "Licked",
+        "past_participe": "Licked",
+        "french": "L\u00e9cher"
+    },
+    "Lie": {
+        "past_simple": "Lay",
+        "past_participe": "Lain",
+        "french": "S\u2019allonger"
+    },
+    "Light": {
+        "past_simple": "Lit / Lighted",
+        "past_participe": "Lit / Lighted",
+        "french": "\u00c9clairer"
+    },
+    "Like": {
+        "past_simple": "Liked",
+        "past_participe": "Liked",
+        "french": "Aimer"
+    },
+    "Limit": {
+        "past_simple": "Limited",
+        "past_participe": "Limited",
+        "french": "Limiter"
+    },
+    "Link": {
+        "past_simple": "Linked",
+        "past_participe": "Linked",
+        "french": "Relier"
+    },
+    "Live": {
+        "past_simple": "Lived",
+        "past_participe": "Lived",
+        "french": "Vivre"
+    },
+    "Load": {
+        "past_simple": "Loaded",
+        "past_participe": "Loaded",
+        "french": "Charger"
+    },
+    "Lock": {
+        "past_simple": "Locked",
+        "past_participe": "Locked",
+        "french": "Verrouiller"
+    },
+    "Look": {
+        "past_simple": "Looked",
+        "past_participe": "Looked",
+        "french": "Regarder"
+    },
+    "Loosen": {
+        "past_simple": "Loosened",
+        "past_participe": "Loosened",
+        "french": "Desserrer"
+    },
+    "Lose": {
+        "past_simple": "Lost",
+        "past_participe": "Lost",
+        "french": "Perdre"
+    },
+    "Lower": {
+        "past_simple": "Lowered",
+        "past_participe": "Lowered",
+        "french": "Baisser"
+    },
+    "Maintain": {
+        "past_simple": "Maintained",
+        "past_participe": "Maintained",
+        "french": "Maintenir"
+    },
+    "Make": {
+        "past_simple": "Made",
+        "past_participe": "Made",
+        "french": "Faire"
+    },
+    "Manage": {
+        "past_simple": "Managed",
+        "past_participe": "Managed",
+        "french": "G\u00e9rer"
+    },
+    "Mark": {
+        "past_simple": "Marked",
+        "past_participe": "Marked",
+        "french": "Marquer"
+    },
+    "Marry": {
+        "past_simple": "Married",
+        "past_participe": "Married",
+        "french": "Se marier"
+    },
+    "Massage": {
+        "past_simple": "Massaged",
+        "past_participe": "Massaged",
+        "french": "Masser"
+    },
+    "Mate": {
+        "past_simple": "Mated",
+        "past_participe": "Mated",
+        "french": "Accoupler"
+    },
+    "Matter": {
+        "past_simple": "Mattered",
+        "past_participe": "Mattered",
+        "french": "Importer"
+    },
+    "Mean": {
+        "past_simple": "Meant",
+        "past_participe": "Meant",
+        "french": "Signifier"
+    },
+    "Measure": {
+        "past_simple": "Measured",
+        "past_participe": "Measured",
+        "french": "Mesurer"
+    },
+    "Medidate": {
+        "past_simple": "Medidated",
+        "past_participe": "Medidated",
+        "french": "M\u00e9diter"
+    },
+    "Meet": {
+        "past_simple": "Met",
+        "past_participe": "Met",
+        "french": "Connaitre"
+    },
+    "Melt": {
+        "past_simple": "Melted",
+        "past_participe": "Melted",
+        "french": "Fondre"
+    },
+    "Mend": {
+        "past_simple": "Mended",
+        "past_participe": "Mended",
+        "french": "R\u00e9parer"
+    },
+    "Milk": {
+        "past_simple": "Milked",
+        "past_participe": "Milked",
+        "french": "Traire"
+    },
+    "Mimic": {
+        "past_simple": "Mimicked",
+        "past_participe": "Mimicked",
+        "french": "Imiter"
+    },
+    "Mind": {
+        "past_simple": "Minded",
+        "past_participe": "Minded",
+        "french": "Penser"
+    },
+    "Mingle": {
+        "past_simple": "Mingled",
+        "past_participe": "Mingled",
+        "french": "M\u00ealer / m\u00e9langer"
+    },
+    "Mislay": {
+        "past_simple": "Mislaid",
+        "past_participe": "Mislaid",
+        "french": "\u00c9garer"
+    },
+    "Mislead": {
+        "past_simple": "Misled",
+        "past_participe": "Misled",
+        "french": "Induire en erreur"
+    },
+    "Miss": {
+        "past_simple": "Missed",
+        "past_participe": "Missed",
+        "french": "Manquer"
+    },
+    "Mistake": {
+        "past_simple": "Mistook",
+        "past_participe": "Mistaken",
+        "french": "Se tromper"
+    },
+    "Moan": {
+        "past_simple": "Moaned",
+        "past_participe": "Moaned",
+        "french": "G\u00e9mir"
+    },
+    "Mock": {
+        "past_simple": "Mocked",
+        "past_participe": "Mocked",
+        "french": "Se moquer"
+    },
+    "Monitor": {
+        "past_simple": "Monitored",
+        "past_participe": "Monitored",
+        "french": "Surveiller"
+    },
+    "Mount": {
+        "past_simple": "Mounted",
+        "past_participe": "Mounted",
+        "french": "Monter"
+    },
+    "Move": {
+        "past_simple": "Moved",
+        "past_participe": "Moved",
+        "french": "D\u00e9placer"
+    },
+    "Mow": {
+        "past_simple": "Mowed",
+        "past_participe": "Mown / Mowed",
+        "french": "Tondre"
+    },
+    "Mug": {
+        "past_simple": "Mugged",
+        "past_participe": "Mugged",
+        "french": "Attaquer"
+    },
+    "Multiply": {
+        "past_simple": "Multiplied",
+        "past_participe": "Multiplied",
+        "french": "Multiplier"
+    },
+    "Murder": {
+        "past_simple": "Murdered",
+        "past_participe": "Murdered",
+        "french": "Assassiner"
+    },
+    "Nail": {
+        "past_simple": "Nailed",
+        "past_participe": "Nailed",
+        "french": "Clouer"
+    },
+    "Name": {
+        "past_simple": "Named",
+        "past_participe": "Named",
+        "french": "Nommer"
+    },
+    "Narrow": {
+        "past_simple": "Narrowed",
+        "past_participe": "Narrowed",
+        "french": "Limiter / restreindre"
+    },
+    "Navigate": {
+        "past_simple": "Navigated",
+        "past_participe": "Navigated",
+        "french": "Naviguer"
+    },
+    "Need": {
+        "past_simple": "Needed",
+        "past_participe": "Needed",
+        "french": "Avoir besoin"
+    },
+    "Nod": {
+        "past_simple": "Nodded",
+        "past_participe": "Nodded",
+        "french": "Hocher la t\u00eate"
+    },
+    "Note": {
+        "past_simple": "Noted",
+        "past_participe": "Noted",
+        "french": "Noter"
+    },
+    "Notice": {
+        "past_simple": "Noticed",
+        "past_participe": "Noticed",
+        "french": "Notifier"
+    },
+    "Number": {
+        "past_simple": "Numbered",
+        "past_participe": "Numbered",
+        "french": "\u00c9num\u00e9rer"
+    },
+    "Object": {
+        "past_simple": "Objected",
+        "past_participe": "Objected",
+        "french": "Objecter"
+    },
+    "Observe": {
+        "past_simple": "Observed",
+        "past_participe": "Observed",
+        "french": "Observer"
+    },
+    "Obsess": {
+        "past_simple": "Obsessed",
+        "past_participe": "Obsessed",
+        "french": "Obs\u00e9der"
+    },
+    "Obtain": {
+        "past_simple": "Obtained",
+        "past_participe": "Obtained",
+        "french": "Obtenir"
+    },
+    "Occupy": {
+        "past_simple": "Occupied",
+        "past_participe": "Occupied",
+        "french": "Occuper"
+    },
+    "Offer": {
+        "past_simple": "Offered",
+        "past_participe": "Offered",
+        "french": "Offrir"
+    },
+    "Open": {
+        "past_simple": "Opened",
+        "past_participe": "Opened",
+        "french": "Ouvrir"
+    },
+    "Oppose": {
+        "past_simple": "Opposed",
+        "past_participe": "Opposed",
+        "french": "Contester"
+    },
+    "Order": {
+        "past_simple": "Ordered",
+        "past_participe": "Ordered",
+        "french": "Ordonner"
+    },
+    "Organize": {
+        "past_simple": "Organized",
+        "past_participe": "Organized",
+        "french": "Organiser"
+    },
+    "Outperform": {
+        "past_simple": "Outperformed",
+        "past_participe": "Outperformed",
+        "french": "Surpasser"
+    },
+    "Overcome": {
+        "past_simple": "Overcame",
+        "past_participe": "Overcome",
+        "french": "Surmonter / ma\u00eetriser"
+    },
+    "Overcompensate": {
+        "past_simple": "Overcompensated",
+        "past_participe": "Overcompensated",
+        "french": "Surcompenser"
+    },
+    "Overturn": {
+        "past_simple": "Overturned",
+        "past_participe": "Overturned",
+        "french": "Renverser"
+    },
+    "Owe": {
+        "past_simple": "Owed",
+        "past_participe": "Owed",
+        "french": "Devoir"
+    },
+    "Own": {
+        "past_simple": "Owned",
+        "past_participe": "Owned",
+        "french": "Poss\u00e9der"
+    },
+    "Pack": {
+        "past_simple": "Packed",
+        "past_participe": "Packed",
+        "french": "Emballer"
+    },
+    "Paint": {
+        "past_simple": "Painted",
+        "past_participe": "Painted",
+        "french": "Peindre"
+    },
+    "Panic": {
+        "past_simple": "Panicked",
+        "past_participe": "Panicked",
+        "french": "Paniquer"
+    },
+    "Pardon": {
+        "past_simple": "Pardoned",
+        "past_participe": "Pardoned",
+        "french": "Pardonner"
+    },
+    "Park": {
+        "past_simple": "Parked",
+        "past_participe": "Parked",
+        "french": "Stationner"
+    },
+    "Pass": {
+        "past_simple": "Passed",
+        "past_participe": "Passed",
+        "french": "Approuver"
+    },
+    "Pause": {
+        "past_simple": "Paused",
+        "past_participe": "Paused",
+        "french": "Arr\u00eater"
+    },
+    "Pay": {
+        "past_simple": "Paid",
+        "past_participe": "Paid",
+        "french": "Payer"
+    },
+    "Penalize": {
+        "past_simple": "Penalized",
+        "past_participe": "Penalized",
+        "french": "P\u00e9naliser"
+    },
+    "Perceive": {
+        "past_simple": "Perceived",
+        "past_participe": "Perceived",
+        "french": "Percevoir"
+    },
+    "Perform": {
+        "past_simple": "Performed",
+        "past_participe": "Performed",
+        "french": "Effectuer / accomplir"
+    },
+    "Persuade": {
+        "past_simple": "Persuaded",
+        "past_participe": "Persuaded",
+        "french": "Persuader"
+    },
+    "Pet": {
+        "past_simple": "Petted",
+        "past_participe": "Petted",
+        "french": "Caresser"
+    },
+    "Phone": {
+        "past_simple": "Phoned",
+        "past_participe": "Phoned",
+        "french": "T\u00e9l\u00e9phoner"
+    },
+    "Pick": {
+        "past_simple": "Picked",
+        "past_participe": "Picked",
+        "french": "Collecter"
+    },
+    "Picture": {
+        "past_simple": "Pictured",
+        "past_participe": "Pictured",
+        "french": "S\u2019imaginer"
+    },
+    "Place": {
+        "past_simple": "Placed",
+        "past_participe": "Placed",
+        "french": "Placer"
+    },
+    "Plan": {
+        "past_simple": "Planned",
+        "past_participe": "Planned",
+        "french": "Planifier"
+    },
+    "Plant": {
+        "past_simple": "Planted",
+        "past_participe": "Planted",
+        "french": "Planter"
+    },
+    "Play": {
+        "past_simple": "Played",
+        "past_participe": "Played",
+        "french": "Jouer"
+    },
+    "Please": {
+        "past_simple": "Pleased",
+        "past_participe": "Pleased",
+        "french": "Faire plaisir"
+    },
+    "Pledge": {
+        "past_simple": "Pledged",
+        "past_participe": "Pledged",
+        "french": "Engager / promettre"
+    },
+    "Plug": {
+        "past_simple": "Plugged",
+        "past_participe": "Plugged",
+        "french": "Brancher"
+    },
+    "Pose": {
+        "past_simple": "Posed",
+        "past_participe": "Posed",
+        "french": "Poser"
+    },
+    "Post": {
+        "past_simple": "Posted",
+        "past_participe": "Posted",
+        "french": "Poster"
+    },
+    "Pour": {
+        "past_simple": "Poured",
+        "past_participe": "Poured",
+        "french": "Verser"
+    },
+    "Practice": {
+        "past_simple": "Practiced",
+        "past_participe": "Practiced",
+        "french": "Pratiquer"
+    },
+    "Praise": {
+        "past_simple": "Praised",
+        "past_participe": "Praised",
+        "french": "F\u00e9liciter"
+    },
+    "Pray": {
+        "past_simple": "Prayed",
+        "past_participe": "Prayed",
+        "french": "Prier"
+    },
+    "Preach": {
+        "past_simple": "Preached",
+        "past_participe": "Preached",
+        "french": "Pr\u00eacher"
+    },
+    "Prefer": {
+        "past_simple": "Prefered",
+        "past_participe": "Prefered",
+        "french": "Pr\u00e9f\u00e9rer"
+    },
+    "Prepare": {
+        "past_simple": "Prepared",
+        "past_participe": "Prepared",
+        "french": "Pr\u00e9parer"
+    },
+    "Preserve": {
+        "past_simple": "Preserved",
+        "past_participe": "Preserved",
+        "french": "Pr\u00e9server"
+    },
+    "Pretend": {
+        "past_simple": "Pretended",
+        "past_participe": "Pretended",
+        "french": "Pr\u00e9tendre"
+    },
+    "Prevent": {
+        "past_simple": "Prevented",
+        "past_participe": "Prevented",
+        "french": "Pr\u00e9venir"
+    },
+    "Proceed": {
+        "past_simple": "Proceeded",
+        "past_participe": "Proceeded",
+        "french": "Proc\u00e9der"
+    },
+    "Procrastinate": {
+        "past_simple": "Procrastinated",
+        "past_participe": "Procrastinated",
+        "french": "Tergiverser"
+    },
+    "Promise": {
+        "past_simple": "Promised",
+        "past_participe": "Promised",
+        "french": "Promettre"
+    },
+    "Pronounce": {
+        "past_simple": "Pronounced",
+        "past_participe": "Pronounced",
+        "french": "Prononcer"
+    },
+    "Propose": {
+        "past_simple": "Proposed",
+        "past_participe": "Proposed",
+        "french": "Proposer"
+    },
+    "Protect": {
+        "past_simple": "Protected",
+        "past_participe": "Protected",
+        "french": "Prot\u00e9ger"
+    },
+    "Publish": {
+        "past_simple": "Published",
+        "past_participe": "Published",
+        "french": "Publier"
+    },
+    "Pull": {
+        "past_simple": "Pulled",
+        "past_participe": "Pulled",
+        "french": "Tirer"
+    },
+    "Punish": {
+        "past_simple": "Punished",
+        "past_participe": "Punished",
+        "french": "Punir"
+    },
+    "Purr": {
+        "past_simple": "Purred",
+        "past_participe": "Purred",
+        "french": "Ronronner"
+    },
+    "Push": {
+        "past_simple": "Pushed",
+        "past_participe": "Pushed",
+        "french": "Pousser"
+    },
+    "Put": {
+        "past_simple": "Put",
+        "past_participe": "Put",
+        "french": "Mettre"
+    },
+    "Question": {
+        "past_simple": "Questioned",
+        "past_participe": "Questioned",
+        "french": "Interroger"
+    },
+    "Quit": {
+        "past_simple": "Quit",
+        "past_participe": "Quit",
+        "french": "Abandonner"
+    },
+    "Quiz": {
+        "past_simple": "Quized",
+        "past_participe": "Quized",
+        "french": "Interroger"
+    },
+    "Quote": {
+        "past_simple": "Quoted",
+        "past_participe": "Quoted",
+        "french": "Citer / faire un devis"
+    },
+    "Race": {
+        "past_simple": "Raced",
+        "past_participe": "Raced",
+        "french": "Faire la course"
+    },
+    "Rain": {
+        "past_simple": "Rained",
+        "past_participe": "Rained",
+        "french": "Pleuvoir"
+    },
+    "Raise": {
+        "past_simple": "Raised",
+        "past_participe": "Raised",
+        "french": "Lever"
+    },
+    "Ramble": {
+        "past_simple": "Rambled",
+        "past_participe": "Rambled",
+        "french": "Divaguer"
+    },
+    "Rant": {
+        "past_simple": "Ranted",
+        "past_participe": "Ranted",
+        "french": "Fulminer"
+    },
+    "Ratify": {
+        "past_simple": "Ratified",
+        "past_participe": "Ratified",
+        "french": "Ratifier"
+    },
+    "Reach": {
+        "past_simple": "Reached",
+        "past_participe": "Reached",
+        "french": "Atteindre"
+    },
+    "React": {
+        "past_simple": "Reacted",
+        "past_participe": "Reacted",
+        "french": "R\u00e9agir"
+    },
+    "Read": {
+        "past_simple": "Read",
+        "past_participe": "Read",
+        "french": "Lire"
+    },
+    "Realise": {
+        "past_simple": "Realised",
+        "past_participe": "Realised",
+        "french": "R\u00e9aliser"
+    },
+    "Reassess": {
+        "past_simple": "Reassessed",
+        "past_participe": "Reassessed",
+        "french": "R\u00e9\u00e9valuer"
+    },
+    "Recall": {
+        "past_simple": "Recalled",
+        "past_participe": "Recalled",
+        "french": "Rappeler"
+    },
+    "Receive": {
+        "past_simple": "Received",
+        "past_participe": "Received",
+        "french": "Recevoir"
+    },
+    "Recognise": {
+        "past_simple": "Recognised",
+        "past_participe": "Recognised",
+        "french": "Reconna\u00eetre"
+    },
+    "Reconsider": {
+        "past_simple": "Reconsidered",
+        "past_participe": "Reconsidered",
+        "french": "Reconsid\u00e9rer"
+    },
+    "Redirect": {
+        "past_simple": "Redirected",
+        "past_participe": "Redirected",
+        "french": "Rediriger"
+    },
+    "Refill": {
+        "past_simple": "Refilled",
+        "past_participe": "Refilled",
+        "french": "Recharger"
+    },
+    "Refuse": {
+        "past_simple": "Refused",
+        "past_participe": "Refused",
+        "french": "Refuser"
+    },
+    "Register": {
+        "past_simple": "Registered",
+        "past_participe": "Registered",
+        "french": "S\u2019inscrire"
+    },
+    "Regret": {
+        "past_simple": "Regretted",
+        "past_participe": "Regretted",
+        "french": "Regretter"
+    },
+    "Reject": {
+        "past_simple": "Rejected",
+        "past_participe": "Rejected",
+        "french": "Rejeter"
+    },
+    "Release": {
+        "past_simple": "Released",
+        "past_participe": "Released",
+        "french": "Lib\u00e9rer"
+    },
+    "Remain": {
+        "past_simple": "Remained",
+        "past_participe": "Remained",
+        "french": "Rester"
+    },
+    "Remember": {
+        "past_simple": "Remembered",
+        "past_participe": "Remembered",
+        "french": "Rappeler"
+    },
+    "Rend": {
+        "past_simple": "Rent",
+        "past_participe": "Rent",
+        "french": "D\u00e9chirer"
+    },
+    "Rent": {
+        "past_simple": "Rented",
+        "past_participe": "Rented",
+        "french": "Louer"
+    },
+    "Repair": {
+        "past_simple": "Repaired",
+        "past_participe": "Repaired",
+        "french": "R\u00e9parer"
+    },
+    "Repeat": {
+        "past_simple": "Repeated",
+        "past_participe": "Repeated",
+        "french": "R\u00e9p\u00e9ter"
+    },
+    "Replace": {
+        "past_simple": "Replaced",
+        "past_participe": "Replaced",
+        "french": "Remplacer"
+    },
+    "Report": {
+        "past_simple": "Reported",
+        "past_participe": "Reported",
+        "french": "Signaler"
+    },
+    "Request": {
+        "past_simple": "Requested",
+        "past_participe": "Requested",
+        "french": "Demander"
+    },
+    "Require": {
+        "past_simple": "Required",
+        "past_participe": "Required",
+        "french": "Exiger"
+    },
+    "Rescue": {
+        "past_simple": "Rescued",
+        "past_participe": "Rescued",
+        "french": "Secourir"
+    },
+    "Reserve": {
+        "past_simple": "Reserved",
+        "past_participe": "Reserved",
+        "french": "R\u00e9server"
+    },
+    "Resist": {
+        "past_simple": "Resisted",
+        "past_participe": "Resisted",
+        "french": "R\u00e9sister"
+    },
+    "Resolve": {
+        "past_simple": "Resolved",
+        "past_participe": "Resolved",
+        "french": "R\u00e9soudre"
+    },
+    "Respond": {
+        "past_simple": "Responded",
+        "past_participe": "Responded",
+        "french": "R\u00e9pondre"
+    },
+    "Rest": {
+        "past_simple": "Rested",
+        "past_participe": "Rested",
+        "french": "Se reposer"
+    },
+    "Resume": {
+        "past_simple": "Resumed",
+        "past_participe": "Resumed",
+        "french": "Reprendre / continuer"
+    },
+    "Retire": {
+        "past_simple": "Retired",
+        "past_participe": "Retired",
+        "french": "Prendre sa retraite / se retirer"
+    },
+    "Review": {
+        "past_simple": "Reviewed",
+        "past_participe": "Reviewed",
+        "french": "Examiner / revoir"
+    },
+    "Revive": {
+        "past_simple": "Revived",
+        "past_participe": "Revived",
+        "french": "Ranimer"
+    },
+    "Rhyme": {
+        "past_simple": "Rhymed",
+        "past_participe": "Rhymed",
+        "french": "Rimer"
+    },
+    "Rid": {
+        "past_simple": "Rid",
+        "past_participe": "Rid",
+        "french": "\u00c9liminer"
+    },
+    "Ride": {
+        "past_simple": "Rode",
+        "past_participe": "Ridden",
+        "french": "Monter"
+    },
+    "Ring": {
+        "past_simple": "Rang",
+        "past_participe": "Rung",
+        "french": "T\u00e9l\u00e9phoner"
+    },
+    "Rip": {
+        "past_simple": "Ripped",
+        "past_participe": "Ripped",
+        "french": "D\u00e9chirer"
+    },
+    "Rise": {
+        "past_simple": "Rose",
+        "past_participe": "Risen",
+        "french": "\u00c9lever"
+    },
+    "Risk": {
+        "past_simple": "Risked",
+        "past_participe": "Risked",
+        "french": "Risquer"
+    },
+    "Roar": {
+        "past_simple": "Roared",
+        "past_participe": "Roared",
+        "french": "Rugir"
+    },
+    "Rot": {
+        "past_simple": "Rot",
+        "past_participe": "Rotten",
+        "french": "Pourrir"
+    },
+    "Ruin": {
+        "past_simple": "Ruined",
+        "past_participe": "Ruined",
+        "french": "Ruiner"
+    },
+    "Rule": {
+        "past_simple": "Ruled",
+        "past_participe": "Ruled",
+        "french": "Gouverner"
+    },
+    "Run": {
+        "past_simple": "Ran",
+        "past_participe": "Run",
+        "french": "Courir"
+    },
+    "Rush": {
+        "past_simple": "Rushed",
+        "past_participe": "Rushed",
+        "french": "Se pr\u00e9cipiter"
+    },
+    "Sack": {
+        "past_simple": "Sacked",
+        "past_participe": "Sacked",
+        "french": "Renvoyer"
+    },
+    "Sail": {
+        "past_simple": "Sailed",
+        "past_participe": "Sailed",
+        "french": "Naviguer"
+    },
+    "Save": {
+        "past_simple": "Saved",
+        "past_participe": "Saved",
+        "french": "Sauver"
+    },
+    "Saw": {
+        "past_simple": "Sawed",
+        "past_participe": "Sawn / Sawed",
+        "french": "Scier"
+    },
+    "Say": {
+        "past_simple": "Said",
+        "past_participe": "Said",
+        "french": "Dire"
+    },
+    "Scale": {
+        "past_simple": "Scaled",
+        "past_participe": "Scaled",
+        "french": "Escalader"
+    },
+    "Scan": {
+        "past_simple": "Scanned",
+        "past_participe": "Scanned",
+        "french": "Num\u00e9riser"
+    },
+    "School": {
+        "past_simple": "Schooled",
+        "past_participe": "Schooled",
+        "french": "Scolariser"
+    },
+    "Scrape": {
+        "past_simple": "Scraped",
+        "past_participe": "Scraped",
+        "french": "Gratter"
+    },
+    "Scream": {
+        "past_simple": "Screamed",
+        "past_participe": "Screamed",
+        "french": "Hurler"
+    },
+    "Screw": {
+        "past_simple": "Screwed",
+        "past_participe": "Screwed",
+        "french": "Visser"
+    },
+    "Scrub": {
+        "past_simple": "Scrubbed",
+        "past_participe": "Scrubbed",
+        "french": "Frotter"
+    },
+    "Search": {
+        "past_simple": "Searched",
+        "past_participe": "Searched",
+        "french": "Chercher"
+    },
+    "See": {
+        "past_simple": "Saw",
+        "past_participe": "Seen",
+        "french": "Voir"
+    },
+    "Seek": {
+        "past_simple": "Sought",
+        "past_participe": "Sought",
+        "french": "Chercher"
+    },
+    "Seem": {
+        "past_simple": "Seemed",
+        "past_participe": "Seemed",
+        "french": "Sembler"
+    },
+    "Sell": {
+        "past_simple": "Sold",
+        "past_participe": "Sold",
+        "french": "Vendre"
+    },
+    "Send": {
+        "past_simple": "Sent",
+        "past_participe": "Sent",
+        "french": "Envoyer"
+    },
+    "Serve": {
+        "past_simple": "Served",
+        "past_participe": "Served",
+        "french": "Servir"
+    },
+    "Set": {
+        "past_simple": "Set",
+        "past_participe": "Set",
+        "french": "Fixer"
+    },
+    "Sew": {
+        "past_simple": "Sewed",
+        "past_participe": "Sewn/Sewed",
+        "french": "Coudre"
+    },
+    "Shake": {
+        "past_simple": "Shook",
+        "past_participe": "Shaken",
+        "french": "Secouer"
+    },
+    "Shave": {
+        "past_simple": "Shaved",
+        "past_participe": "Shaven / Shaved",
+        "french": "Raser"
+    },
+    "Shear": {
+        "past_simple": "Sheared",
+        "past_participe": "Shorn / Sheared",
+        "french": "Tondre / cisailler"
+    },
+    "Shed": {
+        "past_simple": "Shed",
+        "past_participe": "Shed",
+        "french": "Verser / perdre"
+    },
+    "Shelter": {
+        "past_simple": "Sheltered",
+        "past_participe": "Sheltered",
+        "french": "Abriter"
+    },
+    "Shine": {
+        "past_simple": "Shone",
+        "past_participe": "Shone",
+        "french": "Briller"
+    },
+    "Shoot": {
+        "past_simple": "Shot",
+        "past_participe": "Shot",
+        "french": "Tirer / Licencier"
+    },
+    "Shop": {
+        "past_simple": "Shoped",
+        "past_participe": "Shoped",
+        "french": "Faire des courses"
+    },
+    "Shorten": {
+        "past_simple": "Shortened",
+        "past_participe": "Shortened",
+        "french": "R\u00e9duire"
+    },
+    "Show": {
+        "past_simple": "Showed",
+        "past_participe": "Shown/Showed",
+        "french": "Montrer"
+    },
+    "Shower": {
+        "past_simple": "Showered",
+        "past_participe": "Showered",
+        "french": "Prendre une douche"
+    },
+    "Shrink": {
+        "past_simple": "Shrank/Shrunk",
+        "past_participe": "Shrunk",
+        "french": "R\u00e9tr\u00e9cir"
+    },
+    "Shut": {
+        "past_simple": "Shut",
+        "past_participe": "Shut",
+        "french": "Fermer"
+    },
+    "Sigh": {
+        "past_simple": "Sighed",
+        "past_participe": "Sighed",
+        "french": "Soupirer"
+    },
+    "Sign": {
+        "past_simple": "Signed",
+        "past_participe": "Signed",
+        "french": "Signer"
+    },
+    "Sing": {
+        "past_simple": "Sang",
+        "past_participe": "Sung",
+        "french": "Chanter"
+    },
+    "Sink": {
+        "past_simple": "Sank",
+        "past_participe": "Sunk",
+        "french": "Couler"
+    },
+    "Sit": {
+        "past_simple": "Sat",
+        "past_participe": "Sat",
+        "french": "S\u2019asseoir"
+    },
+    "Skip": {
+        "past_simple": "Skipped",
+        "past_participe": "Skipped",
+        "french": "Ignorer"
+    },
+    "Slay": {
+        "past_simple": "Slew",
+        "past_participe": "Slain",
+        "french": "Tuer"
+    },
+    "Sleep": {
+        "past_simple": "Slept",
+        "past_participe": "Slept",
+        "french": "Dormir"
+    },
+    "Slice": {
+        "past_simple": "Sliced",
+        "past_participe": "Sliced",
+        "french": "Couper"
+    },
+    "Slide": {
+        "past_simple": "Slid",
+        "past_participe": "Slid",
+        "french": "Se glisser"
+    },
+    "Sling": {
+        "past_simple": "Slung",
+        "past_participe": "Slung",
+        "french": "Lancer"
+    },
+    "Slip": {
+        "past_simple": "Sliped",
+        "past_participe": "Sliped",
+        "french": "Glisser"
+    },
+    "Slit": {
+        "past_simple": "Slit",
+        "past_participe": "Slit",
+        "french": "Trancher / fendre"
+    },
+    "Slow": {
+        "past_simple": "Slowed",
+        "past_participe": "Slowed",
+        "french": "Ralentir"
+    },
+    "Smell": {
+        "past_simple": "Smelt / Smelled",
+        "past_participe": "Smelt / Smelled",
+        "french": "Sentir"
+    },
+    "Smile": {
+        "past_simple": "Smiled",
+        "past_participe": "Smiled",
+        "french": "Sourire"
+    },
+    "Smoke": {
+        "past_simple": "Smoked",
+        "past_participe": "Smoked",
+        "french": "Fumer"
+    },
+    "Snap": {
+        "past_simple": "Snaped",
+        "past_participe": "Snaped",
+        "french": "Accrocher"
+    },
+    "Snore": {
+        "past_simple": "Snored",
+        "past_participe": "Snored",
+        "french": "Ronfler"
+    },
+    "Soak": {
+        "past_simple": "Soaked",
+        "past_participe": "Soaked",
+        "french": "Tremper"
+    },
+    "Sound": {
+        "past_simple": "Sounded",
+        "past_participe": "Sounded",
+        "french": "R\u00eaver"
+    },
+    "Sow": {
+        "past_simple": "Sowed",
+        "past_participe": "Sown",
+        "french": "Semer"
+    },
+    "Spare": {
+        "past_simple": "Spared",
+        "past_participe": "Spared",
+        "french": "\u00c9pargner"
+    },
+    "Speak": {
+        "past_simple": "Spoke",
+        "past_participe": "Spoken",
+        "french": "Parler"
+    },
+    "Speed": {
+        "past_simple": "Sped / Speeded",
+        "past_participe": "Sped / Speeded",
+        "french": "Galoper"
+    },
+    "Spell": {
+        "past_simple": "spelled",
+        "past_participe": "spelled",
+        "french": "\u00c9peler"
+    },
+    "Spend": {
+        "past_simple": "Spent",
+        "past_participe": "Spent",
+        "french": "Co\u00fbter"
+    },
+    "Spill": {
+        "past_simple": "Spilt",
+        "past_participe": "Spilt",
+        "french": "Renverser"
+    },
+    "Spin": {
+        "past_simple": "Span",
+        "past_participe": "Spun",
+        "french": "Tourner"
+    },
+    "Spit": {
+        "past_simple": "Spat",
+        "past_participe": "Spat",
+        "french": "Cracher"
+    },
+    "Split": {
+        "past_simple": "Split",
+        "past_participe": "Split",
+        "french": "Diviser"
+    },
+    "Spoil": {
+        "past_simple": "Spoilt/Spoiled",
+        "past_participe": "Spoilt/Spoiled",
+        "french": "Ab\u00eemer"
+    },
+    "Spray": {
+        "past_simple": "Sprayed",
+        "past_participe": "Sprayed",
+        "french": "Pulv\u00e9riser"
+    },
+    "Spread": {
+        "past_simple": "Spread",
+        "past_participe": "Spread",
+        "french": "Propager"
+    },
+    "Spring": {
+        "past_simple": "Sprang",
+        "past_participe": "Sprung",
+        "french": "sauter"
+    },
+    "Sprinkle": {
+        "past_simple": "Sprinkled",
+        "past_participe": "Sprinkled",
+        "french": "Saupoudrer / asperger"
+    },
+    "Spy": {
+        "past_simple": "Spied",
+        "past_participe": "Spied",
+        "french": "Espionner"
+    },
+    "Squeeze": {
+        "past_simple": "Squeezed",
+        "past_participe": "Squeezed",
+        "french": "Presser"
+    },
+    "Stammer": {
+        "past_simple": "Stammered",
+        "past_participe": "Stammered",
+        "french": "Balbutier"
+    },
+    "Stand": {
+        "past_simple": "Stood",
+        "past_participe": "Stood",
+        "french": "Se tenir debout"
+    },
+    "Start": {
+        "past_simple": "Started",
+        "past_participe": "Started",
+        "french": "D\u00e9marrer"
+    },
+    "Stay": {
+        "past_simple": "Stayed",
+        "past_participe": "Stayed",
+        "french": "Demeurer"
+    },
+    "Steal": {
+        "past_simple": "Stole",
+        "past_participe": "Stolen",
+        "french": "Voler"
+    },
+    "Stick": {
+        "past_simple": "Stuck",
+        "past_participe": "Stuck",
+        "french": "Coller"
+    },
+    "Sting": {
+        "past_simple": "Stung",
+        "past_participe": "Stung",
+        "french": "D\u00e9manger"
+    },
+    "Stink": {
+        "past_simple": "Stank/Stunk",
+        "past_participe": "Stunk",
+        "french": "Puer"
+    },
+    "Stop": {
+        "past_simple": "Stopped",
+        "past_participe": "Stopped",
+        "french": "Arr\u00eater"
+    },
+    "Strew": {
+        "past_simple": "Strewed",
+        "past_participe": "Strewn / Strewed",
+        "french": "\u00c9parpiller"
+    },
+    "Stride": {
+        "past_simple": "Strode",
+        "past_participe": "Stridden",
+        "french": "Marcher \u00e0 grands pas"
+    },
+    "Strike": {
+        "past_simple": "Struck",
+        "past_participe": "Struck",
+        "french": "Trouver"
+    },
+    "String": {
+        "past_simple": "Strung",
+        "past_participe": "Strung",
+        "french": "D\u00e9filer"
+    },
+    "Strive": {
+        "past_simple": "Strove",
+        "past_participe": "Striven",
+        "french": "S\u2019efforcer de"
+    },
+    "Study": {
+        "past_simple": "Studied",
+        "past_participe": "Studied",
+        "french": "\u00c9tudier"
+    },
+    "Suffer": {
+        "past_simple": "Suffered",
+        "past_participe": "Suffered",
+        "french": "Souffrir"
+    },
+    "Surprise": {
+        "past_simple": "Surprised",
+        "past_participe": "Surprised",
+        "french": "Surprendre"
+    },
+    "Swear": {
+        "past_simple": "Swore",
+        "past_participe": "Sworn",
+        "french": "Jurer"
+    },
+    "Sweat": {
+        "past_simple": "Sweat",
+        "past_participe": "Sweat",
+        "french": "Transpirer"
+    },
+    "Sweep": {
+        "past_simple": "Swept",
+        "past_participe": "Swept",
+        "french": "Balayer"
+    },
+    "Swell": {
+        "past_simple": "Swelled",
+        "past_participe": "Swollen / Swelled",
+        "french": "Gonfler"
+    },
+    "Swim": {
+        "past_simple": "Swam",
+        "past_participe": "Swum",
+        "french": "Nager"
+    },
+    "Swing": {
+        "past_simple": "Swung",
+        "past_participe": "Swung",
+        "french": "Basculer"
+    },
+    "Tailor": {
+        "past_simple": "Tailored",
+        "past_participe": "Tailored",
+        "french": "Adapter / personnaliser"
+    },
+    "Take": {
+        "past_simple": "Took",
+        "past_participe": "Taken",
+        "french": "Prendre"
+    },
+    "Talk": {
+        "past_simple": "Talked",
+        "past_participe": "Talked",
+        "french": "Parler"
+    },
+    "Tap": {
+        "past_simple": "Taped",
+        "past_participe": "Taped",
+        "french": "Donner des petits coups"
+    },
+    "Target": {
+        "past_simple": "Targeted",
+        "past_participe": "Targeted",
+        "french": "Cibler / viser"
+    },
+    "Taste": {
+        "past_simple": "Tasted",
+        "past_participe": "Tasted",
+        "french": "Essayer"
+    },
+    "Teach": {
+        "past_simple": "Taught",
+        "past_participe": "Taught",
+        "french": "Enseigner"
+    },
+    "Tear": {
+        "past_simple": "Tore",
+        "past_participe": "Torn",
+        "french": "D\u00e9chirer"
+    },
+    "Tease": {
+        "past_simple": "Teased",
+        "past_participe": "Teased",
+        "french": "Taquiner"
+    },
+    "Tell": {
+        "past_simple": "Told",
+        "past_participe": "Told",
+        "french": "Dire"
+    },
+    "Tend": {
+        "past_simple": "Tended",
+        "past_participe": "Tended",
+        "french": "Tendre"
+    },
+    "Terrify": {
+        "past_simple": "Terrified",
+        "past_participe": "Terrified",
+        "french": "Terroriser"
+    },
+    "Test": {
+        "past_simple": "Tested",
+        "past_participe": "Tested",
+        "french": "Tester"
+    },
+    "Thank": {
+        "past_simple": "Thanked",
+        "past_participe": "Thanked",
+        "french": "Remercier"
+    },
+    "Think": {
+        "past_simple": "Thought",
+        "past_participe": "Thought",
+        "french": "Penser"
+    },
+    "Thrive": {
+        "past_simple": "Throve / Thrived",
+        "past_participe": "Thriven / Thrived",
+        "french": "Prosp\u00e9rer"
+    },
+    "Throw": {
+        "past_simple": "Threw",
+        "past_participe": "Thrown",
+        "french": "Lancer"
+    },
+    "Thrust": {
+        "past_simple": "Thrust",
+        "past_participe": "Thrust",
+        "french": "Fourrer / plonger"
+    },
+    "Tick": {
+        "past_simple": "Ticked",
+        "past_participe": "Ticked",
+        "french": "Cocher"
+    },
+    "Tickle": {
+        "past_simple": "Tickled",
+        "past_participe": "Tickled",
+        "french": "Chatouiller"
+    },
+    "Tie": {
+        "past_simple": "Tied",
+        "past_participe": "Tied",
+        "french": "Attacher"
+    },
+    "Tolerate": {
+        "past_simple": "Tolerated",
+        "past_participe": "Tolerated",
+        "french": "Tol\u00e9rer"
+    },
+    "Touch": {
+        "past_simple": "Touched",
+        "past_participe": "Touched",
+        "french": "Toucher"
+    },
+    "Toughen": {
+        "past_simple": "Toughened",
+        "past_participe": "Toughened",
+        "french": "Renforcer"
+    },
+    "Toy": {
+        "past_simple": "Toyed",
+        "past_participe": "Toyed",
+        "french": "Jouer"
+    },
+    "Trade": {
+        "past_simple": "Traded",
+        "past_participe": "Traded",
+        "french": "Commercer / \u00e9changer"
+    },
+    "Train": {
+        "past_simple": "Trained",
+        "past_participe": "Trained",
+        "french": "Entra\u00eener"
+    },
+    "Tranquilize": {
+        "past_simple": "Tranquilized",
+        "past_participe": "Tranquilized",
+        "french": "Tranquilliser"
+    },
+    "Translate": {
+        "past_simple": "Translated",
+        "past_participe": "Translated",
+        "french": "Traduire"
+    },
+    "Transpire": {
+        "past_simple": "Transpired",
+        "past_participe": "Transpired",
+        "french": "Transpirer"
+    },
+    "Trap": {
+        "past_simple": "Trapped",
+        "past_participe": "Trapped",
+        "french": "Pi\u00e9ger"
+    },
+    "Travel": {
+        "past_simple": "Traveled",
+        "past_participe": "Traveled",
+        "french": "Voyager"
+    },
+    "Trick": {
+        "past_simple": "Tricked",
+        "past_participe": "Tricked",
+        "french": "Tromper"
+    },
+    "Trim": {
+        "past_simple": "Trimed",
+        "past_participe": "Trimed",
+        "french": "D\u00e9couper"
+    },
+    "Triumph": {
+        "past_simple": "Triumphed",
+        "past_participe": "Triumphed",
+        "french": "Triompher"
+    },
+    "Trouble": {
+        "past_simple": "Troubled",
+        "past_participe": "Troubled",
+        "french": "Troubler"
+    },
+    "Trust": {
+        "past_simple": "Trusted",
+        "past_participe": "Trusted",
+        "french": "Faire confiance"
+    },
+    "Try": {
+        "past_simple": "Tried",
+        "past_participe": "Tried",
+        "french": "Essayer"
+    },
+    "Tuck": {
+        "past_simple": "Tucked",
+        "past_participe": "Tucked",
+        "french": "Rentrer / replier"
+    },
+    "Tune": {
+        "past_simple": "Tuned",
+        "past_participe": "Tuned",
+        "french": "Ajuster / accorder"
+    },
+    "Turn": {
+        "past_simple": "Turned",
+        "past_participe": "Turned",
+        "french": "Tourner"
+    },
+    "Twist": {
+        "past_simple": "Twisted",
+        "past_participe": "Twisted",
+        "french": "Tourner / tordre"
+    },
+    "Type": {
+        "past_simple": "Typed",
+        "past_participe": "Typed",
+        "french": "Taper / dactylographier"
+    },
+    "Unbutton": {
+        "past_simple": "Unbuttoned",
+        "past_participe": "Unbuttoned",
+        "french": "D\u00e9boutonner"
+    },
+    "Uncover": {
+        "past_simple": "Uncovered",
+        "past_participe": "Uncovered",
+        "french": "R\u00e9v\u00e9ler"
+    },
+    "Underestimate": {
+        "past_simple": "Underestimated",
+        "past_participe": "Underestimated",
+        "french": "Sous-estimer"
+    },
+    "Undergo": {
+        "past_simple": "Underwent",
+        "past_participe": "Undergone",
+        "french": "Subir"
+    },
+    "Underline": {
+        "past_simple": "Underlined",
+        "past_participe": "Underlined",
+        "french": "Souligner"
+    },
+    "Understand": {
+        "past_simple": "Understood",
+        "past_participe": "Understood",
+        "french": "Comprendre"
+    },
+    "Undertake": {
+        "past_simple": "Undertook",
+        "past_participe": "Undertaken",
+        "french": "Entreprendre"
+    },
+    "Undress": {
+        "past_simple": "Undressed",
+        "past_participe": "Undressed",
+        "french": "Se d\u00e9shabiller"
+    },
+    "Unfold": {
+        "past_simple": "Unfolded",
+        "past_participe": "Unfolded",
+        "french": "D\u00e9plier"
+    },
+    "Unite": {
+        "past_simple": "United",
+        "past_participe": "United",
+        "french": "Unir"
+    },
+    "Unlock": {
+        "past_simple": "Unlocked",
+        "past_participe": "Unlocked",
+        "french": "D\u00e9verrouiller"
+    },
+    "Unmask": {
+        "past_simple": "Unmasked",
+        "past_participe": "Unmasked",
+        "french": "D\u00e9masquer"
+    },
+    "Unpack": {
+        "past_simple": "Unpacked",
+        "past_participe": "Unpacked",
+        "french": "D\u00e9baller"
+    },
+    "Untie": {
+        "past_simple": "Untied",
+        "past_participe": "Untied",
+        "french": "D\u00e9lier"
+    },
+    "Uplift": {
+        "past_simple": "Uplifted",
+        "past_participe": "Uplifted",
+        "french": "\u00c9lever"
+    },
+    "Upset": {
+        "past_simple": "Upset",
+        "past_participe": "Upset",
+        "french": "Bouleverser"
+    },
+    "Use": {
+        "past_simple": "Used",
+        "past_participe": "Used",
+        "french": "Utiliser"
+    },
+    "Utter": {
+        "past_simple": "Uttered",
+        "past_participe": "Uttered",
+        "french": "Prononcer"
+    },
+    "Vacate": {
+        "past_simple": "Vacated",
+        "past_participe": "Vacated",
+        "french": "Quitter / lib\u00e9rer"
+    },
+    "Vacuum": {
+        "past_simple": "Vacuumed",
+        "past_participe": "Vacuumed",
+        "french": "Aspirer"
+    },
+    "Value": {
+        "past_simple": "Valued",
+        "past_participe": "Valued",
+        "french": "\u00c9valuer"
+    },
+    "Vandalize": {
+        "past_simple": "Vandalized",
+        "past_participe": "Vandalized",
+        "french": "Vandaliser"
+    },
+    "Vanish": {
+        "past_simple": "Vanished",
+        "past_participe": "Vanished",
+        "french": "Dispara\u00eetre"
+    },
+    "Vary": {
+        "past_simple": "Varied",
+        "past_participe": "Varied",
+        "french": "Varier"
+    },
+    "Vent": {
+        "past_simple": "Vented",
+        "past_participe": "Vented",
+        "french": "Passer / \u00e9vacuer"
+    },
+    "Verify": {
+        "past_simple": "Verified",
+        "past_participe": "Verified",
+        "french": "V\u00e9rifier"
+    },
+    "Vibrate": {
+        "past_simple": "Vibrated",
+        "past_participe": "Vibrated",
+        "french": "Vibrer"
+    },
+    "View": {
+        "past_simple": "Viewed",
+        "past_participe": "Viewed",
+        "french": "Voir"
+    },
+    "Visit": {
+        "past_simple": "Visited",
+        "past_participe": "Visited",
+        "french": "Visiter"
+    },
+    "Volunteer": {
+        "past_simple": "Volunteered",
+        "past_participe": "Volunteered",
+        "french": "Faire du b\u00e9n\u00e9volat"
+    },
+    "Vomit": {
+        "past_simple": "Vomited",
+        "past_participe": "Vomited",
+        "french": "Vomir"
+    },
+    "Vote": {
+        "past_simple": "Voted",
+        "past_participe": "Voted",
+        "french": "Voter"
+    },
+    "Wait": {
+        "past_simple": "Waited",
+        "past_participe": "Waited",
+        "french": "Attendre"
+    },
+    "Wake": {
+        "past_simple": "Woke",
+        "past_participe": "Woken",
+        "french": "Se r\u00e9veiller"
+    },
+    "Walk": {
+        "past_simple": "Walked",
+        "past_participe": "Walked",
+        "french": "Marcher"
+    },
+    "Want": {
+        "past_simple": "Wanted",
+        "past_participe": "Wanted",
+        "french": "Vouloir"
+    },
+    "Warm": {
+        "past_simple": "Warmed",
+        "past_participe": "Warmed",
+        "french": "Chauffer"
+    },
+    "Warn": {
+        "past_simple": "Warnd",
+        "past_participe": "Warnd",
+        "french": "Avertir"
+    },
+    "Wash": {
+        "past_simple": "Washed",
+        "past_participe": "Washed",
+        "french": "Laver"
+    },
+    "Waste": {
+        "past_simple": "Wasted",
+        "past_participe": "Wasted",
+        "french": "Gaspiller"
+    },
+    "Watch": {
+        "past_simple": "Watched",
+        "past_participe": "Watched",
+        "french": "Observer (voir)"
+    },
+    "Water": {
+        "past_simple": "Watered",
+        "past_participe": "Watered",
+        "french": "Arroser"
+    },
+    "Wear": {
+        "past_simple": "Wore",
+        "past_participe": "Worn",
+        "french": "Porter / mettre (un v\u00eatement)"
+    },
+    "Weave": {
+        "past_simple": "Wove",
+        "past_participe": "Woven",
+        "french": "Tisser"
+    },
+    "Weep": {
+        "past_simple": "Wept",
+        "past_participe": "Wept",
+        "french": "Pleurer"
+    },
+    "Weigh": {
+        "past_simple": "Weighed",
+        "past_participe": "Weighed",
+        "french": "Peser"
+    },
+    "Welcome": {
+        "past_simple": "Welcomed",
+        "past_participe": "Welcomed",
+        "french": "Accueillir"
+    },
+    "Wet": {
+        "past_simple": "Wet",
+        "past_participe": "Wet",
+        "french": "Mouiller"
+    },
+    "Whine": {
+        "past_simple": "Whined",
+        "past_participe": "Whined",
+        "french": "G\u00e9mir"
+    },
+    "Whip": {
+        "past_simple": "Whipped",
+        "past_participe": "Whipped",
+        "french": "Fouetter"
+    },
+    "Whisper": {
+        "past_simple": "Whispered",
+        "past_participe": "Whispered",
+        "french": "Murmurer"
+    },
+    "Whistle": {
+        "past_simple": "Whistled",
+        "past_participe": "Whistled",
+        "french": "Siffler"
+    },
+    "Win": {
+        "past_simple": "Won",
+        "past_participe": "Won",
+        "french": "Gagner"
+    },
+    "Wind": {
+        "past_simple": "Wound",
+        "past_participe": "Wound",
+        "french": "Enrouler"
+    },
+    "Wink": {
+        "past_simple": "Winked",
+        "past_participe": "Winked",
+        "french": "Cligner de l\u2019\u0153il"
+    },
+    "Wish": {
+        "past_simple": "Wished",
+        "past_participe": "Wished",
+        "french": "D\u00e9sirer"
+    },
+    "Withdraw": {
+        "past_simple": "Withdrew",
+        "past_participe": "Withdrawn",
+        "french": "Retirer"
+    },
+    "Withhold": {
+        "past_simple": "Withheld",
+        "past_participe": "Withheld",
+        "french": "Retenir / refuser"
+    },
+    "Withstand": {
+        "past_simple": "Withstood",
+        "past_participe": "Withstood",
+        "french": "R\u00e9sister \u00e0"
+    },
+    "Witness": {
+        "past_simple": "Witnessed",
+        "past_participe": "Witnessed",
+        "french": "T\u00e9moigner"
+    },
+    "Wonder": {
+        "past_simple": "Wondered",
+        "past_participe": "Wondered",
+        "french": "Se demander"
+    },
+    "Work": {
+        "past_simple": "Worked",
+        "past_participe": "Worked",
+        "french": "Travailler"
+    },
+    "Worry": {
+        "past_simple": "Worried",
+        "past_participe": "Worried",
+        "french": "S\u2019inqui\u00e9ter"
+    },
+    "Wound": {
+        "past_simple": "Wounded",
+        "past_participe": "Wounded",
+        "french": "Blesser"
+    },
+    "Wrap": {
+        "past_simple": "Wrapped",
+        "past_participe": "Wrapped",
+        "french": "Envelopper"
+    },
+    "Wreck": {
+        "past_simple": "Wrecked",
+        "past_participe": "Wrecked",
+        "french": "D\u00e9truire"
+    },
+    "Wrinkle": {
+        "past_simple": "Wrinkled",
+        "past_participe": "Wrinkled",
+        "french": "Se rider / froisser"
+    },
+    "Write": {
+        "past_simple": "Wrote",
+        "past_participe": "Written",
+        "french": "\u00c9crire"
+    },
+    "Yawn": {
+        "past_simple": "Yawned",
+        "past_participe": "Yawned",
+        "french": "B\u00e2iller"
+    },
+    "Yearn": {
+        "past_simple": "Yearned",
+        "past_participe": "Yearned",
+        "french": "Aspirer"
+    },
+    "Yell": {
+        "past_simple": "Yelled",
+        "past_participe": "Yelled",
+        "french": "Crier"
+    },
+    "Yield": {
+        "past_simple": "Yielded",
+        "past_participe": "Yielded",
+        "french": "Donner"
+    }
+}
