@@ -1,0 +1,6302 @@
+[
+    {
+        "noun": "Ability",
+        "french": "Capacit\u00e9",
+        "level": "C1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Access",
+        "french": "Acc\u00e8s",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Accident",
+        "french": "Accident",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Account",
+        "french": "Compte",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Act",
+        "french": "Acte",
+        "level": "C2",
+        "frequency": 2,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Action",
+        "french": "Action",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Activity",
+        "french": "Activit\u00e9",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Actor",
+        "french": "Acteur",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Ad",
+        "french": "Publicit\u00e9",
+        "level": "A2",
+        "frequency": 3,
+        "tag": "advertising",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Addition",
+        "french": "Addition",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "math",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Address",
+        "french": "Adresse",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Administration",
+        "french": "Administration",
+        "level": "C1",
+        "frequency": 2,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Advantage",
+        "french": "Avantage",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Advertising",
+        "french": "Publicit\u00e9",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "advertising",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Advice",
+        "french": "Conseil",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Affair",
+        "french": "Affaire",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Age",
+        "french": "\u00c2ge",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Agency",
+        "french": "Agence",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Agreement",
+        "french": "Accord",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Air",
+        "french": "Air",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Airport",
+        "french": "A\u00e9roport",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Alcohol",
+        "french": "Alcool",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Ambition",
+        "french": "Ambition",
+        "level": "C1",
+        "frequency": 2,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Amount",
+        "french": "Montant",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "math",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Analysis",
+        "french": "Analyse",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "math",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Analyst",
+        "french": "Analyste",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Animal",
+        "french": "Animal",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Answer",
+        "french": "R\u00e9ponse",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Anxiety",
+        "french": "Anxi\u00e9t\u00e9",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Apartment",
+        "french": "Appartement",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "building",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Appearance",
+        "french": "Apparence",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Apple",
+        "french": "Pomme",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "vegetable",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Application",
+        "french": "Application",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Appointment",
+        "french": "Rdv",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Area",
+        "french": "Zone",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Argument",
+        "french": "Argument",
+        "level": "C1",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Army",
+        "french": "Arm\u00e9e",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Arrival",
+        "french": "Arriv\u00e9e",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Art",
+        "french": "Art",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "art",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Article",
+        "french": "Article",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Aspect",
+        "french": "Aspect",
+        "level": "C1",
+        "frequency": 3,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Assignment",
+        "french": "Attribution",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Assistance",
+        "french": "Assistance",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Assistant",
+        "french": "Assistant",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Association",
+        "french": "Association",
+        "level": "C1",
+        "frequency": 2,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Assumption",
+        "french": "Supposition",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Atmosphere",
+        "french": "Atmosph\u00e8re",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Attempt",
+        "french": "Tentative",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Attention",
+        "french": "Attention",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Attitude",
+        "french": "Attitude",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Audience",
+        "french": "Public",
+        "level": "C1",
+        "frequency": 8,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Aunt",
+        "french": "Tante",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Average",
+        "french": "Moyenne",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "math",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Awareness",
+        "french": "Conscience",
+        "level": "C2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Back",
+        "french": "Retour",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bad",
+        "french": "Mauvais",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Balance",
+        "french": "Equilibre",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "math",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Ball",
+        "french": "Balle",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bank",
+        "french": "Banque",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Baseball",
+        "french": "Baseball",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Basis",
+        "french": "Base",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Basket",
+        "french": "Panier",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bath",
+        "french": "Bain",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "house",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Bathroom",
+        "french": "Salle de bain",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "house",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bedroom",
+        "french": "Chambre \u00e0 coucher",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "house",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Beer",
+        "french": "Bi\u00e8re",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "beverage",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Beginning",
+        "french": "D\u00e9but",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Benefit",
+        "french": "Avantage",
+        "level": "C1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Bird",
+        "french": "Oiseau",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Birth",
+        "french": "Naissance",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Birthday",
+        "french": "Anniversaire",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "celebration",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bit",
+        "french": "Peu",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "math",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Blood",
+        "french": "Sang",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Board",
+        "french": "Conseil",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Boat",
+        "french": "Bateau",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Body",
+        "french": "Corps",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bonus",
+        "french": "Prime",
+        "level": "C1",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Book",
+        "french": "Livre",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "book",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Boss",
+        "french": "Patron",
+        "level": "C1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bottom",
+        "french": "Fond",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Box",
+        "french": "Bo\u00eete",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Boy",
+        "french": "Gar\u00e7on",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Boyfriend",
+        "french": "Petit ami",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bread",
+        "french": "Pain",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Breath",
+        "french": "Respiration",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Brother",
+        "french": "Fr\u00e8re",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Building",
+        "french": "B\u00e2timent",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "building",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Bus",
+        "french": "Bus",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Business",
+        "french": "Affaires",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Buyer",
+        "french": "Acheteur",
+        "level": "C1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cabinet",
+        "french": "Armoire",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Camera",
+        "french": "Cam\u00e9ra",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cancer",
+        "french": "Cancer",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "medical",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Candidate",
+        "french": "Candidat",
+        "level": "C2",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Capital",
+        "french": "Capital",
+        "level": "C1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Car",
+        "french": "Voiture",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Card",
+        "french": "Carte",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Care",
+        "french": "Soin",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Career",
+        "french": "Carri\u00e8re",
+        "level": "C1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Case",
+        "french": "Cas",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cash",
+        "french": "Argent",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Cat",
+        "french": "Chat",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Category",
+        "french": "Cat\u00e9gorie",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cause",
+        "french": "Cause",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Celebration",
+        "french": "C\u00e9l\u00e9bration",
+        "level": "C1",
+        "frequency": 3,
+        "tag": "celebration",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cell",
+        "french": "Cellule",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "science",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Championship",
+        "french": "Championnat",
+        "level": "C2",
+        "frequency": 2,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Chance",
+        "french": "Chance",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Chapter",
+        "french": "Chapitre",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "book",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Charity",
+        "french": "Charit\u00e9",
+        "level": "C1",
+        "frequency": 3,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Cheek",
+        "french": "Joue",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Chemistry",
+        "french": "Chimie",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Chest",
+        "french": "Poitrine",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Chicken",
+        "french": "Poulet",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Child",
+        "french": "Enfant",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Childhood",
+        "french": "Enfance",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Chocolate",
+        "french": "Chocolat",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Choice",
+        "french": "Choix",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Church",
+        "french": "\u00c9glise",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "religion",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cigarette",
+        "french": "Cigarette",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "City",
+        "french": "Ville",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "place",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Class",
+        "french": "Classe",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Classroom",
+        "french": "Salle de classe",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Client",
+        "french": "Client",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Climate",
+        "french": "Climat",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "nature",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Clothes",
+        "french": "V\u00eatements",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "clothing",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Coast",
+        "french": "C\u00f4te",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Coffee",
+        "french": "Caf\u00e9",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "beverage",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Collection",
+        "french": "Collection",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "College",
+        "french": "Coll\u00e8ge",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Combination",
+        "french": "Combinaison",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "math",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Committee",
+        "french": "Comit\u00e9",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Communication",
+        "french": "Communication",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Community",
+        "french": "Communaut\u00e9",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Company",
+        "french": "Entreprise",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Comparison",
+        "french": "Comparaison",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "math",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Competition",
+        "french": "Comp\u00e9tition",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Complaint",
+        "french": "Plainte",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Computer",
+        "french": "Ordinateur",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Concept",
+        "french": "Conception",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Conclusion",
+        "french": "Conclusion",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Condition",
+        "french": "Condition",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Confusion",
+        "french": "Confusion",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Connection",
+        "french": "Connexion",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Consequence",
+        "french": "Cons\u00e9quence",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Construction",
+        "french": "Construction",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Contact",
+        "french": "Contact",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Context",
+        "french": "Contexte",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Contract",
+        "french": "Contrat",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Contribution",
+        "french": "Contribution",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Control",
+        "french": "Contr\u00f4le",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Conversation",
+        "french": "Conversation",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Cookie",
+        "french": "Biscuit",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Country",
+        "french": "Pays",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "place",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "County",
+        "french": "Comt\u00e9",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "place",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Courage",
+        "french": "Courage",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Course",
+        "french": "Cours",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cousin",
+        "french": "Cousin",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Craft",
+        "french": "Artisanat",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Credit",
+        "french": "Cr\u00e9dit",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Criticism",
+        "french": "Critique",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Culture",
+        "french": "Culture",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Currency",
+        "french": "Devise",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Customer",
+        "french": "Client",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Cycle",
+        "french": "Cycle",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Dad",
+        "french": "Papa",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Data",
+        "french": "Donn\u00e9es",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "math",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Database",
+        "french": "Base de donn\u00e9es",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Date",
+        "french": "Date",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Day",
+        "french": "Jour",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Dealer",
+        "french": "Marchand",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Death",
+        "french": "Mort",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Debt",
+        "french": "Dette",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Decision",
+        "french": "D\u00e9cision",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Definition",
+        "french": "D\u00e9finition",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Delivery",
+        "french": "Livraison",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Demand",
+        "french": "Demande",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Department",
+        "french": "D\u00e9partement",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Departure",
+        "french": "D\u00e9part",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Depression",
+        "french": "D\u00e9pression",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "medical",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Depth",
+        "french": "Profondeur",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Description",
+        "french": "Description",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Design",
+        "french": "Conception",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Desk",
+        "french": "Bureau",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Development",
+        "french": "D\u00e9veloppement",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Device",
+        "french": "Appareil",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Diamond",
+        "french": "Diamant",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Difference",
+        "french": "Diff\u00e9rence",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "math",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Difficulty",
+        "french": "Difficult\u00e9",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Dinner",
+        "french": "D\u00eener",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Direction",
+        "french": "Direction",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Director",
+        "french": "Directeur",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Dirt",
+        "french": "Salet\u00e9",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Disaster",
+        "french": "Catastrophe",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Discipline",
+        "french": "Discipline",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Discussion",
+        "french": "Discussion",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Disease",
+        "french": "Maladie",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "medical",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Disk",
+        "french": "Disque",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Distribution",
+        "french": "Distribution",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Dog",
+        "french": "Chien",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Drama",
+        "french": "Drame",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Drawer",
+        "french": "Tiroir",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Drawing",
+        "french": "Dessin",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Driver",
+        "french": "Chauffeur",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Ear",
+        "french": "Oreille",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Earth",
+        "french": "Terre",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Economics",
+        "french": "\u00c9conomie",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Economy",
+        "french": "\u00c9conomie",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Editor",
+        "french": "\u00c9diteur",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Education",
+        "french": "\u00c9ducation",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Effect",
+        "french": "Effet",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "abstract",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Efficiency",
+        "french": "Efficacit\u00e9",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Effort",
+        "french": "Effort",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Egg",
+        "french": "\u0152uf",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Election",
+        "french": "\u00c9lection",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "government",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Elevator",
+        "french": "Ascenseur",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Emotion",
+        "french": "\u00c9motion",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Emphasis",
+        "french": "Accentuation",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Employee",
+        "french": "Employ\u00e9",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Employer",
+        "french": "Employeur",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Employment",
+        "french": "Emploi",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "End",
+        "french": "Fin",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Energy",
+        "french": "\u00c9nergie",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Engine",
+        "french": "Moteur",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Entertainment",
+        "french": "Divertissement",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "art",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Enthusiasm",
+        "french": "Enthousiasme",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Entry",
+        "french": "Entr\u00e9e",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Environment",
+        "french": "Environnement",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Equipment",
+        "french": "\u00c9quipement",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Error",
+        "french": "Erreur",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "abstract",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Establishment",
+        "french": "\u00c9tablissement",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Estate",
+        "french": "Domaine",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "property",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Event",
+        "french": "\u00c9v\u00e9nement",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "occasion",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Exam",
+        "french": "Examen",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Examination",
+        "french": "Examen",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Example",
+        "french": "Exemple",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "language",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Exchange",
+        "french": "\u00c9change",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "business",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Excitement",
+        "french": "Excitation",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Exercise",
+        "french": "Exercice",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "health",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Experience",
+        "french": "Exp\u00e9rience",
+        "level": "B1",
+        "frequency": 10,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Explanation",
+        "french": "Explication",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Expression",
+        "french": "Expression",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Extent",
+        "french": "\u00c9tendue",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "measurement",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Eye",
+        "french": "\u0152il",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Face",
+        "french": "Visage",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Fact",
+        "french": "Fait",
+        "level": "A2",
+        "frequency": 10,
+        "tag": "knowledge",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Failure",
+        "french": "\u00c9chec",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "abstract",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Family",
+        "french": "Famille",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Farmer",
+        "french": "Agriculteur",
+        "level": "B1",
+        "frequency": 3,
+        "tag": "occupation",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Fat",
+        "french": "Graisse",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Feature",
+        "french": "Caract\u00e9ristique",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Feedback",
+        "french": "Feedback",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "communication",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Field",
+        "french": "Champ",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Figure",
+        "french": "Figure",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Film",
+        "french": "Film",
+        "level": "A2",
+        "frequency": 10,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Finding",
+        "french": "Trouvaille",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "knowledge",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Fire",
+        "french": "Feu",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Fish",
+        "french": "Poisson",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Flight",
+        "french": "Vol",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Focus",
+        "french": "Concentration",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "mind",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Food",
+        "french": "Nourriture",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Football",
+        "french": "Football",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Force",
+        "french": "Force",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Form",
+        "french": "Forme",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Fortune",
+        "french": "Chance",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "luck",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Foundation",
+        "french": "Fondation",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Frame",
+        "french": "Cadre",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Freedom",
+        "french": "Libert\u00e9",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "government",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Friendship",
+        "french": "Amiti\u00e9",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Fun",
+        "french": "Amusement",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Funeral",
+        "french": "Fun\u00e9railles",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Future",
+        "french": "Futur",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "time",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Game",
+        "french": "Jeu",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Garbage",
+        "french": "D\u00e9chets",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "environment",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Garden",
+        "french": "Jardin",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Gate",
+        "french": "Portail",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Gene",
+        "french": "G\u00e8ne",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Gift",
+        "french": "Cadeau",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Girl",
+        "french": "Fille",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Girlfriend",
+        "french": "Petite amie",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Goal",
+        "french": "Objectif",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Government",
+        "french": "Gouvernement",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "government",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Grandmother",
+        "french": "Grand-m\u00e8re",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Grocery",
+        "french": "\u00c9picerie",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Group",
+        "french": "Groupe",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "social",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Growth",
+        "french": "Croissance",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "nature",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Guest",
+        "french": "Invit\u00e9",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Guidance",
+        "french": "Guidance",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Guide",
+        "french": "Guide",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "book",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Guitar",
+        "french": "Guitare",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "music",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Hair",
+        "french": "Cheveux",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Half",
+        "french": "Moiti\u00e9",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "quantity",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Hall",
+        "french": "Hall",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "building",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Hand",
+        "french": "Main",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Hat",
+        "french": "Chapeau",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "clothing",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Head",
+        "french": "T\u00eate",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Health",
+        "french": "Sant\u00e9",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "body",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Hearing",
+        "french": "Audition",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Heart",
+        "french": "Coeur",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Heat",
+        "french": "Chaleur",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Height",
+        "french": "Hauteur",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "measurement",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Highway",
+        "french": "Autoroute",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Historian",
+        "french": "Historien",
+        "level": "C1",
+        "frequency": 7,
+        "tag": "occupation",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "History",
+        "french": "Histoire",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "knowledge",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Home",
+        "french": "Maison",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "building",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Homework",
+        "french": "Devoirs",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Honey",
+        "french": "Miel",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Hope",
+        "french": "Espoir",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Hospital",
+        "french": "H\u00f4pital",
+        "level": "A2",
+        "frequency": 10,
+        "tag": "health",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Hotel",
+        "french": "H\u00f4tel",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "travel",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "House",
+        "french": "Maison",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "building",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Housing",
+        "french": "Logement",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "building",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Ice",
+        "french": "Glace",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Idea",
+        "french": "Id\u00e9e",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "knowledge",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Image",
+        "french": "Image",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Imagination",
+        "french": "Imagination",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "mind",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Impact",
+        "french": "Impact",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Importance",
+        "french": "Importance",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "knowledge",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Impression",
+        "french": "Impression",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "communication",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Improvement",
+        "french": "Am\u00e9lioration",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Income",
+        "french": "Revenu",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "economics",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Independence",
+        "french": "Ind\u00e9pendance",
+        "level": "C1",
+        "frequency": 7,
+        "tag": "government",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Indication",
+        "french": "Indication",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "communication",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Industry",
+        "french": "Industrie",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Inflation",
+        "french": "Inflation",
+        "level": "C1",
+        "frequency": 7,
+        "tag": "economics",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Information",
+        "french": "Information",
+        "level": "A2",
+        "frequency": 10,
+        "tag": "knowledge",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Initiative",
+        "french": "Initiative",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Injury",
+        "french": "Blessure",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "body",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Insect",
+        "french": "Insecte",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Inside",
+        "french": "Int\u00e9rieur",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "location",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Inspection",
+        "french": "Inspection",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Inspector",
+        "french": "Inspecteur",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Instance",
+        "french": "Instance",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "measurement",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Instruction",
+        "french": "Instruction",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Insurance",
+        "french": "Assurance",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "business",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Intention",
+        "french": "Intention",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "mind",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Interaction",
+        "french": "Interaction",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "communication",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Interest",
+        "french": "Int\u00e9r\u00eat",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Internet",
+        "french": "Internet",
+        "level": "A2",
+        "frequency": 10,
+        "tag": "technology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Introduction",
+        "french": "Introduction",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "communication",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Investment",
+        "french": "Investissement",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "business",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Issue",
+        "french": "Probl\u00e8me",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "communication",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Item",
+        "french": "Article",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Job",
+        "french": "Travail",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "occupation",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Judgment",
+        "french": "Jugement",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "mind",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Key",
+        "french": "Cl\u00e9",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Kind",
+        "french": "Genre",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "King",
+        "french": "Roi",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "politics",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Knowledge",
+        "french": "Connaissance",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "knowledge",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Lab",
+        "french": "Laboratoire",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "science",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Ladder",
+        "french": "\u00c9chelle",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Lady",
+        "french": "Dame",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Lake",
+        "french": "Lac",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Language",
+        "french": "Langue",
+        "level": "B1",
+        "frequency": 10,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Law",
+        "french": "Loi",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "government",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Leader",
+        "french": "Leader",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Leadership",
+        "french": "Leadership",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Length",
+        "french": "Longueur",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "measurement",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Level",
+        "french": "Niveau",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "measurement",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Library",
+        "french": "Biblioth\u00e8que",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Life",
+        "french": "Vie",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "human",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Light",
+        "french": "Lumi\u00e8re",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Line",
+        "french": "Ligne",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Link",
+        "french": "Lien",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "communication",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "List",
+        "french": "Liste",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Literature",
+        "french": "Litt\u00e9rature",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "art",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Location",
+        "french": "Emplacement",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "location",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Loss",
+        "french": "Perte",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Love",
+        "french": "Amour",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Machine",
+        "french": "Machine",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "science",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Magazine",
+        "french": "Magazine",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "publication",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Maintenance",
+        "french": "Entretien",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Mall",
+        "french": "Centre commercial",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "shopping",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Man",
+        "french": "Homme",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Management",
+        "french": "Gestion",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Manager",
+        "french": "Gestionnaire",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Manufacturer",
+        "french": "Fabricant",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "business",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Map",
+        "french": "Carte",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Market",
+        "french": "March\u00e9",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "business",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Marketing",
+        "french": "Marketing",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "business",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Marriage",
+        "french": "Mariage",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Material",
+        "french": "Mat\u00e9riel",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "science",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Math",
+        "french": "Math\u00e9matiques",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Matter",
+        "french": "Mati\u00e8re",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Meal",
+        "french": "Repas",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Meaning",
+        "french": "Signification",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Measurement",
+        "french": "Mesure",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Meat",
+        "french": "Viande",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Media",
+        "french": "M\u00e9dias",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "communication",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Medicine",
+        "french": "M\u00e9decine",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "health",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Medium",
+        "french": "Moyen",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "communication",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Member",
+        "french": "Membre",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Membership",
+        "french": "Adh\u00e9sion",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Memory",
+        "french": "M\u00e9moire",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "mind",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Menu",
+        "french": "Menu",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Message",
+        "french": "Message",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "communication",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Metal",
+        "french": "M\u00e9tal",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "science",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Method",
+        "french": "M\u00e9thode",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Midnight",
+        "french": "Minuit",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Mind",
+        "french": "Esprit",
+        "level": "C1",
+        "frequency": 9,
+        "tag": "mind",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Mixture",
+        "french": "M\u00e9lange",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Mode",
+        "french": "Mode",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "music",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Model",
+        "french": "Mod\u00e8le",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Mom",
+        "french": "Maman",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Moment",
+        "french": "Moment",
+        "level": "B1",
+        "frequency": 3,
+        "tag": "time",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Money",
+        "french": "Argent",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "economy",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Month",
+        "french": "Mois",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Mood",
+        "french": "Humeur",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Morning",
+        "french": "Matin",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Mouse",
+        "french": "Souris",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Movie",
+        "french": "Film",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "entertainment",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Mud",
+        "french": "Boue",
+        "level": "A2",
+        "frequency": 2,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Music",
+        "french": "Musique",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "entertainment",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Name",
+        "french": "Nom",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Nation",
+        "french": "Nation",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "geography",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Nature",
+        "french": "Nature",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Negotiation",
+        "french": "N\u00e9gociation",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Network",
+        "french": "R\u00e9seau",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "technology",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "News",
+        "french": "Nouvelles",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "media",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Newspaper",
+        "french": "Journal",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "media",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Night",
+        "french": "Nuit",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Note",
+        "french": "Note",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "music",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Nothing",
+        "french": "Rien",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Number",
+        "french": "Num\u00e9ro",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "mathematics",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Object",
+        "french": "Objet",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Obligation",
+        "french": "Obligation",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Office",
+        "french": "Bureau",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Oil",
+        "french": "Huile",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "geology",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Operation",
+        "french": "Op\u00e9ration",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "medicine",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Opinion",
+        "french": "Opinion",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Opportunity",
+        "french": "Opportunit\u00e9",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Orange",
+        "french": "Orange",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "vegetable",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Order",
+        "french": "Commander",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Organization",
+        "french": "Organisation",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Outcome",
+        "french": "R\u00e9sultat",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Outside",
+        "french": "Dehors",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Oven",
+        "french": "Four",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "household",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Owner",
+        "french": "Propri\u00e9taire",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Page",
+        "french": "Page",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "media",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Paint",
+        "french": "Peindre",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Painting",
+        "french": "Peinture",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Paper",
+        "french": "Papier",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "material",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Part",
+        "french": "Partie",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Passenger",
+        "french": "Passager",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Passion",
+        "french": "Passion",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Patience",
+        "french": "Patience",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Payment",
+        "french": "Paiement",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "economy",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Penalty",
+        "french": "P\u00e9nalit\u00e9",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "People",
+        "french": "Personnes",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Percentage",
+        "french": "Pourcentage",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "mathematics",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Perception",
+        "french": "Perception",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Performance",
+        "french": "Performance",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Period",
+        "french": "P\u00e9riode",
+        "level": "A2",
+        "frequency": 3,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Permission",
+        "french": "Permission",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Person",
+        "french": "Personne",
+        "level": "A1",
+        "frequency": 6,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Personality",
+        "french": "Personnalit\u00e9",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Perspective",
+        "french": "Perspective",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Philosophy",
+        "french": "Philosophie",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "education",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Phone",
+        "french": "T\u00e9l\u00e9phone",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "technology",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Photo",
+        "french": "Photo",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Physics",
+        "french": "Physique",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Piano",
+        "french": "Piano",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "music",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Picture",
+        "french": "Image",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Pie",
+        "french": "Tarte",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Piece",
+        "french": "Pi\u00e8ce",
+        "level": "A1",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Pizza",
+        "french": "Pizza",
+        "level": "A1",
+        "frequency": 7,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Place",
+        "french": "Lieu",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Plan",
+        "french": "Plan",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Platform",
+        "french": "Plate-forme",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "technology",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Player",
+        "french": "Joueur",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "entertainment",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Poem",
+        "french": "Po\u00e8me",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "literature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Poet",
+        "french": "Po\u00e8te",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "literature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Poetry",
+        "french": "Po\u00e9sie",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "literature",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Point",
+        "french": "Point",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "mathematics",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Police",
+        "french": "Police",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "law",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Policy",
+        "french": "Politique",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "government",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Politics",
+        "french": "Politique",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "government",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Pollution",
+        "french": "Pollution",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Population",
+        "french": "Population",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Position",
+        "french": "Position",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Possession",
+        "french": "Possession",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Possibility",
+        "french": "Possibilit\u00e9",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Post",
+        "french": "Poste",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Pot",
+        "french": "Pot",
+        "level": "A1",
+        "frequency": 5,
+        "tag": "household",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Potato",
+        "french": "Pomme de terre",
+        "level": "A1",
+        "frequency": 6,
+        "tag": "vegetable",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Power",
+        "french": "Puissance",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Practice",
+        "french": "Pratique",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Preference",
+        "french": "Pr\u00e9f\u00e9rence",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Preparation",
+        "french": "Pr\u00e9paration",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Presence",
+        "french": "Pr\u00e9sence",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Presentation",
+        "french": "Pr\u00e9sentation",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "President",
+        "french": "Pr\u00e9sident",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "government",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Pressure",
+        "french": "Pression",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "physics",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Price",
+        "french": "Prix",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "economy",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Priority",
+        "french": "Priorit\u00e9",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Problem",
+        "french": "Probl\u00e8me",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Procedure",
+        "french": "Proc\u00e9dure",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Process",
+        "french": "Processus",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Product",
+        "french": "Produit",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "economy",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Profession",
+        "french": "Profession",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Professor",
+        "french": "Professeur",
+        "level": "C2",
+        "frequency": 2,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Profit",
+        "french": "Profit",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "economy",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Program",
+        "french": "Programme",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "technology",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Promotion",
+        "french": "Promotion",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Property",
+        "french": "Propri\u00e9t\u00e9",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Proposal",
+        "french": "Proposition",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Protection",
+        "french": "Protection",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Psychology",
+        "french": "Psychologie",
+        "level": "C1",
+        "frequency": 2,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Purpose",
+        "french": "But",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Quality",
+        "french": "Qualit\u00e9",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Quantity",
+        "french": "Quantit\u00e9",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Queen",
+        "french": "Reine",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "royalty",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Question",
+        "french": "Question",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Radio",
+        "french": "Radio",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "media",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Range",
+        "french": "Gamme",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Rate",
+        "french": "Taux",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Ratio",
+        "french": "Ratio",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "mathematics",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Reaction",
+        "french": "R\u00e9action",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "chemistry",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Reality",
+        "french": "R\u00e9alit\u00e9",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "philosophy",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Reason",
+        "french": "Raison",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "philosophy",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Reception",
+        "french": "R\u00e9ception",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Recipe",
+        "french": "Recette",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Recognition",
+        "french": "Reconnaissance",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Recommendation",
+        "french": "Recommandation",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Record",
+        "french": "Record",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "music",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Recording",
+        "french": "Enregistrement",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "music",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Reflection",
+        "french": "R\u00e9flexion",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Refrigerator",
+        "french": "R\u00e9frig\u00e9rateur",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "household",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Region",
+        "french": "R\u00e9gion",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "geography",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Relation",
+        "french": "Relation",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Relationship",
+        "french": "Relation",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Replacement",
+        "french": "Remplacement",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Republic",
+        "french": "R\u00e9publique",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "government",
+        "info1": "other",
+        "info2": "countable"
+    },
+    {
+        "noun": "Reputation",
+        "french": "R\u00e9putation",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Requirement",
+        "french": "Exigence",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Research",
+        "french": "Recherche",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Resolution",
+        "french": "R\u00e9solution",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Resource",
+        "french": "Ressource",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Response",
+        "french": "R\u00e9ponse",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Responsibility",
+        "french": "Responsabilit\u00e9",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Restaurant",
+        "french": "Restaurant",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "hospitality",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Result",
+        "french": "R\u00e9sultat",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Revenue",
+        "french": "Revenu",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "economy",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Review",
+        "french": "Critique",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Revolution",
+        "french": "R\u00e9volution",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "history",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Risk",
+        "french": "Risque",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "River",
+        "french": "Rivi\u00e8re",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "geography",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Road",
+        "french": "Route",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Rock",
+        "french": "Roche",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "science",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Role",
+        "french": "R\u00f4le",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Room",
+        "french": "Chambre",
+        "level": "A1",
+        "frequency": 6,
+        "tag": "household",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Rule",
+        "french": "R\u00e8gle",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Safety",
+        "french": "S\u00e9curit\u00e9",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Salad",
+        "french": "Salade",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Salt",
+        "french": "Sel",
+        "level": "A1",
+        "frequency": 7,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Sample",
+        "french": "\u00c9chantillon",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Satisfaction",
+        "french": "Satisfaction",
+        "level": "C1",
+        "frequency": 3,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Scale",
+        "french": "\u00c9chelle",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Scene",
+        "french": "Sc\u00e8ne",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "entertainment",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "School",
+        "french": "\u00c9cole",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Science",
+        "french": "Science",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Screen",
+        "french": "\u00c9cran",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "technology",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Secretary",
+        "french": "Secr\u00e9taire",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Section",
+        "french": "Section",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sector",
+        "french": "Secteur",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Security",
+        "french": "S\u00e9curit\u00e9",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Selection",
+        "french": "S\u00e9lection",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sense",
+        "french": "Sens",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Series",
+        "french": "S\u00e9rie",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "entertainment",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Service",
+        "french": "Service",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Session",
+        "french": "Session",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Setting",
+        "french": "Environnement",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Shape",
+        "french": "Forme",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Share",
+        "french": "Partager",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "economy",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Shirt",
+        "french": "Chemise",
+        "level": "A1",
+        "frequency": 7,
+        "tag": "clothing",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Side",
+        "french": "C\u00f4t\u00e9",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sign",
+        "french": "Signe",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Signature",
+        "french": "Signature",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Significance",
+        "french": "Signification",
+        "level": "C1",
+        "frequency": 3,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Singer",
+        "french": "Chanteur",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "entertainment",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sir",
+        "french": "Monsieur",
+        "level": "B2",
+        "frequency": 1,
+        "tag": "royalty",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sister",
+        "french": "Soeur",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "family",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Site",
+        "french": "Site",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Situation",
+        "french": "Situation",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Size",
+        "french": "Taille",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Skill",
+        "french": "Comp\u00e9tence",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Society",
+        "french": "Soci\u00e9t\u00e9",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Software",
+        "french": "Logiciel",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "technology",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Soil",
+        "french": "Sol",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Solution",
+        "french": "Solution",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Son",
+        "french": "Fils",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "family",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Song",
+        "french": "Chanson",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "entertainment",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sound",
+        "french": "Son",
+        "level": "A1",
+        "frequency": 7,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Soup",
+        "french": "Soupe",
+        "level": "A1",
+        "frequency": 6,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Source",
+        "french": "Source",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "other",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Space",
+        "french": "Espace",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "other",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Speaker",
+        "french": "Orateur",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "technology",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Speech",
+        "french": "Discours",
+        "level": "B1",
+        "frequency": 2,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sport",
+        "french": "Sport",
+        "level": "A2",
+        "frequency": 1,
+        "tag": "entertainment",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Square",
+        "french": "Carr\u00e9",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "mathematics",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Standard",
+        "french": "Standard",
+        "level": "A1",
+        "frequency": 4,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Star",
+        "french": "\u00c9toile",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "State",
+        "french": "\u00c9tat",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "nature",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Statement",
+        "french": "D\u00e9claration",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Steak",
+        "french": "Steak",
+        "level": "A2",
+        "frequency": 3,
+        "tag": "animal",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Step",
+        "french": "\u00c9tape",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Stock",
+        "french": "Stock",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Storage",
+        "french": "Stockage",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Store",
+        "french": "Magasin",
+        "level": "A1",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Story",
+        "french": "R\u00e9cit",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "art",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Stranger",
+        "french": "\u00c9tranger",
+        "level": "B1",
+        "frequency": 3,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Strategy",
+        "french": "Strat\u00e9gie",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Stress",
+        "french": "Stress",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Structure",
+        "french": "Structure",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Student",
+        "french": "\u00c9tudiant",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Studio",
+        "french": "Studio",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Study",
+        "french": "\u00c9tude",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "education",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Style",
+        "french": "Style",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "fashion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Subject",
+        "french": "Sujet",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Success",
+        "french": "Succ\u00e8s",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Suggestion",
+        "french": "Suggestion",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Sun",
+        "french": "Soleil",
+        "level": "A1",
+        "frequency": 5,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Supermarket",
+        "french": "Supermarch\u00e9",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "store",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Surgery",
+        "french": "Chirurgie",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "medicine",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Sympathy",
+        "french": "Sympathie",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "System",
+        "french": "Syst\u00e8me",
+        "level": "B2",
+        "frequency": 10,
+        "tag": "technology",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Table",
+        "french": "Table",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Tale",
+        "french": "Conte",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "art",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Task",
+        "french": "T\u00e2che",
+        "level": "A1",
+        "frequency": 7,
+        "tag": "work",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Tax",
+        "french": "Imp\u00f4t",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "finance",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Tea",
+        "french": "Th\u00e9",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Teacher",
+        "french": "Enseignant",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Technology",
+        "french": "Technologie",
+        "level": "B2",
+        "frequency": 10,
+        "tag": "technology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Television",
+        "french": "T\u00e9l\u00e9vision",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "media",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Temperature",
+        "french": "Temp\u00e9rature",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Tennis",
+        "french": "Tennis",
+        "level": "A2",
+        "frequency": 4,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Tension",
+        "french": "Tension",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Term",
+        "french": "Terme",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Test",
+        "french": "Test",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Thanks",
+        "french": "Merci",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "emotion",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Theory",
+        "french": "Th\u00e9orie",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Thing",
+        "french": "Chose",
+        "level": "A1",
+        "frequency": 5,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Thought",
+        "french": "Pens\u00e9e",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Throat",
+        "french": "Gorge",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "anatomy",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Time",
+        "french": "Temps",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Tongue",
+        "french": "Langue",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "anatomy",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Tool",
+        "french": "Outil",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Tooth",
+        "french": "Dent",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "anatomy",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Top",
+        "french": "Sommet",
+        "level": "B2",
+        "frequency": 7,
+        "tag": "object",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Topic",
+        "french": "Sujet",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Town",
+        "french": "Ville",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "geography",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Trade",
+        "french": "Commerce",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "economy",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Tradition",
+        "french": "Tradition",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "culture",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Trainer",
+        "french": "Entra\u00eeneur",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "sport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Training",
+        "french": "Entra\u00eenement",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Transportation",
+        "french": "Transport",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "travel",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Truth",
+        "french": "V\u00e9rit\u00e9",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "philosophy",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Two",
+        "french": "Deux",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "math",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Type",
+        "french": "Type",
+        "level": "A2",
+        "frequency": 7,
+        "tag": "classification",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Uncle",
+        "french": "Oncle",
+        "level": "A2",
+        "frequency": 5,
+        "tag": "family",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Understanding",
+        "french": "Compr\u00e9hension",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "psychology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Union",
+        "french": "Syndicat",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "politics",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Unit",
+        "french": "Unit\u00e9",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "science",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "University",
+        "french": "Universit\u00e9",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "education",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "User",
+        "french": "Utilisateur",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "technology",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Value",
+        "french": "Valeur",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "economy",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Variation",
+        "french": "Variation",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Variety",
+        "french": "Vari\u00e9t\u00e9",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "food",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Vehicle",
+        "french": "V\u00e9hicule",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "transport",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Version",
+        "french": "Version",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "technology",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Video",
+        "french": "Vid\u00e9o",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "media",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "View",
+        "french": "Vue",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "observation",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Village",
+        "french": "Village",
+        "level": "A1",
+        "frequency": 4,
+        "tag": "geography",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Virus",
+        "french": "Virus",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "health",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Voice",
+        "french": "Voix",
+        "level": "B1",
+        "frequency": 9,
+        "tag": "anatomy",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Volume",
+        "french": "Volume",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "science",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "War",
+        "french": "Guerre",
+        "level": "B2",
+        "frequency": 8,
+        "tag": "history",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Warning",
+        "french": "Avertissement",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "signal",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Water",
+        "french": "Eau",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Way",
+        "french": "Chemin",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "travel",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Weakness",
+        "french": "Faiblesse",
+        "level": "B2",
+        "frequency": 3,
+        "tag": "health",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Wealth",
+        "french": "Richesse",
+        "level": "B2",
+        "frequency": 4,
+        "tag": "economy",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Weather",
+        "french": "Temps",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Web",
+        "french": "Web",
+        "level": "B2",
+        "frequency": 5,
+        "tag": "technology",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Wedding",
+        "french": "Mariage",
+        "level": "B2",
+        "frequency": 2,
+        "tag": "event",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Week",
+        "french": "Semaine",
+        "level": "A1",
+        "frequency": 9,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "While",
+        "french": "Temps",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "time",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Wife",
+        "french": "Femme",
+        "level": "A2",
+        "frequency": 6,
+        "tag": "family",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Wind",
+        "french": "Vent",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "nature",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Winner",
+        "french": "Gagnant",
+        "level": "B1",
+        "frequency": 4,
+        "tag": "competition",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Woman",
+        "french": "Femme",
+        "level": "A1",
+        "frequency": 8,
+        "tag": "human",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Wood",
+        "french": "Bois",
+        "level": "B1",
+        "frequency": 6,
+        "tag": "material",
+        "info1": "concrete",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Word",
+        "french": "Mot",
+        "level": "A1",
+        "frequency": 10,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Work",
+        "french": "Travail",
+        "level": "A2",
+        "frequency": 8,
+        "tag": "employment",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Worker",
+        "french": "Travailleur",
+        "level": "B1",
+        "frequency": 5,
+        "tag": "employment",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "World",
+        "french": "Monde",
+        "level": "B2",
+        "frequency": 9,
+        "tag": "geography",
+        "info1": "abstract",
+        "info2": "countable"
+    },
+    {
+        "noun": "Writer",
+        "french": "\u00c9crivain",
+        "level": "B1",
+        "frequency": 7,
+        "tag": "art",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Writing",
+        "french": "\u00c9criture",
+        "level": "B2",
+        "frequency": 6,
+        "tag": "language",
+        "info1": "abstract",
+        "info2": "uncountable"
+    },
+    {
+        "noun": "Year",
+        "french": "Ann\u00e9e",
+        "level": "A2",
+        "frequency": 9,
+        "tag": "time",
+        "info1": "concrete",
+        "info2": "countable"
+    },
+    {
+        "noun": "Youth",
+        "french": "Jeunesse",
+        "level": "B1",
+        "frequency": 8,
+        "tag": "age",
+        "info1": "abstract",
+        "info2": "uncountable"
+    }
+]

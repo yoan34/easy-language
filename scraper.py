@@ -55,18 +55,24 @@ if __name__ == "__main__":
             nouns.append(line.replace('\n', ''))
   
     
-    nouns = nouns[:100]
-    with open("nouns_with_gpt_update.txt", "a") as f:
+    with open("nouns_with_gpt_update2.txt", "a") as f:
         
-        for i in range(0, len(nouns), 50):
-            j = i + 50
+        for i in range(0, len(nouns), 200):
+            j = i + 200
             nouns_chunk = nouns[i:j]
             print(nouns_chunk)
-            
+            prompt = f"""
+            f"peux-tu dans un format CSV avec comme en-tête nom;tag;info1;info2 avec comme tag par exemple animal, vegetable, object, human, transport, work, nature et autre.
+            Et pour info1 si c'est abstract ouconcrete et info2 si c'est countable ou uncountable. N'écris rien d'autre que les lignes des noms sous forme CSV. quelques exemples:
+            apple;vegetable;concrete;coutnable;
+            car;transport;concrete;countable
+            mind;human;abstract;countable
+            Voici la liste des noms: {nouns_chunk}"
+            """
             completion = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
                 messages=[
-                {"role": "user", "content": f"peux-tu traduire, citer une catégorie pour les noms suivant, un niveau entre A1,A2,B1,B2,C1,C2 et un score de fréquence entre 1 et 10 de la forme: apple;pomme;A1;7;fruit par exemple. Voici la liste des noms: {nouns_chunk}"}
+                {"role": "user", "content": prompt}
                 ]
             )
             print(completion.choices[0].message.content, file=f)

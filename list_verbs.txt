@@ -1,0 +1,319 @@
+Add         A1   10   |    Build       A2   10   |    Become      B1   10   |    Absorb      B2   8    |    Ruin        C1   5   
+Answer      A1   10   |    Catch       A2   10   |    Bring       B1   10   |    Mind        B2   8    |    Roar        C1   4   
+Ask         A1   10   |    Know        A2   10   |    Change      B1   10   |    Rush        B2   8    |    Publish     C1   3   
+Be          A1   10   |    Let         A2   10   |    Allow       B1   9    |    Acquire     B2   7    |    Abide       C1   2   
+Buy         A1   10   |    Like        A2   10   |    Attract     B1   9    |    Assist      B2   7    |    Accent      C1   2   
+Choose      A1   10   |    Live        A2   10   |    Avoid       B1   9    |    Await       B2   7    |    Kill        C1   2   
+Close       A1   10   |    Remember    A2   10   |    Begin       B1   9    |    Bear        B2   7    |    Penalize    C1   2   
+Come        A1   10   |    Rise        A2   10   |    Break       B1   9    |    Beg         B2   7    |    Pledge      C1   2   
+Do          A1   10   |    Show        A2   10   |    Burn        B1   9    |    Belong      B2   7    |    Preach      C1   2   
+Eat         A1   10   |    Slip        A2   10   |    Continue    B1   9    |    Bid         B2   7    |    Procrastinate C1   2   
+Feel        A1   10   |    Speak       A2   10   |    React       B1   9    |    Broadcast   B2   7    |    Ramble      C1   2   
+Find        A1   10   |    Spend       A2   10   |    Set         B1   9    |    Center      B2   7    |    Reconsider  C1   2   
+Get         A1   10   |    Accept      A2   9    |    Achieve     B1   8    |    Develop     B2   7    |    Shear       C1   2   
+Give        A1   10   |    Arrive      A2   9    |    Advice      B1   8    |    Increase    B2   7    |    Shelter     C1   2   
+Go          A1   10   |    Call        A2   9    |    Attend      B1   8    |    Inform      B2   7    |    Vibrate     C1   2   
+Have        A1   10   |    Carry       A2   9    |    Beat        B1   8    |    Mean        B2   7    |    Withstand   C1   2   
+Hear        A1   10   |    Check       A2   9    |    Believe     B1   8    |    Rule        B2   7    |    Abolish     C1   1   
+Help        A1   10   |    Complete    A2   9    |    Bend        B1   8    |    Search      B2   7    |    Accede      C1   1   
+Look        A1   10   |    Cook        A2   9    |    Blow        B1   8    |    Spread      B2   7    |    Battle      C1   1   
+Make        A1   10   |    Fall        A2   9    |    Breathe     B1   8    |    Undertake   B2   7    |    Befall      C1   1   
+Meet        A1   10   |    Fill        A2   9    |    Consider    B1   8    |    Acknowledge B2   6    |    Befriend    C1   1   
+Move        A1   10   |    Follow      A2   9    |    Decide      B1   8    |    Analyse     B2   6    |    Beget       C1   1   
+Open        A1   10   |    Guess       A2   9    |    Depend      B1   8    |    Announce    B2   6    |    Behold      C1   1   
+Pay         A1   10   |    Happen      A2   9    |    Draw        B1   8    |    Attempt     B2   6    |    Bereave     C1   1   
+Put         A1   10   |    Hit         A2   9    |    Experience  B1   8    |    Blame       B2   6    |    Beseech     C1   1   
+Read        A1   10   |    Hold        A2   9    |    Explain     B1   8    |    Bundle      B2   6    |    Bond        C1   1   
+Run         A1   10   |    Jog         A2   9    |    Eye         B1   8    |    Cause       B2   6    |    Crown       C1   1   
+Say         A1   10   |    Kiss        A2   9    |    Fly         B1   8    |    Claim       B2   6    |    Flourish    C1   1   
+See         A1   10   |    Laugh       A2   9    |    Form        B1   8    |    Consist     B2   6    |    Jail        C1   1   
+Sing        A1   10   |    Leave       A2   9    |    Gather      B1   8    |    Deal        B2   6    |    Obsess      C1   1   
+Sit         A1   10   |    Need        A2   9    |    Guide       B1   8    |    Decline     B2   6    |    Overcompensate C1   1   
+Slow        A1   10   |    Pass        A2   9    |    Heat        B1   8    |    Destroy     B2   6    |    Reassess    C1   1   
+Smile       A1   10   |    Pick        A2   9    |    Improve     B1   8    |    Encourage   B2   6    |    Redirect    C1   1   
+Stand       A1   10   |    Receive     A2   9    |    Include     B1   8    |    Force       B2   6    |    Slay        C1   1   
+Stop        A1   10   |    Start       A2   9    |    Keep        B1   8    |    Guarantee   B2   6    |    Tranquilize C1   1   
+Swim        A1   10   |    Study       A2   9    |    Learn       B1   8    |    Hunt        B2   6    |    Vent        C1   1   
+Take        A1   10   |    Understand  A2   9    |    Plan        B1   8    |    Imply       B2   6    |    Vomit       C1   1   
+Talk        A1   10   |    Wait        A2   9    |    Prepare     B1   8    |    Insist      B2   6    |    Whip        C1   1   
+Tell        A1   10   |    Write       A2   9    |    Reach       B1   8    |    Matter      B2   6    |                         
+Think       A1   10   |    Act         A2   8    |    Realise     B1   8    |    Note        B2   6    |                         
+Touch       A1   10   |    Agree       A2   8    |    Recognise   B1   8    |    Regret      B2   6    |                         
+Travel      A1   10   |    Brush       A2   8    |    Remain      B1   8    |    Resolve     B2   6    |                         
+Try         A1   10   |    Care        A2   8    |    Repair      B1   8    |    Seek        B2   6    |                         
+Turn        A1   10   |    Clean       A2   8    |    Request     B1   8    |    Shine       B2   6    |                         
+Use         A1   10   |    Collect     A2   8    |    Rest        B1   8    |    Spring      B2   6    |                         
+Walk        A1   10   |    Contain     A2   8    |    Save        B1   8    |    Steal       B2   6    |                         
+Want        A1   10   |    Cut         A2   8    |    Sign        B1   8    |    Surprise    B2   6    |                         
+Wash        A1   10   |    Drive       A2   8    |    Teach       B1   8    |    Trade       B2   6    |                         
+Wear        A1   10   |    Drop        A2   8    |    Train       B1   8    |    Witness     B2   6    |                         
+Work        A1   10   |    Enjoy       A2   8    |    Argue       B1   7    |    Wrap        B2   6    |                         
+Count       A1   9    |    Feed        A2   8    |    Arrange     B1   7    |    Yell        B2   6    |                         
+Drink       A1   9    |    Forget      A2   8    |    Awake       B1   7    |    Abandon     B2   5    |                         
+Name        A1   9    |    Hide        A2   8    |    Chase       B1   7    |    Accelerate  B2   5    |                         
+Paint       A1   9    |    Hurt        A2   8    |    Cover       B1   7    |    Advance     B2   5    |                         
+Place       A1   9    |    Jump        A2   8    |    Dance       B1   7    |    Approve     B2   5    |                         
+Play        A1   9    |    Mark        A2   8    |    Deliver     B1   7    |    Assess      B2   5    |                         
+Ride        A1   9    |    Pack        A2   8    |    Earn        B1   7    |    Assure      B2   5    |                         
+Sleep       A1   9    |    Park        A2   8    |    Engage      B1   7    |    Attach      B2   5    |                         
+Thank       A1   9    |    Pull        A2   8    |    Exist       B1   7    |    Behave      B2   5    |                         
+Throw       A1   9    |    Push        A2   8    |    Finish      B1   7    |    Bet         B2   5    |                         
+Hop         A1   8    |    Ring        A2   8    |    Forgive     B1   7    |    Bleed       B2   5    |                         
+Rain        A1   8    |    Sell        A2   8    |    Freeze      B1   7    |    Blend       B2   5    |                         
+Pet         A1   6    |    Send        A2   8    |    Head        B1   7    |    Challenge   B2   5    |                         
+                      |    Shake       A2   8    |    Imagine     B1   7    |    Circle      B2   5    |                         
+                      |    Shut        A2   8    |    Invite      B1   7    |    Damage      B2   5    |                         
+                      |    Smell       A2   8    |    Knock       B1   7    |    Declare     B2   5    |                         
+                      |    Stay        A2   8    |    Lay         B1   7    |    Deny        B2   5    |                         
+                      |    Swing       A2   8    |    Lie         B1   7    |    Double      B2   5    |                         
+                      |    Tie         A2   8    |    Lock        B1   7    |    Enhance     B2   5    |                         
+                      |    Upset       A2   8    |    Measure     B1   7    |    Extend      B2   5    |                         
+                      |    Visit       A2   8    |    Notice      B1   7    |    Fix         B2   5    |                         
+                      |    Watch       A2   8    |    Order       B1   7    |    Glare       B2   5    |                         
+                      |    Water       A2   8    |    Promise     B1   7    |    Glimpse     B2   5    |                         
+                      |    Worry       A2   8    |    Raise       B1   7    |    Grab        B2   5    |                         
+                      |    Admit       A2   7    |    Recall      B1   7    |    Harden      B2   5    |                         
+                      |    Appear      A2   7    |    Repeat      B1   7    |    Initiate    B2   5    |                         
+                      |    Apply       A2   7    |    Require     B1   7    |    Insert      B2   5    |                         
+                      |    Approach    A2   7    |    Respond     B1   7    |    Inspire     B2   5    |                         
+                      |    Charge      A2   7    |    Review      B1   7    |    Instruct    B2   5    |                         
+                      |    Climb       A2   7    |    Serve       B1   7    |    Integrate   B2   5    |                         
+                      |    Cost        A2   7    |    Shop        B1   7    |    Interfere   B2   5    |                         
+                      |    Cry         A2   7    |    Sound       B1   7    |    Lead        B2   5    |                         
+                      |    Dress       A2   7    |    Spill       B1   7    |    Manage      B2   5    |                         
+                      |    Fear        A2   7    |    Test        B1   7    |    Monitor     B2   5    |                         
+                      |    Fold        A2   7    |    Translate   B1   7    |    Object      B2   5    |                         
+                      |    Hang        A2   7    |    Trouble     B1   7    |    Overcome    B2   5    |                         
+                      |    Lose        A2   7    |    Trust       B1   7    |    Prevent     B2   5    |                         
+                      |    Miss        A2   7    |    Vary        B1   7    |    Proceed     B2   5    |                         
+                      |    Mistake     A2   7    |    Address     B1   6    |    Protect     B2   5    |                         
+                      |    Phone       A2   7    |    Afford      B1   6    |    Release     B2   5    |                         
+                      |    Please      A2   7    |    Bind        B1   6    |    Reserve     B2   5    |                         
+                      |    Pour        A2   7    |    Copy        B1   6    |    Resist      B2   5    |                         
+                      |    Question    A2   7    |    Cross       B1   6    |    Rid         B2   5    |                         
+                      |    Slide       A2   7    |    Divide      B1   6    |    Saw         B2   5    |                         
+                      |    Spin        A2   7    |    Dream       B1   6    |    Screw       B2   5    |                         
+                      |    Sweep       A2   7    |    Escape      B1   6    |    Spit        B2   5    |                         
+                      |    Unlock      A2   7    |    Excite      B1   6    |    Spray       B2   5    |                         
+                      |    Win         A2   7    |    Express     B1   6    |    Suffer      B2   5    |                         
+                      |    Wish        A2   7    |    Fail        B1   6    |    Value       B2   5    |                         
+                      |    Admire      A2   6    |    Fight       B1   6    |    Withdraw    B2   5    |                         
+                      |    Back        A2   6    |    Fire        B1   6    |    Yearn       B2   5    |                         
+                      |    Bite        A2   6    |    Glue        B1   6    |    Yield       B2   5    |                         
+                      |    Chat        A2   6    |    Grasp       B1   6    |    Abuse       B2   4    |                         
+                      |    Die         A2   6    |    Grow        B1   6    |    Amuse       B2   4    |                         
+                      |    Dry         A2   6    |    Hope        B1   6    |    Arise       B2   4    |                         
+                      |    Fry         A2   6    |    Hurry       B1   6    |    Balance     B2   4    |                         
+                      |    Greet       A2   6    |    Join        B1   6    |    Blink       B2   4    |                         
+                      |    Hug         A2   6    |    Kick        B1   6    |    Boil        B2   4    |                         
+                      |    Own         A2   6    |    Knee        B1   6    |    Borrow      B2   4    |                         
+                      |    Picture     A2   6    |    Lean        B1   6    |    Breed       B2   4    |                         
+                      |    Plant       A2   6    |    Leap        B1   6    |    Cease       B2   4    |                         
+                      |    Pray        A2   6    |    Lower       B1   6    |    Coach       B2   4    |                         
+                      |    Smoke       A2   6    |    Nail        B1   6    |    Collide     B2   4    |                         
+                      |    Strike      A2   6    |    Observe     B1   6    |    Command     B2   4    |                         
+                      |    Tap         A2   6    |    Obtain      B1   6    |    Commit      B2   4    |                         
+                      |    Tear        A2   6    |    Offer       B1   6    |    Compose     B2   4    |                         
+                      |    View        A2   6    |    Perform     B1   6    |    Decorate    B2   4    |                         
+                      |    Vote        A2   6    |    Post        B1   6    |    Demonstrate B2   4    |                         
+                      |    Buckle      A2   5    |    Race        B1   6    |    Devote      B2   4    |                         
+                      |    End         A2   5    |    Refuse      B1   6    |    Disapprove  B2   4    |                         
+                      |    Massage     A2   5    |    Register    B1   6    |    Disclose    B2   4    |                         
+                      |    Milk        A2   5    |    Replace     B1   6    |    Display     B2   4    |                         
+                      |    Owe         A2   5    |    Report      B1   6    |    Distract    B2   4    |                         
+                      |    Pose        A2   5    |    Retire      B1   6    |    Dump        B2   4    |                         
+                      |    Quit        A2   5    |    Risk        B1   6    |    Ease        B2   4    |                         
+                      |    School      A2   5    |    Seem        B1   6    |    Emerge      B2   4    |                         
+                      |    Taste       A2   5    |    Shoot       B1   6    |    Exclude     B2   4    |                         
+                      |    Type        A2   5    |    Speed       B1   6    |    Extract     B2   4    |                         
+                      |    Unpack      A2   5    |    Stick       B1   6    |    Fasten      B2   4    |                         
+                      |    Untie       A2   5    |    Wake        B1   6    |    Fish        B2   4    |                         
+                      |    Bang        A2   4    |    Wonder      B1   6    |    Fling       B2   4    |                         
+                      |    Bark        A2   3    |    Adjust      B1   5    |    Forbid      B2   4    |                         
+                      |    Clap        A2   3    |    Apologize   B1   5    |    Glow        B2   4    |                         
+                      |    Wet         A2   3    |    Burst       B1   5    |    Grin        B2   4    |                         
+                      |                          |    Calm        B1   5    |    Grind       B2   4    |                         
+                      |                          |    Compare     B1   5    |    Groan       B2   4    |                         
+                      |                          |    Delay       B1   5    |    Ground      B2   4    |                         
+                      |                          |    Dye         B1   5    |    Halt        B2   4    |                         
+                      |                          |    Flip        B1   5    |    Harvest     B2   4    |                         
+                      |                          |    Frighten    B1   5    |    Hook        B2   4    |                         
+                      |                          |    Kneel       B1   5    |    Impose      B2   4    |                         
+                      |                          |    Lick        B1   5    |    Impress     B2   4    |                         
+                      |                          |    Mend        B1   5    |    Judge       B2   4    |                         
+                      |                          |    Nod         B1   5    |    Justify     B2   4    |                         
+                      |                          |    Pause       B1   5    |    Light       B2   4    |                         
+                      |                          |    Pretend     B1   5    |    Limit       B2   4    |                         
+                      |                          |    Reject      B1   5    |    Link        B2   4    |                         
+                      |                          |    Rent        B1   5    |    Melt        B2   4    |                         
+                      |                          |    Resume      B1   5    |    Mingle      B2   4    |                         
+                      |                          |    Sink        B1   5    |    Mislead     B2   4    |                         
+                      |                          |    Soak        B1   5    |    Mock        B2   4    |                         
+                      |                          |    Split       B1   5    |    Occupy      B2   4    |                         
+                      |                          |    Swear       B1   5    |    Oppose      B2   4    |                         
+                      |                          |    Trick       B1   5    |    Organize    B2   4    |                         
+                      |                          |    Twist       B1   5    |    Panic       B2   4    |                         
+                      |                          |    Unite       B1   5    |    Perceive    B2   4    |                         
+                      |                          |    Warn        B1   5    |    Persuade    B2   4    |                         
+                      |                          |    Weigh       B1   5    |    Prefer      B2   4    |                         
+                      |                          |    Welcome     B1   5    |    Pronounce   B2   4    |                         
+                      |                          |    Bruise      B1   4    |    Propose     B2   4    |                         
+                      |                          |    Chop        B1   4    |    Punish      B2   4    |                         
+                      |                          |    Combine     B1   4    |    Refill      B2   4    |                         
+                      |                          |    Dig         B1   4    |    Rescue      B2   4    |                         
+                      |                          |    Fancy       B1   4    |    Scan        B2   4    |                         
+                      |                          |    Found       B1   4    |    Snap        B2   4    |                         
+                      |                          |    Gain        B1   4    |    Spoil       B2   4    |                         
+                      |                          |    Hammer      B1   4    |    Squeeze     B2   4    |                         
+                      |                          |    Imitate     B1   4    |    Sting       B2   4    |                         
+                      |                          |    Last        B1   4    |    String      B2   4    |                         
+                      |                          |    Marry       B1   4    |    Strive      B2   4    |                         
+                      |                          |    Number      B1   4    |    Tease       B2   4    |                         
+                      |                          |    Plug        B1   4    |    Tolerate    B2   4    |                         
+                      |                          |    Practice    B1   4    |    Trap        B2   4    |                         
+                      |                          |    Praise      B1   4    |    Trim        B2   4    |                         
+                      |                          |    Quote       B1   4    |    Tune        B2   4    |                         
+                      |                          |    Sail        B1   4    |    Verify      B2   4    |                         
+                      |                          |    Slice       B1   4    |    Volunteer   B2   4    |                         
+                      |                          |    Tailor      B1   4    |    Waste       B2   4    |                         
+                      |                          |    Undergo     B1   4    |    Withhold    B2   4    |                         
+                      |                          |    Utter       B1   4    |    Wreck       B2   4    |                         
+                      |                          |    Vanish      B1   4    |    Accuse      B2   3    |                         
+                      |                          |    Warm        B1   4    |    Advertise   B2   3    |                         
+                      |                          |    Wind        B1   4    |    Annoy       B2   3    |                         
+                      |                          |    Accommodate B1   3    |    Arrest      B2   3    |                         
+                      |                          |    Camp        B1   3    |    Bat         B2   3    |                         
+                      |                          |    Cash        B1   3    |    Bless       B2   3    |                         
+                      |                          |    Click       B1   3    |    Brag        B2   3    |                         
+                      |                          |    Cling       B1   3    |    Brake       B2   3    |                         
+                      |                          |    Enquire     B1   3    |    Broaden     B2   3    |                         
+                      |                          |    Flee        B1   3    |    Calculate   B2   3    |                         
+                      |                          |    Howl        B1   3    |    Clarify     B2   3    |                         
+                      |                          |    Meditate    B1   3    |    Compensate  B2   3    |                         
+                      |                          |    Slit        B1   3    |    Crash       B2   3    |                         
+                      |                          |    Spell       B1   3    |    Dive        B2   3    |                         
+                      |                          |    Target      B1   3    |    Dwell       B2   3    |                         
+                      |                          |    Underline   B1   3    |    Elect       B2   3    |                         
+                      |                          |    Unfold      B1   3    |    Flash       B2   3    |                         
+                      |                          |    Whisper     B1   3    |    Fool        B2   3    |                         
+                      |                          |    Bug         B1   2    |    Gasp        B2   3    |                         
+                      |                          |    Choke       B1   2    |    Generate    B2   3    |                         
+                      |                          |    Overturn    B1   2    |    Grade       B2   3    |                         
+                      |                          |    Skip        B1   2    |    Hail        B2   3    |                         
+                      |                          |    Weave       B1   2    |    Heave       B2   3    |                         
+                      |                          |    Weep        B1   2    |    Improvise   B2   3    |                         
+                      |                          |    Snore       B1   1    |    Inhale      B2   3    |                         
+                      |                          |                          |    Inject      B2   3    |                         
+                      |                          |                          |    Irritate    B2   3    |                         
+                      |                          |                          |    Knot        B2   3    |                         
+                      |                          |                          |    Lend        B2   3    |                         
+                      |                          |                          |    Load        B2   3    |                         
+                      |                          |                          |    Maintain    B2   3    |                         
+                      |                          |                          |    Mimic       B2   3    |                         
+                      |                          |                          |    Mount       B2   3    |                         
+                      |                          |                          |    Mow         B2   3    |                         
+                      |                          |                          |    Narrow      B2   3    |                         
+                      |                          |                          |    Navigate    B2   3    |                         
+                      |                          |                          |    Pardon      B2   3    |                         
+                      |                          |                          |    Preserve    B2   3    |                         
+                      |                          |                          |    Quiz        B2   3    |                         
+                      |                          |                          |    Revive      B2   3    |                         
+                      |                          |                          |    Rip         B2   3    |                         
+                      |                          |                          |    Scale       B2   3    |                         
+                      |                          |                          |    Scream      B2   3    |                         
+                      |                          |                          |    Scrub       B2   3    |                         
+                      |                          |                          |    Shower      B2   3    |                         
+                      |                          |                          |    Shrink      B2   3    |                         
+                      |                          |                          |    Sow         B2   3    |                         
+                      |                          |                          |    Sprinkle    B2   3    |                         
+                      |                          |                          |    Spy         B2   3    |                         
+                      |                          |                          |    Stink       B2   3    |                         
+                      |                          |                          |    Stride      B2   3    |                         
+                      |                          |                          |    Sweat       B2   3    |                         
+                      |                          |                          |    Swell       B2   3    |                         
+                      |                          |                          |    Thrive      B2   3    |                         
+                      |                          |                          |    Thrust      B2   3    |                         
+                      |                          |                          |    Tick        B2   3    |                         
+                      |                          |                          |    Tuck        B2   3    |                         
+                      |                          |                          |    Unbutton    B2   3    |                         
+                      |                          |                          |    Vacuum      B2   3    |                         
+                      |                          |                          |    Wound       B2   3    |                         
+                      |                          |                          |    Wrinkle     B2   3    |                         
+                      |                          |                          |    Yawn        B2   3    |                         
+                      |                          |                          |    Adore       B2   2    |                         
+                      |                          |                          |    Alternate   B2   2    |                         
+                      |                          |                          |    Amend       B2   2    |                         
+                      |                          |                          |    Appease     B2   2    |                         
+                      |                          |                          |    Applaud     B2   2    |                         
+                      |                          |                          |    Attack      B2   2    |                         
+                      |                          |                          |    Blush       B2   2    |                         
+                      |                          |                          |    Chide       B2   2    |                         
+                      |                          |                          |    Collapse    B2   2    |                         
+                      |                          |                          |    Creep       B2   2    |                         
+                      |                          |                          |    Eject       B2   2    |                         
+                      |                          |                          |    Embrace     B2   2    |                         
+                      |                          |                          |    Enclose     B2   2    |                         
+                      |                          |                          |    Envy        B2   2    |                         
+                      |                          |                          |    Erase       B2   2    |                         
+                      |                          |                          |    Flirt       B2   2    |                         
+                      |                          |                          |    Flood       B2   2    |                         
+                      |                          |                          |    Forecast    B2   2    |                         
+                      |                          |                          |    Forsake     B2   2    |                         
+                      |                          |                          |    Gamble      B2   2    |                         
+                      |                          |                          |    Generalize  B2   2    |                         
+                      |                          |                          |    Gossip      B2   2    |                         
+                      |                          |                          |    Hoard       B2   2    |                         
+                      |                          |                          |    Inflate     B2   2    |                         
+                      |                          |                          |    Insult      B2   2    |                         
+                      |                          |                          |    Knit        B2   2    |                         
+                      |                          |                          |    Launch      B2   2    |                         
+                      |                          |                          |    Loosen      B2   2    |                         
+                      |                          |                          |    Mate        B2   2    |                         
+                      |                          |                          |    Mislay      B2   2    |                         
+                      |                          |                          |    Moan        B2   2    |                         
+                      |                          |                          |    Multiply    B2   2    |                         
+                      |                          |                          |    Rant        B2   2    |                         
+                      |                          |                          |    Rhyme       B2   2    |                         
+                      |                          |                          |    Rot         B2   2    |                         
+                      |                          |                          |    Sew         B2   2    |                         
+                      |                          |                          |    Shave       B2   2    |                         
+                      |                          |                          |    Shed        B2   2    |                         
+                      |                          |                          |    Sigh        B2   2    |                         
+                      |                          |                          |    Sling       B2   2    |                         
+                      |                          |                          |    Spare       B2   2    |                         
+                      |                          |                          |    Tend        B2   2    |                         
+                      |                          |                          |    Tickle      B2   2    |                         
+                      |                          |                          |    Toy         B2   2    |                         
+                      |                          |                          |    Transpire   B2   2    |                         
+                      |                          |                          |    Triumph     B2   2    |                         
+                      |                          |                          |    Uncover     B2   2    |                         
+                      |                          |                          |    Undress     B2   2    |                         
+                      |                          |                          |    Uplift      B2   2    |                         
+                      |                          |                          |    Vacate      B2   2    |                         
+                      |                          |                          |    Whine       B2   2    |                         
+                      |                          |                          |    Whistle     B2   2    |                         
+                      |                          |                          |    Wink        B2   2    |                         
+                      |                          |                          |    Embarrass   B2   1    |                         
+                      |                          |                          |    Exaggerate  B2   1    |                         
+                      |                          |                          |    Exclaim     B2   1    |                         
+                      |                          |                          |    Expose      B2   1    |                         
+                      |                          |                          |    Fatten      B2   1    |                         
+                      |                          |                          |    Feint       B2   1    |                         
+                      |                          |                          |    File        B2   1    |                         
+                      |                          |                          |    Forbear     B2   1    |                         
+                      |                          |                          |    Forego      B2   1    |                         
+                      |                          |                          |    Freshen     B2   1    |                         
+                      |                          |                          |    Grieve      B2   1    |                         
+                      |                          |                          |    Label       B2   1    |                         
+                      |                          |                          |    Lengthen    B2   1    |                         
+                      |                          |                          |    Mug         B2   1    |                         
+                      |                          |                          |    Murder      B2   1    |                         
+                      |                          |                          |    Sack        B2   1    |                         
+                      |                          |                          |    Scrape      B2   1    |                         
+                      |                          |                          |    Shorten     B2   1    |                         
+                      |                          |                          |    Stammer     B2   1    |                         
+                      |                          |                          |    Strew       B2   1    |                         
+                      |                          |                          |    Terrify     B2   1    |                         
+                      |                          |                          |    Toughen     B2   1    |                         
+                      |                          |                          |    Underestimate B2   1    |                         
+                      |                          |                          |    Unmask      B2   1    |                         

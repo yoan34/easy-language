@@ -1,0 +1,769 @@
+Abandon;He abandoned his plans to start a new business;Il a abandonné ses projets de créer une nouvelle entreprise.
+Abide;I cannot abide his behavior any longer;Je ne peux plus supporter son comportement.
+Abolish;The government abolished the death penalty;Le gouvernement a aboli la peine de mort.
+Absorb;The sponge absorbed all the water;L'éponge a absorbé toute l'eau.
+Abuse;She was accused of abusing her power;Elle a été accusée d'abus de pouvoir.
+Accede;The company acceded to the union's demands;La compagnie a accepté les demandes du syndicat.
+Accelerate;The car accelerated quickly;La voiture a accéléré rapidement.
+Accent;He has a strong French accent;Il a un fort accent français.
+Accept;I accept your apology;I accepte tes excuses.
+Accommodate;The hotel can accommodate up to 500 guests;L'hôtel peut accueillir jusqu'à 500 invités.
+Accuse;She accused him of lying;Elle l'a accusé de mentir.
+Achieve;She achieved her goal of becoming a doctor;Elle a atteint son objectif de devenir médecin.
+Acknowledge;He acknowledged his mistake;Il a reconnu son erreur.
+Acquire;The company acquired a new building;La compagnie a acquis un nouveau bâtiment.
+Act;We need to act quickly before it's too late;Nous devons agir rapidement avant qu'il ne soit trop tard.
+Add;Please add some salt to the soup;S'il vous plaît, ajoutez un peu de sel à la soupe.
+Address;The president addressed the nation on television;Le président a prononcé un discours à la nation à la télévision.
+Adjust;I need to adjust my schedule to accommodate a new meeting;Je dois ajuster mon emploi du temps pour accueillir une nouvelle réunion.
+Admire;I admire her dedication to her work;J'admire son dévouement pour son travail.
+Admit;I admit that I was wrong;J'admets que j'avais tort.
+Adore;I adore chocolate;J'adore le chocolat;
+Advance;He advanced towards the enemy;Mais il s'avança vers l'ennemi;
+Advertise;We need to advertise our new products;Nous devons faire la publicité de nos nouveaux produits;
+Advice;Can you give me some advice on which book to read?;Pouvez-vous me donner des conseils sur quel livre lire ?
+Afford;I can't afford to go on vacation this year;Je ne peux pas me permettre de partir en vacances cette année;
+Agree;She agreed to help me with my project;Elle a accepté de m'aider avec mon projet;
+Allow;The teacher didn't allow cell phones in the classroom;Le professeur n'a pas autorisé les téléphones portables dans la classe;
+Alternate;We alternate between watching movies and playing games;Nous alternons entre regarder des films et jouer à des jeux;
+Amend;They amended the contract before signing it;Ils ont modifié le contrat avant de le signer;
+Amuse;The clown amused the children;Le clown a amusé les enfants;
+Analyse;The scientist is analyzing the data;Le scientifique analyse les données;
+Announce;The president announced a new policy;Le président a annoncé une nouvelle politique;
+Annoy;The noise from the party next door annoyed me;Le bruit de la fête à côté m'a ennuyé(e);
+Answer;Can you answer this question for me?;Pouvez-vous répondre à cette question pour moi ?
+Apologize;He apologized for being late;Il s'est excusé pour son retard;
+Appear;The sun appears over the horizon;Le soleil apparaît à l'horizon;
+Appease;The parents tried to appease their crying baby;Les parents ont essayé de calmer leur bébé qui pleurait;
+Applaud;The audience applauded after the performance;Le public a applaudi après la représentation;
+Apply;I need to apply sunscreen before going outside;Je dois mettre de la crème solaire avant de sortir;
+Approach;We need to approach this problem carefully;Nous devons aborder ce problème avec prudence.
+Approve;I approve of your plan;Je suis d'accord avec votre plan.
+Argue;They argued about the decision;Ils se sont disputés à propos de la décision.
+Arise;A new challenge arose in the project;Un nouveau défi est apparu dans le projet.
+Arrange;Can you arrange the meeting with the client?;Pouvez-vous organiser la réunion avec le client ?
+Arrest;The police arrested the suspect;La police a arrêté le suspect.
+Arrive;I will arrive at the airport tomorrow;J'arriverai à l'aéroport demain.
+Ask;He asked me for my opinion;Il m'a demandé mon avis.
+Assess;The team needs to assess the situation;L'équipe doit évaluer la situation.
+Assist;Can you assist me with this task?;Pouvez-vous m'aider avec cette tâche ?
+Assure;I assure you that everything will be fine;Je vous assure que tout sera bien.
+Attach;Please attach the file to the email;Veuillez joindre le fichier à l'e-mail.
+Attack;The army launched a surprise attack;L'armée a lancé une attaque surprise.
+Attempt;He attempted to climb the mountain;Il a tenté de grimper la montagne.
+Attend;I will attend the conference next week;Je vais assister à la conférence la semaine prochaine.
+Attract;The new product will attract more customers;Le nouveau produit attirera plus de clients.
+Avoid;Try to avoid conflicts with your coworkers;Essayez d'éviter les conflits avec vos collègues.
+Await;We are awaiting the arrival of the guests;Nous attendons l'arrivée des invités.
+Awake;I usually awake early in the morning;Je me réveille tôt le matin.
+Back;The team backed the project proposal;L'équipe a soutenu la proposition de projet.
+Balance;It's important to balance your work and personal life;Il est important d'équilibrer votre travail et votre vie personnelle.
+Bang;He banged the door shut;Il a claqué la porte.
+Bark;The dog barked at the mailman;Le chien a aboyé sur le facteur.
+Bat;He bats left-handed;Il bat de la main gauche.
+Battle;The armies battled for control of the city;Les armées se sont battues pour le contrôle de la ville.
+Be;I am a student;Je suis étudiant.
+Bear;She is about to bear a child;Elle est sur le point de mettre un enfant au monde.
+Beat;He beat me at chess;Il m'a battu aux échecs.
+Become;She wants to become a doctor;Elle veut devenir médecin.
+Befall;What befell you?;Qu'est-ce qui vous est arrivé?
+Befriend;He befriended a group of musicians;Il s'est lié d'amitié avec un groupe de musiciens.
+Beg;He begged for food;Il a supplié pour de la nourriture.
+Beget;He begot three children;Il a engendré trois enfants.
+Begin;She began to cry;Elle a commencé à pleurer.
+Behave;He behaved like a child;Il s'est comporté comme un enfant.
+Behold;Behold the beauty of the sunset;Contemplez la beauté du coucher de soleil.
+Believe;I believe in you;Je crois en toi.
+Belong;The book belongs to me;Le livre m'appartient.
+Bend;He bent over to tie his shoe;Il s'est penché pour attacher sa chaussure.
+Bereave;She was recently bereaved of her husband;Elle a récemment perdu son mari.
+Beseech;I beseech you to reconsider;Je vous supplie de reconsidérer.
+Bet;I bet you can't solve this puzzle;Je parie que vous ne pouvez pas résoudre cette énigme
+Bid;I bid you farewell;Je vous dis adieu
+Bind;Please bind the books together;Veuillez lier les livres ensemble
+Bite;That dog might bite you;Ce chien risque de vous mordre
+Blame;Don't blame me for your mistakes;Ne me blâmez pas pour vos erreurs
+Bleed;The wound won't stop bleeding;La plaie ne cesse de saigner
+Blend;Blend the ingredients together;Mélangez les ingrédients ensemble
+Bless;God bless you;Que Dieu vous bénisse
+Blink;Don't blink or you'll miss it;Ne clignez pas des yeux sinon vous allez le manquer
+Blow;The wind is blowing very hard;Le vent souffle très fort
+Blush;She blushed when she saw him;Elle a rougi en le voyant
+Boil;Boil the water before drinking it;Faites bouillir l'eau avant de la boire
+Bond;They have a strong bond;Ils ont un lien fort
+Borrow;Can I borrow your pen?;Puis-je emprunter votre stylo ?
+Brag;Don't brag about your achievements;Ne vantez pas vos réussites
+Brake;You should brake before the red light;Vous devriez freiner avant le feu rouge
+Break;He broke his arm playing football;Il s'est cassé le bras en jouant au football
+Breathe;Don't forget to breathe;N'oubliez pas de respirer
+Breed;They breed horses for racing;Ils élèvent des chevaux de course
+Bring;Please bring me a glass of water;Veuillez m'apporter un verre d'eau
+Broadcast;The radio station will broadcast the news at noon.;La station de radio va diffuser les nouvelles à midi.
+Broaden;They plan to broaden their product line.;Ils prévoient d'élargir leur gamme de produits.
+Bruise;She accidentally bruised her arm while moving furniture.;Elle s'est accidentellement fait un bleu au bras en déplaçant des meubles.
+Brush;He brushed his teeth before going to bed.;Il s'est brossé les dents avant d'aller au lit.
+Buckle;She buckled her seatbelt before starting the car.;Elle a bouclé sa ceinture de sécurité avant de démarrer la voiture.
+Bug;The system seems to be bugged.;Le système semble avoir un bug.
+Build;They are going to build a new house.;Ils vont construire une nouvelle maison.
+Bundle;She bundled up in a warm coat and scarf.;Elle s'est emmitouflée dans un manteau chaud et une écharpe.
+Burn;He accidentally burned his hand on the stove.;Il s'est accidentellement brûlé la main sur la cuisinière.
+Burst;The balloon burst when she tried to blow it up.;Le ballon a éclaté quand elle a essayé de le gonfler.
+Buy;I need to buy some groceries for the week.;Je dois acheter des courses pour la semaine.
+Calculate;She had to calculate the tip on the restaurant bill.;Elle a dû calculer le pourboire sur la note du restaurant.
+Call;He promised to call me later.;Il a promis de m'appeler plus tard.
+Calm;She tried to calm the crying baby.;Elle a essayé de calmer le bébé qui pleurait.
+Camp;They plan to camp in the mountains this weekend.;Ils prévoient de camper dans les montagnes ce week-end.
+Capitulate;The company finally capitulated to the union's demands.;L'entreprise a finalement capitulé aux demandes du syndicat.
+Care;She takes care of her elderly parents.;Elle s'occupe de ses parents âgés.
+Carry;He asked her to carry his backpack for him.;Il lui a demandé de porter son sac à dos pour lui.
+Cash;She went to the bank to cash her paycheck.;Elle est allée à la banque pour encaisser son chèque de paie.
+Catch;He tried to catch the ball, but it slipped through his fingers.;Il a essayé d'attraper la balle, mais elle lui a glissé entre les doigts.
+Cause;His reckless behavior caused the accident;Son comportement imprudent a causé l'accident.
+Cease;Can you please cease the noise? It's really disturbing;Pouvez-vous s'il vous plaît cesser le bruit? Cela dérange vraiment.
+Center;The town center is always busy on weekends;Le centre-ville est toujours animé le week-end.
+Challenge;She likes to challenge herself by taking on difficult tasks;Elle aime se mettre au défi en prenant des tâches difficiles.
+Change;She decided to change her hairstyle for a fresher look;Elle a décidé de changer de coiffure pour un look plus frais.
+Charge;He charged his phone before leaving the house;Il a chargé son téléphone avant de quitter la maison.
+Chase;The dog chased the cat around the house;Le chien a poursuivi le chat autour de la maison.
+Chat;I like to chat with my friends over a cup of coffee;J'aime discuter avec mes amis autour d'une tasse de café.
+Check;Don't forget to check your email before leaving for work;N'oubliez pas de vérifier vos e-mails avant de partir travailler.
+Chide;She chided him for being late;Elle l'a grondé pour être en retard.
+Choke;The smoke was so thick it made me choke;La fumée était si épaisse qu'elle m'a fait suffoquer.
+Choose;She had to choose between two job offers;Elle a dû choisir entre deux offres d'emploi.
+Chop;He chopped the wood into small pieces;Il a coupé le bois en petits morceaux.
+Circle;The plane circled over the airport before landing;L'avion a tourné en rond au-dessus de l'aéroport avant de se poser.
+Claim;He claimed to have seen a UFO last night;Il prétend avoir vu un OVNI hier soir.
+Clap;The audience clapped when the show was over;Le public a applaudi quand le spectacle s'est terminé.
+Clarify;Could you please clarify what you mean?;Pouvez-vous s'il vous plaît clarifier ce que vous voulez dire?
+Clean;She always makes sure to clean her room before going to bed;Elle s'assure toujours de nettoyer sa chambre avant d'aller se coucher.
+Click;He clicked on the link to the article;Il a cliqué sur le lien vers l'article.
+Climb;They climbed the mountain in just one day;Ils ont grimpé la montagne en une journée.
+Cling;The shirt clings to her body;Le chemisier colle à son corps.
+Close;He will close the door;Il fermera la porte.
+Coach;She coaches the soccer team;Elle entraîne l'équipe de football.
+Collapse;The building collapsed;Le bâtiment s'est effondré.
+Collect;We collect stamps;Nous collectionnons des timbres.
+Collide;The two cars collided;Les deux voitures sont entrées en collision.
+Combine;We need to combine these ingredients;Il faut combiner ces ingrédients.
+Come;He will come to the party;Il viendra à la fête.
+Command;She commands a great deal of respect;Elle inspire beaucoup de respect.
+Commit;They will commit to the project;Ils s'engageront dans le projet.
+Compare;Let's compare prices;Comparons les prix.
+Compensate;The company will compensate for the damages;La compagnie indemnisera les dommages.
+Complete;She completed the task ahead of schedule;Elle a terminé la tâche en avance sur le planning.
+Compose;He composes music for films;Il compose de la musique pour les films.
+Consider;We need to consider all options;Il faut examiner toutes les options.
+Consist;The cake consists of three layers;Le gâteau se compose de trois couches.
+Contain;The bottle contains water;La bouteille contient de l'eau.
+Continue;She will continue to work hard;Elle continuera de travailler dur.
+Cook;He is cooking dinner tonight;Il cuisine le dîner ce soir.
+Copy;I need to make a copy of this document;Il me faut faire une copie de ce document.
+Cost;The shirt costs twenty dollars.;traduction française;La chemise coûte vingt dollars.
+Count;I counted the number of people in the room.;traduction française;J'ai compté le nombre de personnes dans la pièce.
+Cover;She covered her face with her hands.;traduction française;Elle a couvert son visage avec ses mains.
+Crash;The car crashed into a tree.;traduction française;La voiture a heurté un arbre.
+Creep;The cat crept silently across the room.;traduction française;Le chat avançait silencieusement à travers la pièce.
+Cross;She crossed the street at the crosswalk.;traduction française;Elle a traversé la rue au passage piéton.
+Crown;The queen was crowned with a golden crown.;traduction française;La reine a été couronnée avec une couronne d'or.
+Cry;She cried when she heard the sad news.;traduction française;Elle a pleuré quand elle a appris la triste nouvelle.
+Cut;He cut the cake into equal pieces.;traduction française;Il a coupé le gâteau en parts égales.
+Damage;The storm caused a lot of damage to the house.;traduction française;La tempête a causé beaucoup de dégâts à la maison.
+Dance;They danced to the music all night long.;traduction française;Ils ont dansé sur la musique toute la nuit.
+Deal;He dealt the cards out to the players.;traduction française;Il a distribué les cartes aux joueurs.
+Decide;She decided to go to the party.;traduction française;Elle a décidé d'aller à la soirée.
+Declare;The president declared war on the neighboring country.;traduction française;Le président a déclaré la guerre au pays voisin.
+Decline;He declined the invitation to the party.;traduction française;Il a décliné l'invitation à la soirée.
+Decorate;They decorated the room with balloons and streamers.;traduction française;Ils ont décoré la pièce avec des ballons et des guirlandes.
+Delay;The flight was delayed for two hours.;traduction française;Le vol a été retardé de deux heures.
+Deliver;The mailman delivered the package to our door.;traduction française;Le facteur a livré le colis à notre porte.
+Demonstrate;The protesters demonstrated peacefully in the streets.;traduction française;Les manifestants ont manifesté pacifiquement dans les rues.
+Deny;She denied stealing the money.;traduction française;Elle a nié avoir volé l'argent.
+Depend;I depend on my family for emotional support;Je dépend de ma famille pour le soutien émotionnel.
+Destroy;The hurricane destroyed many homes and buildings;L'ouragan a détruit de nombreuses maisons et bâtiments.
+Develop;The company is planning to develop new products next year;L'entreprise prévoit de développer de nouveaux produits l'année prochaine.
+Devote;She devotes a lot of time to volunteering at the shelter;Elle consacre beaucoup de temps à faire du bénévolat au refuge.
+Die;My grandfather died last week;Mon grand-père est décédé la semaine dernière.
+Dig;The dog dug a hole in the backyard;Le chien a creusé un trou dans la cour arrière.
+Disapprove;My parents disapprove of my decision to quit my job;Mes parents désapprouvent ma décision de quitter mon travail.
+Disclose;The company has not disclosed its financials to the public;L'entreprise n'a pas divulgué ses finances au public.
+Display;The museum displays some of the most beautiful art in the world;Le musée expose certaines des plus belles œuvres d'art du monde.
+Distract;The noise outside was distracting me from my studies;Le bruit à l'extérieur me distraissait de mes études.
+Dive;He decided to dive into the deep end of the pool;Il a décidé de plonger dans le fond du bassin.
+Divide;The teacher divided the class into groups;L'enseignant a divisé la classe en groupes.
+Do;I need to do my homework before I go out;J'ai besoin de faire mes devoirs avant de sortir.
+Double;The recipe calls for a double batch of cookies;La recette demande une double portion de biscuits.
+Draw;She likes to draw in her free time;Elle aime dessiner pendant son temps libre.
+Dream;I had a dream about flying last night;J'ai rêvé de voler la nuit dernière.
+Dress;She likes to dress in bright colors;Elle aime s'habiller avec des couleurs vives.
+Drink;I usually drink coffee in the morning;Je bois habituellement du café le matin.
+Drive;I don't like to drive in the city;Je n'aime pas conduire en ville.
+Drop;I dropped my phone and now it's cracked;J'ai fait tomber mon téléphone et maintenant il est fissuré.
+Dry;After doing laundry, I hang up the clothes to dry;Faire sécher;Après avoir fait la lessive, je suspends les vêtements pour les faire sécher.
+Dump;I need to dump this trash in the garbage bin;Jeter;J'ai besoin de jeter cette poubelle dans la benne à ordures.
+Dwell;She likes to dwell on the past;Habiter / Se complaire;Elle aime se complaire dans le passé.
+Dye;I want to dye my hair pink;Teindre;Je veux teindre mes cheveux en rose.
+Earn;He hopes to earn a big bonus this year;Gagner;Il espère gagner une grosse prime cette année.
+Ease;She tried to ease his pain with a hot towel;Soulager;Elle a essayé de soulager sa douleur avec une serviette chaude.
+Eat;I usually eat breakfast before work;Manger;Je mange habituellement le petit déjeuner avant le travail.
+Eject;The teacher threatened to eject the student from class;Éjecter;le professeur a menacé d'éjecter l'élève de la classe.
+Elect;The citizens will elect a new president in November;Élire;Les citoyens éliront un nouveau président en novembre.
+Embarrass;She didn't want to embarrass him in front of his friends;Embarrasser;Elle ne voulait pas l'embarrasser devant ses amis.
+Embrace;He embraced his friend after not seeing him for years;Embrasser;Il a étreint son ami après ne l'avoir pas vu pendant des années.
+Emerge;She emerged from the water after swimming;Émerger;Elle a émergé de l'eau après avoir nagé.
+Enclose;Please enclose your resume with your job application;Joindre;Veuillez joindre votre CV à votre demande d'emploi.
+Encourage;Her parents encouraged her to go to college;Encourager;Ses parents l'ont encouragée à aller à l'université.
+End;The concert will end at 10 pm;Terminer;Le concert se terminera à 22 heures.
+Engage;She likes to engage in deep conversations;Engager;Elle aime engager des conversations profondes.
+Enhance;The new technology will enhance the user's experience;Améliorer;La nouvelle technologie améliorera l'expérience de l'utilisateur.
+Enjoy;I always enjoy spending time with my family;Apprécier;J'apprécie toujours passer du temps avec ma famille.
+Enquire;He called to enquire about the job opening;Se renseigner;Il a appelé pour se renseigner sur l'ouverture de poste.
+Envy;She envies her friend's success;Envier;Elle envie le succès de son amie.
+Erase;Please erase that mistake on the document;Effacez s'il vous plaît cette erreur sur le document.
+Escape;He managed to escape from the prison;Il a réussi à s'échapper de la prison.
+Exaggerate;She always exaggerates when she tells a story;Elle exagère toujours quand elle raconte une histoire.
+Excite;The news of his promotion excited him;The nouvelle de sa promotion l'a excité.
+Exclaim;She exclaimed with joy when she saw the surprise party;Elle s'est écriée de joie quand elle a vu la fête surprise.
+Exclude;He was excluded from the club for breaking the rules;Il a été exclu du club pour avoir enfreint les règles.
+Exist;Aliens may exist in other planets;Des extraterrestres pourraient exister sur d'autres planètes.
+Experience;I experienced the same thing when I was younger;J'ai vécu la même chose quand j'étais plus jeune.
+Explain;Can you explain the instructions to me?;Pouvez-vous m'expliquer les instructions?
+Expose;Don't expose yourself to the sun when it's too hot;Ne vous exposez pas au soleil quand il fait trop chaud.
+Express;Please express your feelings to me;Exprimez-moi vos sentiments s'il vous plaît.
+Extend;We need to extend the deadline for the project;Nous devons prolonger la date limite du projet.
+Extract;She extracted the information from the book;Elle a extrait les informations du livre.
+Eye;He eyed the cake with desire;Il a regardé le gâteau avec envie.
+Fail;I failed the driving test again;J'ai encore échoué à l'examen de conduite.
+Fall;The leaves are falling from the trees;Les feuilles tombent des arbres.
+Fancy;I fancy a cup of tea right now;J'ai envie d'une tasse de thé en ce moment.
+Fasten;Please fasten your seatbelt before takeoff;S'il vous plaît bouclez votre ceinture avant le décollage.
+Fatten;They fattened the pig up for the feast;Ils ont engraissé le cochon pour la fête.
+Fear;She has a fear of heights;Elle a peur des hauteurs.
+Feed;I will feed the baby;Je vais nourrir le bébé;
+Feel;I feel sad today;Je me sens triste aujourd'hui;
+Feint;He made a feint before scoring a goal;Il a fait une feinte avant de marquer un but;
+Fight;The soldiers will fight until the end;Les soldats vont se battre jusqu'à la fin;
+File;I need to file this document;Je dois classer ce document;
+Fill;Please fill the glass with water;S'il vous plaît remplir le verre d'eau;
+Find;I can't find my keys;Je ne peux pas trouver mes clés;
+Finish;Let's finish the project before the deadline;Terminons le projet avant la deadline;
+Fire;The firemen are trying to extinguish the fire;Les pompiers essayent d'éteindre le feu;
+Fish;We are going to fish in the river;Nous allons pêcher dans la rivière;
+Fix;He needs to fix his car;Il a besoin de réparer sa voiture;
+Flash;The lightning flashed in the sky;La foudre a flashé dans le ciel;
+Flee;The animals fled from the forest fire;Les animaux ont fui l'incendie de la forêt;
+Fling;She flung her bag on the table;Elle a jeté son sac sur la table;
+Flip;He will flip the pancake in the air;Il va retourner la crêpe en l'air;
+Flirt;She flirted with him all night;Elle a flirté avec lui toute la nuit;
+Flood;The river flooded the town;La rivière a innondé la ville;
+Flourish;The flowers are flourishing in the garden;Les fleurs prospèrent dans le jardin;
+Fly;The birds fly south in winter;Les oiseaux volent vers le sud en hiver;
+Fold;He folded the paper into a crane;Il a plié le papier en origami.
+Follow;I will follow you to the ends of the earth;Je te suivrai jusqu'au bout du monde.
+Fool;Don't fool yourself into thinking it will be easy;Ne te fais pas d'illusion en pensant que ce sera facile.
+Forbear;Please forbear from smoking in this area;Merci de ne pas fumer dans cette zone.
+Forbid;I forbid you from seeing him again;Je t'interdis de le revoir.
+Force;Don't force me to do something I don't want to;Ne me force pas à faire quelque chose que je ne veux pas.
+Forecast;The weather forecast predicts rain for tomorrow;La météo prévoit de la pluie pour demain.
+Forego;I had to forego dessert to stay on my diet;J'ai dû renoncer au dessert pour suivre mon régime.
+Forget;I always forget my keys at home;J'oublie toujours mes clés chez moi.
+Forgive;I forgive you for what you did;Je te pardonne pour ce que tu as fait.
+Form;They are trying to form a union;Ils sont en train de former un syndicat.
+Forsake;Don't forsake your friends for a job;Ne laisse pas tomber tes amis pour un travail.
+Found;We found a new restaurant that we like;Nous avons découvert un nouveau restaurant que nous aimons.
+Freeze;Please don't freeze the leftovers from dinner;S'il te plaît, ne congèle pas les restes du dîner.
+Freshen;I need to freshen my breath before the meeting;J'ai besoin de rafraîchir mon haleine avant la réunion.
+Frighten;The horror movie really frightened me;Le film d'horreur m'a vraiment effrayé.
+Fry;He likes to fry fish for dinner;Il aime faire frire du poisson pour le dîner.
+Gain;She wants to gain more time with her family;Elle veut gagner plus de temps avec sa famille.
+Gamble;He loves to gamble in Las Vegas;Il adore jouer aux jeux de hasard à Las Vegas.
+Gasp;I gasped in surprise when I saw the view;J'ai poussé un cri de surprise quand j'ai vu la vue.
+Gather;Let's gather some information before we start;Rassemblons des informations avant de commencer.
+Generalize;It's not fair to generalize about an entire group of people;Il n'est pas juste de généraliser sur l'ensemble d'un groupe de personnes.
+Generate;The solar panels generate enough energy to power the entire building;Les panneaux solaires génèrent suffisamment d'énergie pour alimenter l'ensemble du bâtiment.
+Get;I need to get some groceries;Je dois acheter des provisions.
+Give;I will give you a ride to the airport;Je vais te conduire à l'aéroport.
+Glare;Don't glare at me like that;Ne me regardez pas comme ça.
+Glimpse;I caught a glimpse of the ocean from the top of the hill;J'ai aperçu l'océan depuis le sommet de la colline.
+Glow;The fireflies glow in the dark;Les lucioles brillent dans l'obscurité.
+Glue;I need to glue this piece back together;Je dois recoller ce morceau.
+Go;Let's go to the park;Allons au parc.
+Gossip;They love to gossip about other people's business;Ils aiment bavarder sur les affaires des autres.
+Grab;I need to grab my coat before we leave;Je dois prendre ma veste avant de partir.
+Grade;The teacher will grade the exams tomorrow;Le professeur notera les examens demain.
+Grasp;I couldn't grasp the concept at first;Je ne pouvais pas saisir le concept au début.
+Greet;He greeted me with a smile;Il m'a accueilli avec un sourire.
+Grieve;She grieved for months after her dog died;Elle a été en deuil pendant des mois après la mort de son chien.
+Grin;He grinned when he saw his friends waiting for him;Il a souri en voyant ses amis l'attendre.
+Grind;I need to grind some coffee beans;Je dois moudre des grains de café.
+Groan;She groaned when she saw the long line at the store;Elle a grogné en voyant la longue file d'attente au magasin.
+Ground;The plane was grounded due to bad weather;L'avion a été cloué au sol en raison de mauvaises conditions météorologiques.
+Grow;The flowers grow in the garden;Les fleurs poussent dans le jardin.
+Guarantee;I can guarantee that the product will work as advertised;Je peux garantir que le produit fonctionnera comme annoncé.
+Guess;Can you guess how many jellybeans are in the jar?;Pouvez-vous deviner combien il y a de bonbons dans le bocal ?
+Guide;I will guide you through the process step-by-step;Je vais vous guider à travers le processus étape par étape.
+Hail;The storm was so severe that it hailed for hours;La tempête était si violente qu'il a grêlé pendant des heures.
+Halt;The production has been halted until further notice;La production a été interrompue jusqu'à nouvel ordre.
+Hammer;He hammered in the nail with great force;Il a enfoncé le clou avec une grande force.
+Hang;She decided to hang the picture on the wall;Elle a décidé d'accrocher le tableau sur le mur.
+Happen;Sometimes things happen for a reason;Parfois, les choses arrivent pour une raison.
+Harden;The concrete will need to harden for at least 24 hours;Le béton devra durcir pendant au moins 24 heures.
+Harvest;The farmers are getting ready to harvest their crops;Les agriculteurs se préparent à récolter leurs cultures.
+Have;I have a headache and need to take some medicine;Je dois prendre des médicaments car j'ai mal à la tête.
+Head;We need to head home before it gets dark;Nous devons rentrer chez nous avant qu'il ne fasse sombre.
+Hear;Did you hear that noise too?;As-tu entendu ce bruit aussi ?
+Heat;Could you please heat up the soup for me?;Pourriez-vous s'il vous plaît réchauffer la soupe pour moi ?
+Heave;They had to heave the heavy boxes up the stairs;Ils ont dû soulever les lourdes boîtes dans les escaliers.
+Help;Can you help me carry this bag please?;Pouvez-vous m'aider à transporter ce sac s'il vous plaît ?
+Hiccup;He had a sudden hiccup and gasped for breath;Il a eu un hoquet soudain et a gaspillé de l'air.
+Hide;The cat likes to hide under the bed when it's scared;Le chat aime se cacher sous le lit quand il est effrayé.
+Hit;She hit the ball with her tennis racket;Elle a frappé la balle avec sa raquette de tennis.
+Hoard;He had hoarded a collection of books throughout the years;Il avait accumulé une collection de livres au fil des ans.
+Hold;I am holding a book;Je tiens un livre.
+Hook;He hooked the fish;Ila attrapé le poisson avec un hameçon.
+Hop;The rabbit hopped away;Le lièvre a bondi loin.
+Hope;I hope to see you soon;J'espère te voir bientôt.
+Howl;The wolf howled at the moon;Le loup a hurlé à la lune.
+Hug;She hugged her friend;Elle a pris son amie dans ses bras.
+Hunt;They hunt for treasures;Ils cherchent des trésors.
+Hurry;We need to hurry;Il faut se dépêcher.
+Hurt;She hurt her ankle;Elle s'est fait mal à la cheville.
+Imagine;Can you imagine that?;Tu peux imaginer ça?
+Imitate;He likes to imitate his favorite actor;Il aime imiter son acteur préféré.
+Implore;I implore you to listen to me;Je t'en supplie, écoute-moi.
+Imply;What does that imply?;Qu'est-ce que cela implique?
+Impose;They imposed new rules;Ils ont imposé de nouvelles règles.
+Impress;Her performance impressed the audience;Sa performance a impressionné le public.
+Improve;We need to improve our skills;Il faut améliorer nos compétences.
+Improvise;He had to improvise a speech;Il a dû improviser un discours.
+Include;This product includes free shipping;Ce produit comprend la livraison gratuite.
+Increase;The price is going to increase;Le prix va augmenter.
+Inflate;He inflated the balloon;Il a gonflé le ballon.
+Inform;I always inform my boss before making any major decision;Je préviens toujours mon patron avant de prendre une décision majeure.
+Inhale;I inhale deeply before beginning my yoga practice;Je respire profondément avant de commencer ma pratique de yoga.
+Initiate;The company plans to initiate a new project next month;La société prévoit de lancer un nouveau projet le mois prochain.
+Inject;The doctor will inject the patient with a vaccine;Le médecin va injecter le patient avec un vaccin.
+Insert;Please insert the key in the lock and turn it clockwise;S'il vous plaît, insérez la clé dans la serrure et tournez-la dans le sens des aiguilles d'une montre.
+Insist;I insist that you tell me the truth;Tenez, je vous demande de me dire la vérité.
+Inspire;The breath-taking view inspired me to take a photograph;La vue époustouflante m'a inspiré à prendre une photo.
+Instruct;The teacher will instruct the students on how to solve the math problem;Le professeur va instruire les étudiants sur la façon de résoudre le problème de mathématiques.
+Insult;I refuse to tolerate anyone who insults me or my friends;Je refuse de tolérer quiconque m'insulte, moi ou mes amis.
+Integrate;The new software is designed to integrate with existing systems;Le nouveau logiciel est conçu pour s'intégrer aux systèmes existants.
+Interfere;Please do not interfere while I'm working;S'il vous plaît, n'intervenez pas pendant que je travaille.
+Invite;My parents always invite their friends over for dinner on Saturdays;Mes parents invitent toujours leurs amis à dîner les samedis.
+Irritate;The sound of cars honking in the streets really irritates me;Le son des klaxons des voitures dans les rues m'irrite vraiment.
+Jail;The court decided to jail the criminal for 10 years;Le tribunal a décidé de mettre le criminel en prison pour 10 ans.
+Jeopardize;The company's decision to cut costs could jeopardize the quality of their products;La décision de la société de réduire les coûts pourrait compromettre la qualité de leurs produits.
+Jog;I like to jog in the mornings before work;J'aime courir le matin avant le travail.
+Join;I would like to join the club;Je voudrais rejoindre le club.
+Judge;You shouldn't judge a book by its cover;Il ne faut pas juger un livre à sa couverture.
+Jump;The cat jumped from the roof to the tree branch;Le chat a sauté du toit sur la branche d'arbre.
+Justify;You need to justify your decision to fire that employee;Il faut justifier votre décision de licencier cet employé.
+Keep;I always keep my keys in my purse;Je garde toujours mes clés dans mon sac à main.
+Kick;He kicked the ball into the goal;Il a donné un coup de pied dans le ballon et l'a marqué dans les buts.
+Kidnap;The criminal attempted to kidnap the young girl;Le criminel a tenté de kidnapper la jeune fille.
+Kill;The lion killed its prey with one swift bite;Le lion a tué sa proie d'un seul coup de mâchoire rapide.
+Kiss;He leaned in and kissed her on the cheek;Il s'est penché et l'a embrassée sur la joue.
+Knee;I injured my knee playing football;Je me suis blessé au genou en jouant au football.
+Kneel;The man in prayer knelt down and closed his eyes;L'homme en prière s'est agenouillé et a fermé les yeux.
+Knit;My grandmother likes to knit sweaters for us;Ma grand-mère aime tricoter des chandails pour nous.
+Knock;She knocked on the door but nobody answered;Elle a frappé à la porte mais personne n'a répondu.
+Knot;The shoelaces were tied in a knot;Les lacets étaient noués en un nœud.
+Know;I know the answer to the question;Je connais la réponse à la question.
+Label;She used a label maker to organize her files;Elle a utilisé une étiqueteuse pour organiser ses fichiers.
+Last;The concert lasted three hours;Le concert a duré trois heures.
+Laugh;We all laughed at the joke;Nous avons tous rigolé à la blague.
+Launch;The rocket was successfully launched into space;La fusée a été lancée avec succès dans l'espace.
+Lay;She lay down on the couch and closed her eyes;Elle s'est allongée sur le canapé et a fermé les yeux.
+Lead;He is the leader of the group;Il est le chef du groupe.
+Lean;She leaned against the wall and waited for him;Elle s'est appuyée contre le mur et l'a attendu.
+Leap;The rabbit leaped over the fence and ran away;Le lapin a bondi par-dessus la clôture et s'est enfui.
+Learn;It's never too late to learn something new;Il n'est jamais trop tard pour apprendre quelque chose de nouveau.
+Leave;I have to leave the party early tonight;Je dois partir de la fête tôt ce soir;
+Lend;Can you lend me your pen for a minute?;Peux-tu me prêter ton stylo pendant une minute?;
+Lengthen;The teacher asked us to lengthen our essays by a few pages;Le professeur nous a demandé d'allonger nos essais de quelques pages;
+Let;Please let me know if you need any help;Merci de me laisser savoir si tu as besoin d'aide;
+Lick;The dog licked my hand when I petted him;Le chien m'a léché la main quand je l'ai caressé;
+Lie;I always lie down for a nap after lunch;Je m'allonge toujours pour une sieste après le déjeuner;
+Light;Can you help me light the candles on the table?;Peux-tu m'aider à allumer les bougies sur la table?;
+Like;I really like your new dress;J'aime vraiment ta nouvelle robe;
+Limit;There are limits to what I can do without your help;Il y a des limites à ce que je peux faire sans ton aide;
+Link;The two issues are strongly linked together;Les deux questions sont étroitement liées;
+Live;I want to live in a cozy little house by the sea;Je veux vivre dans une petite maison confortable au bord de la mer;
+Load;I have to load the dishwasher before we go out;Je dois charger le lave-vaisselle avant de sortir;
+Lock;Please don't forget to lock the door before you leave;Merci de ne pas oublier de fermer la porte à clé avant de partir;
+Look;She looked at me with a puzzled expression on her face;Elle m'a regardé avec une expression perplexe sur son visage;
+Loosen;Can you loosen the knot on my shoelaces?;Peux-tu desserrer le noeud de mes lacets?;
+Lose;Don't lose hope, things will get better;Ne perds pas espoir, les choses vont s'améliorer;
+Lower;Please lower your voice, people are trying to sleep;Merci de baisser la voix, les gens essaient de dormir;
+Maintain;It's important to maintain a healthy work-life balance;Il est important de maintenir un équilibre sain entre le travail et la vie privée;
+Make;Let's make a deal;we help each other out in this project;Faisons un marché;nous nous aidons mutuellement dans ce projet;
+Manage;I don't know how you manage to juggle work and family life;Je ne sais pas comment tu arrives à jongler entre travail et vie de famille.
+Mark;Can you mark the spot where we should dig?;Peux-tu marquer l'endroit où nous devons creuser ?
+Marry;She married her childhood sweetheart last summer;Elle s'est mariée avec son amour d'enfance l'été dernier.
+Massage;I need to massage my sore back after sitting at my desk all day;J'ai besoin de masser mon dos douloureux après avoir été assis à mon bureau toute la journée.
+Mate;The male and female birds will mate during the spring breeding season;Les oiseaux mâles et femelles s'accoupleront pendant la saison de reproduction du printemps.
+Matter;It doesn't matter if you're late, we can still start the meeting without you;Ce n'est pas grave si tu es en retard, nous pouvons commencer la réunion sans toi.
+Mean;I'm sorry, I didn't mean to offend you;Je suis désolé, je n'avais pas l'intention de t'offenser.
+Measure;We need to measure the length of the room before we buy the furniture;Nous devons mesurer la longueur de la pièce avant d'acheter les meubles.
+Meditate;She meditates for ten minutes every morning to clear her mind;Elle médite pendant dix minutes tous les matins pour vider son esprit.
+Meet;Let's meet at the café on the corner at 2pm;Retrouvons-nous au café du coin à 14 heures.
+Melt;The ice cream is melting in the sun;La glace fond au soleil.
+Mend;He spent the afternoon mending his bike;Il a passé l'après-midi à réparer son vélo.
+Milk;The cow produces milk every morning;La vache produit du lait tous les matins.
+Mimic;She can mimic the sounds of different animals;Elle peut imiter les sons de différents animaux.
+Mind;Please mind your step on the stairs;Faites attention à vos pas sur les escaliers.
+Mingle;We should mingle and talk to different people at the party;Nous devrions nous mêler et parler à différentes personnes lors de la soirée.
+Mislay;He mislaid his keys and couldn't find them;Il a égaré ses clés et n'a pas pu les retrouver.
+Mislead;The advertisement was misleading and didn't accurately represent the product;La publicité était trompeuse et ne représentait pas fidèlement le produit.
+Miss;I miss my family when I'm away on business trips;Ma famille me manque quand je suis en voyage d'affaires.
+Mistake;I made a mistake on the spelling of that word;J'ai fait une erreur dans l'orthographe de ce mot.
+Moan;The dog started to moan when the owner left the house;Le chien a commencé à gémir lorsque le propriétaire est parti de la maison.
+Mock;She likes to mock her little brother by imitating him;Elle aime se moquer de son petit frère en l'imitant.
+Monitor;The teacher is monitoring the students during the test;Le professeur surveille les élèves pendant l'examen.
+Mount;He mounted the picture on the wall;Il a mis le tableau en place sur le mur.
+Move;The family is planning to move to a new house;La famille prévoit de déménager dans une nouvelle maison.
+Mow;He has to mow the lawn every week;Il doit tondre la pelouse toutes les semaines.
+Mug;The thief mugged the old lady and ran away;Le voleur a agressé la vieille dame et s'est enfui.
+Multiply;She can multiply large numbers quickly;Elle peut multiplier de grands nombres rapidement.
+Murder;The police are investigating the murder of the businessman;La police enquête sur le meurtre du businessman.
+Nail;He nailed the boards together to make the frame;Il a cloué les planches ensemble pour fabriquer le cadre.
+Name;They named their new puppy Max;Ils ont nommé leur nouveau chiot Max.
+Narrow;The path was narrow and difficult to walk on;Le chemin était étroit et difficile à parcourir.
+Navigate;The captain had to navigate through the stormy waters;Le capitaine devait naviguer à travers les eaux agitées.
+Need;I need to buy some groceries at the store;J'ai besoin d'acheter des produits d'épicerie au magasin.
+Nod;She nodded her head to indicate agreement;Elle a hoché la tête pour indiquer son accord.
+Note;The teacher made a note of the student's good behavior;Le professeur a pris note du bon comportement de l'élève.
+Notice;She noticed the beautiful flowers in the garden;Elle a remarqué les belles fleurs dans le jardin.
+Number;They numbered the pages of the report to keep them in order;Ils ont numéroté les pages du rapport pour les maintenir en ordre.
+Object;He objected to the new company policy;Il s'est opposé à la nouvelle politique de l'entreprise.
+Observe;The scientist needs to observe the phenomenon more closely;Le scientifique doit observer le phénomène de plus près.
+Obsess;She is obsessing over her grades and is worried about failing;Elle est obsédée par ses notes et a peur d'échouer.
+Obtain;I am trying to obtain a visa;Je suis en train d'essayer d'obtenir un visa.
+Occupy;Protesters decided to occupy the city hall;Les manifestants ont décidé d'occuper la mairie.
+Offer;Can I offer you some tea?;Puis-je vous offrir du thé?
+Open;The store opens at 9 am;Le magasin ouvre à 9 heures.
+Oppose;The senator opposes the new tax bill;Le sénateur s'oppose au nouveau projet de loi fiscale.
+Order;I need to order a new book;J'ai besoin de commander un nouveau livre.
+Organize;We will organize a party next week;Nous allons organiser une fête la semaine prochaine.
+Outperform;Our company outperformed the competition;Notre entreprise a surpassé la concurrence.
+Overcome;She had to overcome her fear of public speaking;Elle a dû surmonter sa peur de parler en public.
+Overcompensate;He tends to overcompensate for his lack of experience;Il a tendance à surcompenser son manque d'expérience.
+Overturn;The decision was overturned by the higher court;La décision a été annulée par la cour supérieure.
+Owe;I still owe my friend money;Je dois encore de l'argent à mon ami.
+Own;He owns a successful business;Il possède une entreprise prospère.
+Pack;I need to pack my bags for my trip;Je dois faire mes valises pour mon voyage.
+Paint;She painted her room purple;Elle a peint sa chambre en violet.
+Panic;Don't panic, it's just a drill;Ne paniquez pas, c'est juste un exercice.
+Pardon;I beg your pardon, could you repeat that?;Pardon, pourriez-vous répéter ça?
+Park;We parked the car in the garage;Nous avons garé la voiture dans le garage.
+Pass;Don't forget to pass me the salt;N'oubliez pas de me passer le sel.
+Pause;Let's take a pause before continuing the discussion;Prenez une pause avant de continuer la discussion.
+Pay;I will pay you back next week.;Je te rembourserai la semaine prochaine.
+Penalize;The referee decided to penalize the player.;L'arbitre a décidé de sanctionner le joueur.
+Perceive;I perceive a slight difference in flavor between the two dishes.;Je perçois une légère différence de saveur entre les deux plats.
+Perform;The band will perform at the music festival.;Le groupe se produira au festival de musique.
+Persuade;I will try to persuade her to come with us.;Je vais essayer de la persuader de venir avec nous.
+Pet;She loves to pet her cat while watching TV.;Elle adore caresser son chat en regardant la télévision.
+Phone;I will phone you later to confirm the meeting.;Je t'appellerai plus tard pour confirmer la réunion.
+Pick;He picked a flower from the garden.;Il a cueilli une fleur dans le jardin.
+Picture;Can you picture yourself living in a big city?;Peux-tu t'imaginer vivre dans une grande ville ?
+Place;She placed the vase on the shelf.;Elle a posé le vase sur l'étagère.
+Plan;We need to plan our trip carefully.;Nous devons planifier notre voyage avec soin.
+Plant;He planted some flowers in the garden.;Il a planté des fleurs dans le jardin.
+Play;The children are playing in the park.;Les enfants jouent dans le parc.
+Please;Can you please pass me the salt?;Peux-tu s'il te plaît me passer le sel ?
+Pledge;The politician made a pledge to reduce poverty.;Le politicien a pris l'engagement de réduire la pauvreté.
+Plug;I need to plug in my computer.;Je dois brancher mon ordinateur.
+Pose;The model posed for a photo shoot.;Le mannequin a posé pour une séance photo.
+Post;I will post the letter tomorrow.;Je posterai la lettre demain.
+Pour;Can you pour me a glass of water?;Peux-tu me verser un verre d'eau ?
+Practice;She likes to practice yoga in the morning.;Elle aime pratiquer le yoga le matin.
+Praise;She praised his cooking;Elle a loué sa cuisine.
+Pray;He prayed for her safe return;Il a prié pour son retour en sécurité.
+Preach;He preached about the importance of forgiveness;Il a prêché sur l'importance du pardon.
+Prefer;I prefer tea over coffee;Je préfère le thé au café.
+Prepare;She prepared dinner for us;Elle a préparé le dîner pour nous.
+Preserve;We must preserve this historic building;Nous devons préserver ce bâtiment historique.
+Pretend;He pretended to be asleep;Il a fait semblant de dormir.
+Prevent;We need to prevent further damage;Il faut empêcher de nouveaux dégâts.
+Proceed;They proceeded with the plan;Ils ont poursuivi le plan.
+Procrastinate;Stop procrastinating and get it done;Arrêtez de tergiverser et faites-le.
+Promise;He promised to be there on time;Il a promis d'être là à l'heure.
+Pronounce;She pronounced the word correctly;Elle a prononcé le mot correctement.
+Propose;He proposed to her on the beach;Il lui a fait une proposition sur la plage.
+Protect;We need to protect our environment;Nous devons protéger notre environnement.
+Publish;They publish books every year;Ils publient des livres tous les ans.
+Pull;She pulled the door closed;Elle a fermé la porte en la tirant.
+Punish;He was punished for breaking the rules;Il a été puni pour avoir enfreint les règles.
+Purr;The cat purred contently on the windowsill;Le chat ronronnait sur le rebord de la fenêtre.
+Push;He pushed the heavy box up the stairs;Il a poussé la lourde boîte sur les escaliers.
+Put;She put the keys in her purse;Elle a mis les clés dans son sac à main.
+Question;Can you question the witness, please?;Pouvez-vous interroger le témoin, s'il vous plaît?;
+Quit;I need to quit smoking.;Je dois arrêter de fumer.;
+Quiz;I'll quiz you on the vocabulary words.;Je vais vous tester sur le vocabulaire.;
+Quote;Can you quote me the price for this item?;Pouvez-vous me citer le prix de cet article?;
+Race;We need to race to the finish line.;Nous devons courir vers la ligne d'arrivée.;
+Rain;It will rain tomorrow.;Il va pleuvoir demain.;
+Raise;Can you raise your hand if you understand?;Pouvez-vous lever votre main si vous comprenez ?;
+Ramble;He tends to ramble when he speaks.;Il a tendance à divaguer quand il parle.;
+Rant;She went on a rant about politics.;Elle a fait une diatribe sur la politique.;
+Ratify;The government will ratify the treaty soon.;Le gouvernement ratifiera bientôt le traité.;
+Reach;I need to reach the top shelf.;Je dois atteindre l'étagère du haut.;
+React;How did he react to the news?;Comment a-t-il réagi à la nouvelle?;
+Read;I like to read science fiction books.;J'aime lire des livres de science-fiction.;
+Realise;I just realised I lost my keys.;Je viens de me rendre compte que j'ai perdu mes clés.;
+Reassess;We need to reassess our strategy.;Nous devons réévaluer notre stratégie.;
+Recall;Can you recall what happened yesterday?;Pouvez-vous vous rappeler ce qui s'est passé hier ?;
+Receive;Did you receive my email?;Avez-vous reçu mon courriel ?;
+Recognise;Do you recognise this song?;Reconnaissez-vous cette chanson ?;
+Reconsider;I think we should reconsider that decision.;Je pense que nous devrions reconsidérer cette décision.;
+Redirect;Can you redirect the call to my assistant?;Pouvez-vous rediriger l'appel vers mon assistant ?;
+Refill;I need to refill my water bottle before leaving;Remplir à nouveau;J'ai besoin de remplir à nouveau ma bouteille d'eau avant de partir.
+Refuse;I had to refuse the invitation because of my schedule;Refuser;J'ai dû refuser l'invitation en raison de mon emploi du temps.
+Register;I need to register for the conference before the deadline;S'inscrire;Je dois m'inscrire à la conférence avant la date limite.
+Regret;I regret not listening to their advice earlier;Regretter;Je regrette de ne pas avoir écouté leurs conseils plus tôt.
+Reject;The company rejected my job application;Rejeter;L'entreprise a rejeté ma candidature à l'emploi.
+Release;The new album will be released next week;Libérer;Le nouvel album sera libéré la semaine prochaine.
+Remain;I will remain in the office until I finish this report;Rester;Je vais rester dans le bureau jusqu'à ce que j'aie fini ce rapport.
+Remember;I can't remember the address, can you remind me?;Se souvenir;Je ne peux pas me souvenir de l'adresse, peux-tu me le rappeler ?
+Rend;The strong wind rend the tree apart;Arracher;Le vent fort arracha l'arbre.
+Rent;We decided to rent a car for our road trip;Louer;Nous avons décidé de louer une voiture pour notre voyage sur la route.
+Repair;The mechanic is repairing the engine;Réparer;Le mécanicien répare le moteur.
+Repeat;Could you please repeat the question?;Répéter;Peux-tu s'il te plaît répéter la question ?
+Replace;We need to replace the broken window;Remplacer;Nous devons remplacer la fenêtre cassée.
+Report;The journalist is reporting live from the scene;Rapporter;Le journaliste rapporte en direct de la scène.
+Request;I would like to request a day off next week;Demande;J'aimerais demander un jour de congé la semaine prochaine.
+Require;The job requires a lot of traveling;Exiger;Le travail exige beaucoup de voyages.
+Rescue;The firefighters rescued the cat from the burning building;Secourir;Les pompiers ont secouru le chat du bâtiment en feu.
+Reserve;We need to reserve a table for five people at the restaurant;Réserver;Nous devons réserver une table pour cinq personnes au restaurant.
+Resist;I can't resist chocolate cake;Résister;Je ne peux pas résister à un gâteau au chocolat.
+Resolve;I need to resolve this issue before it gets worse;Résoudre;Je dois résoudre ce problème avant qu'il ne s'aggrave.
+Respond;I always respond quickly to my emails;Je réponds toujours rapidement à mes e-mails.
+Rest;After a long day of work, I need to rest;Après une longue journée de travail, j'ai besoin de me reposer.
+Resume;Let's resume our conversation later;Laissons-nous reprendre notre conversation plus tard.
+Retire;My grandmother retired last year;Ma grand-mère a pris sa retraite l'année dernière.
+Review;I need to review my notes before the exam;Je dois revoir mes notes avant l'examen.
+Revive;The paramedics tried to revive the patient;Les ambulanciers ont essayé de ranimer le patient.
+Rhyme;Can you think of a word that rhymes with orange?;Peux-tu penser à un mot qui rime avec orange ?
+Rid;I need to rid my closet of clothes I no longer wear;Je dois me débarrasser des vêtements que je ne porte plus dans mon placard.
+Ride;I love to ride my bike along the beach;J'adore faire du vélo le long de la plage.
+Ring;My phone will ring if someone tries to call me;Mon téléphone sonnera si quelqu'un essaie de m'appeler.
+Rip;He accidentally ripped his shirt while playing basketball;Il a accidentellement déchiré son shirt en jouant au basketball.
+Rise;The sun will rise at 6am tomorrow;Le soleil se lèvera à 6h demain.
+Risk;I don't want to risk getting lost in the city;Je ne veux pas prendre le risque de me perdre dans la ville.
+Roar;The lion let out a loud roar;Le lion a rugi très fort.
+Rot;The fruit had already started to rot when I bought it;Le fruit avait déjà commencé à pourrir lorsque je l'ai acheté.
+Ruin;The rain ruined our plans for a picnic;La pluie a ruiné nos projets de pique-nique.
+Rule;He likes to rule his classroom with an iron fist;Il aime régner sur sa classe avec une main de fer.
+Run;I need to run to catch my bus;Je dois courir pour attraper mon bus.
+Rush;I always feel rushed in the morning;Je me sens toujours pressée le matin.
+Sack;The store offered to sack my groceries for me;Le magasin a offert de mettre mes courses dans un sac pour moi.
+Sail;I would love to sail around the world one day.;Je voudrais un jour naviguer autour du monde.
+Save;I always try to save money when I can.;J'essaie toujours d'économiser de l'argent quand je le peux.
+Saw;He saw a red car drive by.;Il a vu une voiture rouge passer.
+Say;I'm sorry, what did you say?;Je suis désolé, qu'as-tu dit?
+Scale;The company plans to scale up production this year.;L'entreprise prévoit de développer la production cette année.
+Scan;I quickly scanned the document for errors.;J'ai rapidement parcouru le document à la recherche d'erreurs.
+School;My son just started kindergarten at the local school.;Mon fils vient juste de commencer l'école maternelle de la ville.
+Scrape;I accidentally scraped my knee and it's bleeding.;Je me suis gratté le genou par mégarde et ça saigne.
+Scream;Don't scream, you'll wake up the baby!;Ne crie pas, tu vas réveiller le bébé!
+Screw;Can you help me screw in this lightbulb?;Peux-tu m'aider à visser cette ampoule?
+Scrub;I need to scrub the bathroom floor, it's filthy.;Je dois récurer le sol de la salle de bain, c'est dégoûtant.
+Search;I spent hours searching for my lost phone.;J'ai passé des heures à chercher mon téléphone perdu.
+See;Can you see the mountains in the distance?;Peux-tu voir les montagnes au loin?
+Seek;They are seeking a talented graphic designer for their new project.;Ils cherchent un graphiste talentueux pour leur nouveau projet.
+Seem;The weather seems to be getting better today.;Le temps semble s'améliorer aujourd'hui.
+Sell;I need to sell my old car before I can buy a new one.;Je dois vendre ma vieille voiture avant de pouvoir en acheter une nouvelle.
+Send;I'll send you the documents by email once I finish scanning them.;Je t'enverrai les documents par email une fois que j'aurai fini de les scanner.
+Serve;She loves to serve her guests fresh baked goods.;Elle adore servir à ses invités des pâtisseries fraîchement cuites.
+Set;Let's set a time and place to meet up.;Fixons une heure et un lieu pour nous rencontrer.
+Sew;My grandmother taught me how to sew when I was young.;Ma grand-mère m'a appris à coudre quand j'étais jeune.
+Shake;He shook the bottle before opening it;Il a secoué la bouteille avant de l'ouvrir.
+Shave;He needs to shave before his job interview;Il doit se raser avant son entretien d'embauche.
+Shear;The farmer sheared the sheep for its wool;Le fermier a tondu la brebis pour sa laine.
+Shed;The tree sheds its leaves in the fall;L'arbre perd ses feuilles en automne.
+Shelter;The homeless man sought shelter from the rain under the bridge;L'homme sans abri a cherché refuge sous le pont pendant la pluie.
+Shine;She shined her shoes before the party;Elle a fait briller ses chaussures avant la soirée.
+Shoot;He shot the target with accuracy;Il a tiré sur la cible avec précision.
+Shop;She went shopping for new clothes;Elle est allée faire du shopping pour de nouveaux vêtements.
+Shorten;The tailor shortened the pants to fit him better;Le tailleur a raccourci le pantalon pour qu'il lui aille mieux.
+Show;He showed me his new car;Il m'a montré sa nouvelle voiture.
+Shower;He took a cold shower to wake up;Il a pris une douche froide pour se réveiller.
+Shrink;The sweater shrunk in the wash;Le pull a rétréci dans la machine à laver. 
+Shut;She shut the door quietly not to wake up the baby;Elle a fermé la porte doucement pour ne pas réveiller le bébé.
+Sigh;She let out a deep sigh after a long day at work;Elle a poussé un profond soupir après une longue journée de travail.
+Sign;He signed the contract to start his new job;Il a signé le contrat pour commencer son nouveau travail.
+Sing;The birds sang a beautiful melody in the morning;Les oiseaux ont chanté une belle mélodie le matin.
+Sink;The ship sank in the stormy sea;Le navire a coulé dans la mer agitée.
+Sit;He sat on the couch and watched TV;Il s'est assis sur le canapé et a regardé la télévision.
+Skip;She decided to skip lunch to lose weight;Elle a décidé de sauter le déjeuner pour perdre du poids.
+Slay;The knight slayed the dragon and saved the princess;Le chevalier a tué le dragon et sauvé la princesse.
+Sleep;I need to sleep;J'ai besoin de dormir;
+Slice;Can you slice the bread for me?;Peux-tu me trancher le pain?;
+Slide;She likes to slide down the hill;Elle aime glisser sur la colline;
+Sling;He slung the bag over his shoulder;Il a lancé le sac par-dessus son épaule;
+Slip;Be careful, the floor is slippery;Fais attention, le sol est glissant;
+Slit;She slit the envelope open;Elle a ouvert l'enveloppe en la fendant;
+Slow;You need to slow down when driving;Tu dois ralentir en conduisant;
+Smell;This flower smells lovely;Cette fleur sent bon;
+Smile;She always has a smile on her face;Elle a toujours un sourire sur le visage;
+Smoke;He doesn't smoke cigarettes;Il ne fume pas de cigarettes;
+Snap;Can you snap a picture of us?;Peux-tu nous prendre en photo?;
+Snore;He snores loudly during the night;Il ronfle bruyamment la nuit;
+Soak;I need to soak my feet in hot water;J'ai besoin de tremper mes pieds dans de l'eau chaude;
+Sound;The music sounds great;Musique géniale;
+Sow;She likes to sow her own vegetables;Elle aime semer ses propres légumes;
+Spare;Can you spare me a few minutes?;Peux-tu me consacrer quelques minutes?;
+Speak;He can speak five languages;Il peut parler cinq langues;
+Speed;You need to reduce your speed;Vous devez réduire votre vitesse;
+Spell;Can you spell your name for me?;Pouvez-vous épeler votre nom pour moi?;
+Spend;She likes to spend her weekends at the beach;Elle aime passer ses week-ends à la plage.
+Spill;I accidentally spilled my coffee on the table;J'ai renversé par accident mon café sur la table.
+Spin;The ball spun around in circles;La balle a tourné en cercles.
+Spit;He spat out his gum;Il a craché son chewing-gum.
+Split;The group decided to split into smaller teams;Le groupe a décidé de se diviser en équipes plus petites.
+Spoil;The milk had spoiled and smelled terrible;Le lait était gâté et sentait terriblement mauvais.
+Spray;She sprayed perfume on her wrist;Elle a vaporisé du parfum sur son poignet.
+Spread;He spread peanut butter on his toast;Il a étalé du beurre de cacahuètes sur son pain grillé.
+Spring;The cat leapt into the air and sprang at the mouse;Le chat a bondi dans les airs et a sauté sur la souris.
+Sprinkle;She sprinkled salt on her popcorn;Elle a saupoudré du sel sur ses popcorns.
+Spy;The detective was hired to spy on the suspect;Le détective a été engagé pour espionner le suspect.
+Squeeze;I need to squeeze this lemon to get the juice out;Je dois presser ce citron pour en extraire le jus.
+Stammer;He stammered nervously when he was asked a question;Il bredouillait nerveusement quand on lui posait une question.
+Stand;The group stood in a circle and held hands;Le groupe se tenait en cercle et se tenait les mains.
+Start;She will start her new job next week;Elle commencera son nouveau travail la semaine prochaine.
+Stay;We decided to stay home and have a movie night;Nous avons décidé de rester à la maison et de regarder un film.
+Steal;The thief was caught trying to steal a purse;Le voleur a été pris en train d'essayer de voler un sac.
+Stick;The glue didn't stick to the paper very well;La colle n'a pas bien adhéré au papier.
+Sting;The bee stung me on the hand;L'abeille m'a piqué sur la main.
+Stink;The garbage smelled so bad that it made me stink also;Les ordures sentaient tellement mauvais que je puais aussi.
+Stop;The car stopped suddenly at the red light;La voiture s'est arrêtée brusquement au feu rouge.
+Strew;She strewed the rose petals on the bed;Elle a dispersé les pétales de roses sur le lit.
+Stride;He strode confidently towards the finish line;Il a marché d'un pas assuré vers la ligne d'arrivée.
+Strike;She struck the match against the box;Elle a allumé la match en la frottant contre la boîte.
+String;He strung the guitar before the concert;Il a accordé la guitare avant le concert.
+Strive;We strive to make a difference in the world;Nous nous efforçons de faire la différence dans le monde.
+Study;She studied hard for her exam;Elle a étudié dur pour son examen.
+Suffer;He suffered from a chronic illness;Il souffrait d'une maladie chronique.
+Surprise;She surprised him with a birthday cake;Elle lui a fait une surprise avec un gâteau d'anniversaire.
+Swear;He swore to tell the truth;Il a juré de dire la vérité.
+Sweat;She sweated profusely during her workout;Elle a beaucoup transpiré pendant son entraînement.
+Sweep;He swept the floor with a broom;Il a balayé le sol avec un balai.
+Swell;The waves were beginning to swell;Les vagues commençaient à se gonfler.
+Swim;She likes to swim in the ocean;Elle adore nager dans l'océan.
+Swing;He swung the bat and hit the ball;Il a frappé la balle avec le bat.
+Tailor;She had her dress tailored to her body;Elle a fait ajuster sa robe à sa morphologie.
+Take;He took the book from the shelf;Il a pris le livre de l'étagère.
+Talk;We talked for hours about our favorite movies;Nous avons discuté pendant des heures de nos films préférés.
+Tap;She tapped her foot to the beat of the music;Elle tapait du pied au rythme de la musique.
+Target;The company targeted a specific demographic;La société a ciblé une population spécifique.
+Taste;He tasted the soup and added more seasoning;Il a goûté la soupe et a ajouté plus d'assaisonnement.
+Teach;I love to teach English as a second language;J'adore enseigner l'anglais comme seconde langue.
+Tear;I accidentally tore my new shirt;Lorsque j'ai accidentellement déchiré ma nouvelle chemise.
+Tease;John likes to tease his little brother;John aime taquiner son petit frère.
+Tell;Can you tell me the time?;Pouvez-vous me dire l'heure?
+Tend;She tends to her garden every day;Elle prend soin de son jardin tous les jours.
+Terrify;The horror movie terrified me;Le film d'horreur m'a effrayé.
+Test;We have the math test tomorrow;Nous avons le test de mathématiques demain.
+Thank;I would like to thank my family for their support;Je tiens à remercier ma famille pour son soutien.
+Think;I need time to think about it;J'ai besoin de temps pour y réfléchir.
+Thrive;The plants are thriving in the greenhouse;Les plantes prospèrent sous la serre.
+Throw;Can you throw me the ball?;Pouvez-vous me lancer la balle?
+Thrust;He thrust his sword into the dragon's chest;Il a enfoncé son épée dans la poitrine du dragon.
+Tick;The clock is ticking;Le temps passe.
+Tickle;The baby giggled when I tickled her foot;Le bébé a rigolé quand j'ai chatouillé son pied.
+Tie;I need to tie my shoes;Lorsque j'ai besoin de nouer mes chaussures.
+Tolerate;I cannot tolerate this behavior;Je ne peux pas tolérer ce comportement.
+Touch;Please do not touch the artwork;S'il vous plaît, ne touchez pas à l'oeuvre d'art.
+Toughen;Hard work will toughen you up;Le travail dur vous endurcira.
+Toy;He likes to toy with people's emotions;Il aime jouer avec les émotions des gens.
+Trade;We will trade one book for another;Nous échangerons un livre contre un autre.
+Train;I need to train for the marathon;Je dois m'entraîner pour le marathon.
+Tranquilize;The doctor tranquilized the patient before the surgery;Le médecin a tranquillisé le patient avant la chirurgie.
+Translate;I can translate this document into French;Je peux traduire ce document en français.
+Transpire;It will transpire sooner or later;Ça finira par transpirer tôt ou tard.
+Trap;The hunter trapped a rabbit;Le chasseur a piégé un lapin.
+Travel;I love to travel to different countries;J'aime voyager dans différents pays.
+Trick;He tricked me into believing his story;Il m'a trompé en me faisant croire son histoire.
+Trim;I need to trim my hair;Ils faut que je coupe mes cheveux.
+Triumph;The team's hard work paid off, resulting in a triumph;Le travail dur de l'équipe a payé, résultant en un triomphe.
+Trouble;Don't trouble yourself over it;Ne te fais pas de soucis à ce sujet.
+Trust;I trust my best friend;I fais confiance à mon meilleur ami.
+Try;I need to try this recipe;Ils faut que j'essaie cette recette.
+Tuck;She tucked her child into bed;Elle a bordé son enfant.
+Tune;I need to tune my guitar;Je dois accorder ma guitare.
+Turn;Please turn the music down;S'il vous plaît baissez la musique.
+Twist;I twisted my ankle while running;Je me suis tordu la cheville en courant.
+Type;Can you type this letter for me;Peux-tu taper cette lettre pour moi?
+Unbutton;He unbuttoned his shirt;Il a déboutonné sa chemise.
+Uncover;They uncovered a secret;Ils ont découvert un secret.
+Underestimate;I underestimated how difficult this project would be;J'ai sous-estimé à quel point ce projet serait difficile.
+Undergo;She had to undergo surgery;Elle a dû subir une opération.
+Underline;Please underline the important parts;Veuillez souligner les parties importantes.
+Understand;I don't understand the instructions;Je ne comprends pas les instructions.
+Undertake;I will undertake the project;Je prendrai en charge le projet.
+Undress;He started to undress;Il a commencé à se déshabiller.
+Unfold;She slowly unfolded the paper;Elle a lentement déplié le papier.
+Unite;The countries will unite for peace;Les pays s'uniront pour la paix.
+Unlock;Can you unlock the door, please?;Pouvez-vous déverrouiller la porte, s'il vous plaît?
+Unmask;We need to unmask the truth;Nous devons démasquer la vérité.
+Unpack;I need to unpack my suitcase;J'ai besoin de défaire ma valise.
+Untie;Can you untie the knot?;Pouvez-vous dénouer le nœud ?
+Uplift;The inspiring speech uplifted the audience;Le discours inspirant a encouragé le public.
+Upset;She was upset about the news;Elle était bouleversée par les nouvelles.
+Use;Please use caution;Veuillez utiliser la prudence.
+Utter;He could not utter a word;Il n'a pas pu prononcer un mot.
+Vacate;Please vacate the premises;Veuillez quitter les lieux.
+Vacuum;I have to vacuum the carpets;Je dois passer l'aspirateur sur les tapis.
+Value;The antique has great value;La pièce d'antiquité a une grande valeur.
+Vandalize;They vandalized the park;Ils ont vandalisé le parc.
+Vanish;The magician made the rabbit vanish;Le magicien a fait disparaître le lapin.
+Vary;The prices vary depending on the season.;Les prix varient en fonction de la saison.
+Vent;He vented his frustration by yelling at his coworkers.;Il a exprimé sa frustration en hurlant sur ses collègues.
+Verify;Please verify your email address to complete the registration.;Veuillez vérifier votre adresse e-mail pour terminer l'inscription.
+Vibrate;The phone vibrated in his pocket.;Le téléphone a vibré dans sa poche.
+View;She has a different view on the topic.;Elle a un point de vue différent sur le sujet.
+Visit;We will visit the museum tomorrow.;Nous visiterons le musée demain.
+Volunteer;He decided to volunteer at the animal shelter.;Il a décidé de faire du bénévolat dans le refuge pour animaux.
+Vomit;The patient vomited after the surgery.;Le patient a vomi après la chirurgie.
+Vote;The citizens will vote for their new mayor.;Les citoyens voteront pour leur nouveau maire.
+Wait;Please wait for the bus at the designated stop.;Veuillez attendre le bus à l'arrêt désigné.
+Wake;She wakes up early every morning.;Elle se réveille tôt chaque matin.
+Walk;I like to walk in the park on Sundays.;J'aime me promener dans le parc le dimanche.
+Want;He wants a new car for his birthday.;Il veut une nouvelle voiture pour son anniversaire.
+Warm;The sun warmed up the air.;Le soleil a réchauffé l'air.
+Warn;The sign warned of dangerous currents in the water.;Le panneau a mis en garde contre les courants dangereux dans l'eau.
+Wash;She washed the dishes after dinner.;Elle a lavé la vaisselle après le dîner.
+Waste;Don't waste your time on things that don't matter.;Ne perdez pas votre temps sur des choses qui n'ont pas d'importance.
+Watch;He likes to watch movies on weekends.;Il aime regarder des films le week-end.
+Water;Please water the plants every other day.;Veuillez arroser les plantes un jour sur deux.
+Wear;He always wears a suit to work.;Il porte toujours un costume au travail.
+Weave;She weaves baskets from natural fibers;Elle tisse des paniers à partir de fibres naturelles.
+Weep;He weeps uncontrollably after the loss of his dog;Il pleure inconsolablement après la perte de son chien.
+Weigh;Please weigh this package to see how much it is;Veuillez peser ce paquet pour voir combien il pèse.
+Welcome;We welcome you to our home;Nous vous accueillons chez nous.
+Wet;The rain wet his hair;La pluie a mouillé ses cheveux.
+Whine;She whines about everything;Elle se plaint de tout.
+Whip;He whipped the cream until it formed stiff peaks;Il a fouetté la crème jusqu'à ce qu'elle forme des pics fermes.
+Whisper;She whispered to her friend so as not to disturb the others;Elle a chuchoté à son amie pour ne pas déranger les autres.
+Whistle;The referee blew his whistle to signal the end of the game;L'arbitre a sifflé pour signaler la fin du match.
+Win;The team managed to win despite being behind for most of the game;L'équipe a réussi à gagner malgré être restée derrière pendant la majeure partie du match.
+Wind;The river winds through the valley;La rivière serpente à travers la vallée.
+Wink;She winked at him to let him know she was joking;Elle a fait un clin d'œil pour lui faire savoir qu'elle plaisantait.
+Wish;I wish I could go on vacation;Je souhaite pouvoir partir en vacances.
+Withdraw;He withdrew all of his money from the bank;Il a retiré tout son argent de la banque.
+Withhold;She withheld the information from her boss;Elle a retenu l'information à son patron.
+Withstand;The bridge was able to withstand the weight of the truck;Le pont a pu supporter le poids du camion.
+Witness;He witnessed the accident and called the police;Il a été témoin de l'accident et a appelé la police.
+Wonder;I wonder what the future holds;Je me demande ce que l'avenir nous réserve.
+Work;She works in a hospital as a nurse;Elle travaille dans un hôpital en tant qu'infirmière.
+Worry;She worries about her children's safety;Elle s'inquiète de la sécurité de ses enfants.
+Wound;He was wounded in battle;Il a été blessé pendant la bataille.
+Wrap;She wrapped the gift in paper;Elle a enveloppé le cadeau dans du papier.
+Wreck;The storm wrecked the ship;La tempête a fait naufrager le navire.
+Wrinkle;She noticed a wrinkle on her shirt;Elle a remarqué une ride sur sa chemise.
+Write;I am writing a letter to my friend;Je suis en train d'écrire une lettre à mon amie.
+Yawn;He yawned loudly during the meeting;Il a baillé bruyamment pendant la réunion.
+Yearn;He yearns to go on a vacation;Il désire ardemment partir en vacances.
+Yell;Please don't yell at me;Ils vous plait, ne me criez pas dessus.
+Yield;The crops yielded a great harvest;Les cultures ont donné une grande récolte.

@@ -1,151 +1,935 @@
-Ability;Capacité;B2;4;
-Access;Accès;B1;6;
-Accident;Accident;A2;8;
-Account;Compte;A2;10;
-Act;Acte;B2;6;
-Action;Action;B1;8;
-Activity;Activité;A2;7;
-Actor;Acteur;B1;3;
-Ad;Annonce;B2;2;
-Addition;Addition;A2;4;
-Address;Adresse;A2;9;
-Administration;Administration;C1;5;
-Advantage;Avantage;B1;4;
-Advertising;Publicité;B2;4;
-Advice;Conseil;B1;7;
-Affair;Affaire;B2;7;
-Age;Âge;A1;9;
-Agency;Agence;B2;5;
-Agreement;Accord;B1;7;
-Air;Air;A1;10;
-Airport;Aéroport;A2;8;
-Alcohol;Alcool;B2;6;
-Ambition;Ambition;B2;3;
-Amount;Quantité;B1;6;
-Analysis;Analyse;C1;4;
-Analyst;Analyste;B2;2;
-Animal;Animal;A2;10;
-Answer;Réponse;A1;8;
-Anxiety;Anxiété;B2;5;
-Apartment;Appartement;B1;5;
-Appearance;Apparence;B2;5;
-Apple;Pomme;A1;10;
-Application;Application;B1;6;
-Appointment;Rendez-vous;B1;7;
-Area;Zone;A2;9;
-Argument;Argument;B2;6;
-Army;Armée;B1;4;
-Arrival;Arrivée;A2;7;
-Art;Art;B1;7;
-Article;Article;B1;7;
-Aspect;Aspect;B2;4;
-Assignment;Affectation;B2;3;
-Assistance;Assistance;B2;5;
-Assistant;Assistant;B1;4;
-Association;Association;B1;6;
-Assumption;Supposition;C1;3;
-Atmosphere;Atmosphère;B2;5;
-Attempt;Tentative;B1;8;
-Attention;Attention;B1;7;
-Attitude;Attitude;B2;6;
-- Audience;Public;B2;8;Conversation
-- Aunt;Tante;A1;5;Famille
-- Average;Moyenne;B2;7;Mathématiques/Statistiques
-- Awareness;Conscience;C1;6;Méditation
-- Back;Dos;A2;9;Anatomie
-- Bad;Mauvais;A1;10;Sentiments
-- Balance;Équilibre;B1;7;Fitness
-- Ball;Balle;A1;9;Sport
-- Bank;Banque;B2;10;Finance
-- Baseball;Baseball;A2;8;Sport
-- Basis;Base;B2;6;Principe
-- Basket;Panier;A2;8;Sport
-- Bath;Bain;A1;6;Maison
-- Bathroom;Salle de bain;A1;6;Maison
-- Bedroom;Chambre;A1;7;Maison
-- Beer;Bière;A2;9;Boisson
-- Beginning;Début;B1;7;Temps
-- Benefit;Avantage;B2;8;Travail
-- Bird;Oiseau;A1;8;Animaux
-- Birth;Naissance;B2;6;Famille
-- Birthday;Anniversaire;A1;8;Fête
-- Bit;Peu;A2;8;Quantité
-- Blood;Sang;B1;7;Anatomie
-- Board;Conseil;B2;8;Entreprise
-- Boat;Bateau;A1;9;Transport
-- Body;Corps;A2;9;Anatomie
-- Bonus;Prime;B2;7;Finance
-- Book;Livre;A1;9;Lecture
-- Boss;Patron;B1;8;Travail
-- Bottom;Fond;B2;5;Géographie
-- Box;Boîte;A1;9;Maison
-- Boy;Garçon;A1;8;Famille
-- Boyfriend;Petit ami;A2;7;Relation
-- Bread;Pain;A1;8;Nourriture
-- Breath;Souffle;B2;6;Méditation
-- Brother;Frère;A1;8;Famille
-- Building;Bâtiment;A2;8;Architecture
-- Bus;Bus;A1;9;Transport
-- Business;Entreprise;B2;10;Travail
-- Buyer;Acheteur;B2;7;Commerce
-- Cabinet;Cabinet;B1;6;Mobilier
-- Camera;Caméra;A2;8;Technologie
-- Cancer;Cancer;B2;7;Médecine
-- Candidate;Candidat;B2;6;Politique
-- Capital;Capital;B2;8;Finance
-- Car;Voiture;A1;9;Transport
-- Card;Carte;A1;9;Papeterie
-- Care;Soins;B1;7;Médecine
-- Career;Carrière;B2;8;Travail
-- Case;Cas;B2;7;Juridique
-Ability;Capacité;B2;5;
-Access;Accès;B2;5;
-Accident;Accident;A2;7;
-Account;Compte;B1;6;
-Act;Acte;B2;4;
-Action;Action;B2;5;
-Activity;Activité;B1;6;
-Actor;Acteur;B2;5;
-Ad;Publicité;B2;4;
-Addition;Addition;A2;7;
-Address;Adresse;B1;6;
-Administration;Administration;B2;4;
-Advantage;Avantage;B2;5;
-Advertising;Publicité;B2;4;
-Advice;Conseil;B1;7;
-Affair;Affaire;B2;5;
-Age;Âge;A2;7;
-Agency;Agence;B1;6;
-Agreement;Accord;B1;6;
-Air;Air;A2;6;
-Airport;Aéroport;B1;6;
-Alcohol;Alcool;B2;4;
-Ambition;Ambition;B1;5;
-Amount;Montant;B2;5;
-Analysis;Analyse;B2;5;
-Analyst;Analyste;B2;5;
-Animal;Animal;A1;8;
-Answer;Réponse;B2;5;
-Anxiety;Anxiété;B2;4;
-Apartment;Appartement;A2;7;
-Appearance;Apparence;B2;5;
-Apple;Pomme;A1;9;
-Application;Application;B1;6;
-Appointment;Rendez-vous;B1;6;
-Area;Zone;B1;6;
-Argument;Argument;B2;5;
-Army;Armée;B1;5;
-Arrival;Arrivée;B1;6;
-Art;Art;B1;5;
-Article;Article;B1;6;
-Aspect;Aspect;B1;5;
-Assignment;Affectation;B2;4;
-Assistance;Assistance;B1;5;
-Assistant;Assistant;B1;5;
-Association;Association;B2;5;
-Assumption;Supposition;B2;4;
-Atmosphere;Atmosphère;B2;4;
-Attempt;Essai;B2;5;
-Attention;Attention;B1;6;
-Attitude;Attitude;B2;5;
-Désolé, en tant qu'assistant IA, je suis capable de traduire ou de donner la signification de ces noms, mais je ne peux pas citer de catégorie pour chacun d'entre eux. Pourriez-vous préciser davantage votre demande ?
+Nom;tag1;tag2;info1;info2
+Ability;work;;abstract;countable
+Access;;transport;concrete;countable
+Accident;;work;concrete;countable
+Account;;work;concrete;countable
+Act;;art;abstract;countable
+Action;;work;concrete;countable
+Activity;;work;concrete;countable
+Actor;;art;concrete;countable
+Ad;;advertising;abstract;countable
+Addition;;mathematics;concrete;countable
+Address;;work;concrete;countable
+Administration;;work;concrete;countable
+Advantage;;work;abstract;countable
+Advertising;;advertising;concrete;countable
+Advice;;work;abstract;uncountable
+Affair;;work;abstract;countable
+Age;;human;concrete;uncountable
+Agency;;work;abstract;countable
+Agreement;;work;abstract;countable
+Air;;nature;concrete;uncountable
+Airport;;transport;concrete;countable
+Alcohol;;human;concrete;uncountable
+Ambition;;work;abstract;countable
+Amount;;mathematics;concrete;uncountable
+Analysis;;mathematics;abstract;countable
+Analyst;;work;concrete;countable
+Animal;;animal;nature;concrete;countable
+Answer;;work;abstract;countable
+Anxiety;;human;abstract;uncountable
+Apartment;;work;concrete;countable
+Appearance;;human;concrete;countable
+Apple;;vegetable;nature;concrete;countable
+Application;;work;concrete;countable
+Appointment;;work;concrete;countable
+Area;;mathematics;concrete;countable
+Argument;;work;abstract;countable
+Army;;human;concrete;countable
+Arrival;;transport;concrete;countable
+Art;;art;;uncountable
+Article;;work;concrete;countable
+Aspect;;work;abstract;countable
+Assignment;;work;abstract;countable
+Assistance;;work;abstract;uncountable
+Assistant;;work;concrete;countable
+Association;;work;abstract;countable
+Assumption;;work;abstract;countable
+Atmosphere;;nature;concrete;uncountable
+Attempt;;work;abstract;countable
+Attention;;human;abstract;uncountable
+Attitude;;human;abstract;countable
+Unfortunately, as an AI language model, I am not capable of generating a CSV file. However, I have created a list of the given names with their respective categories as per the mentioned format.
+
+nom;tag1;tag2;info1;info2
+Audience;human;;abstract;uncountable
+Aunt;human;;concrete;countable
+Average;math;;abstract;uncountable
+Awareness;human;;abstract;uncountable
+Back;body;;concrete;countable
+Bad;adjective;;abstract;uncountable
+Balance;(mental) health;;abstract;uncountable
+Ball;object;;concrete;countable
+Bank;place;;concrete;countable
+Baseball;sport;;concrete;countable
+Basis;foundation;;abstract;uncountable
+Basket;object;;concrete;countable
+Bath;activity;;concrete;uncountable
+Bathroom;place;;concrete;countable
+Bedroom;place;;concrete;countable
+Beer;drink;;concrete;uncountable
+Beginning;event;;abstract;uncountable
+Benefit;advantage;;abstract;uncountable
+Bird;animal;;concrete;countable
+Birth;event;;concrete;uncountable
+Birthday;event;;concrete;countable
+Bit;computer;;concrete;countable
+Blood;body;;concrete;uncountable
+Board;object;;concrete;countable
+Boat;transport;;concrete;countable
+Body;anatomy;;concrete;countable
+Bonus;reward;;concrete;countable
+Book;object;;concrete;countable
+Boss;position;;concrete;countable
+Bottom;part;;concrete;countable
+Box;object;;concrete;countable
+Boy;human;;concrete;countable
+Boyfriend;human;;concrete;countable
+Bread;food;;concrete;uncountable
+Breath;body;;concrete;uncountable
+Brother;human;;concrete;countable
+Building;place;;concrete;countable
+Bus;transport;;concrete;countable
+Business;career;;abstract;uncountable
+Buyer;person;;concrete;countable
+Cabinet;furniture;;concrete;countable
+Camera;object;;concrete;countable
+Cancer;disease;;concrete;uncountable
+Candidate;person;;concrete;countable
+Capital;finance;;abstract;uncountable
+Car;transport;;concrete;countable
+Card;object;;concrete;countable
+Care;activity;;abstract;uncountable
+Career;job;;abstract;uncountable
+Case;object;;concrete;countable
+Voici la liste des noms en format CSV :
+
+nom;tag1;tag2;info1;info2 
+Cash;;object;concrete;countable 
+Cat;animal;nature;concrete;countable 
+Category;;concept;abstract;countable 
+Cause;;abstract;concrete;uncountable 
+Celebration;;event;concrete;countable 
+Cell;biology;science;concrete;countable 
+Championship;;sport;concrete;countable 
+Chance;;abstract;concrete;uncountable 
+Chapter;;book;abstract;countable 
+Charity;;organization;abstract;countable 
+Cheek;body part;human;concrete;countable 
+Chemistry;;science;concrete;uncountable 
+Chest;body part;human;concrete;countable 
+Chicken;animal;food;concrete;countable 
+Child;human;people;concrete;countable 
+Childhood;;human;abstract;uncountable 
+Chocolate;food;dessert;concrete;uncountable 
+Choice;;decision;abstract;countable 
+Church;;religion;concrete;countable 
+Cigarette;;smoking;concrete;countable 
+City;;location;concrete;countable 
+Class;;education;abstract;countable 
+Classroom;;education;concrete;countable 
+Client;;business;concrete;countable 
+Climate;;weather;abstract;uncountable 
+Clothes;;fashion;concrete;uncountable 
+Coast;;geography;concrete;countable 
+Coffee;;drink;concrete;uncountable 
+Collection;;hobby;concrete;countable 
+College;;education;concrete;countable 
+Combination;;math;abstract;countable 
+Committee;;organization;abstract;countable 
+Communication;;language;abstract;uncountable 
+Community;;people;abstract;countable 
+Company;;business;concrete;countable 
+Comparison;;language;abstract;countable 
+Competition;;sport;abstract;countable 
+Complaint;;rejection;abstract;countable 
+Computer;;technology;concrete;countable 
+Concept;;language;abstract;countable 
+Conclusion;;language;abstract;countable 
+Condition;;health;abstract;countable 
+Confusion;;emotion;abstract;uncountable 
+Connection;;language;abstract;countable 
+Consequence;;language;abstract;countable 
+Construction;;building;concrete;uncountable 
+Contact;;communication;concrete;uncountable 
+Context;;language;abstract;countable 
+Contract;;business;concrete;countable 
+Contribution;;action;abstract;countable
+Voici le format CSV demandé :
+
+nom;tag;info1;info2
+Ability;work;abstract;uncountable
+Access;object;abstract;uncountable
+Accident;object;concrete;countable
+Account;work;concrete;countable
+Act;art;abstract;countable
+Action;work;concrete;countable
+Activity;work;concrete;countable
+Actor;art;concrete;countable
+Ad;advertising;concrete;countable
+Addition;math;concrete;countable
+Address;object;concrete;countable
+Administration;work;abstract;uncountable
+Advantage;object;abstract;uncountable
+Advertising;advertising;concrete;uncountable
+Advice;work;abstract;uncountable
+Affair;work;abstract;countable
+Age;human;abstract;countable
+Agency;work;concrete;countable
+Agreement;work;abstract;countable
+Air;nature;concrete;uncountable
+Airport;transport;concrete;countable
+Alcohol;object;concrete;uncountable
+Ambition;human;abstract;countable
+Amount;math;abstract;uncountable
+Analysis;work;concrete;uncountable
+Analyst;work;concrete;countable
+Animal;nature;concrete;countable
+Answer;communication;abstract;countable
+Anxiety;human;abstract;uncountable
+Apartment;object;concrete;countable
+Appearance;human;abstract;countable
+Apple;vegetable;concrete;countable
+Application;work;concrete;uncountable
+Appointment;work;concrete;countable
+Area;nature;concrete;uncountable
+Argument;work;abstract;countable
+Army;work;concrete;countable
+Arrival;transport;concrete;countable
+Art;art;abstract;uncountable
+Article;work;concrete;countable
+Aspect;work;abstract;countable
+Assignment;work;concrete;countable
+Assistance;work;abstract;uncountable
+Assistant;work;concrete;countable
+Association;work;concrete;countable
+Assumption;work;abstract;countable
+Atmosphere;nature;concrete;uncountable
+Attempt;work;abstract;countable
+Attention;human;abstract;uncountable
+Attitude;human;abstract;countable
+Audience;human;abstract;uncountable
+Aunt;human;concrete;countable
+Average;math;abstract;countable
+Awareness;human;abstract;uncountable
+Back;body;concrete;countable
+Bad;emotion;abstract;uncountable
+Balance;math;abstract;uncountable
+Ball;sport;concrete;countable
+Bank;business;concrete;countable
+Baseball;sport;concrete;uncountable
+Basis;math;abstract;uncountable
+Basket;object;concrete;countable
+Bath;household;concrete;uncountable
+Bathroom;household;concrete;countable
+Bedroom;household;concrete;countable
+Beer;beverage;concrete;uncountable
+Beginning;time;abstract;uncountable
+Benefit;business;abstract;countable
+Bird;animal;concrete;countable
+Birth;human;concrete;uncountable
+Birthday;event;concrete;countable
+Bit;computer;concrete;countable
+Blood;body;concrete;uncountable
+Board;object;concrete;countable
+Boat;transport;concrete;countable
+Body;body;concrete;uncountable
+Bonus;business;concrete;countable
+Book;literature;concrete;countable
+Boss;business;concrete;countable
+Bottom;body;concrete;countable
+Box;object;concrete;countable
+Boy;human;concrete;countable
+Boyfriend;human;concrete;countable
+Bread;food;concrete;uncountable
+Breath;body;concrete;countable
+Brother;family;concrete;countable
+Building;construction;concrete;countable
+Bus;transport;concrete;countable
+Business;business;abstract;uncountable
+Buyer;business;concrete;countable
+Cabinet;furniture;concrete;countable
+Camera;object;concrete;countable
+Cancer;disease;concrete;uncountable
+Candidate;politics;concrete;countable
+Capital;business;abstract;uncountable
+Car;transport;concrete;countable
+Card;object;concrete;countable
+Care;health;concrete;uncountable
+Career;business;abstract;countable
+Case;object;concrete;countable
+Voici la liste des noms au format CSV:
+
+nom;tag;info1;info2
+Cash;work;concrete;countable
+Cat;animal;concrete;countable
+Category;concept;abstract;countable
+Cause;concept;abstract;uncountable
+Celebration;event;concrete;countable
+Cell;science;concrete;countable
+Championship;sport;concrete;countable
+Chance;concept;abstract;uncountable
+Chapter;literature;abstract;countable
+Charity;cause;abstract;uncountable
+Cheek;body part;concrete;countable
+Chemistry;science;abstract;uncountable
+Chest;body part;concrete;countable
+Chicken;animal;concrete;countable
+Child;human;concrete;countable
+Childhood;human;abstract;uncountable
+Chocolate;food;concrete;uncountable
+Choice;concept;abstract;countable
+Church;religion;concrete;countable
+Cigarette;object;concrete;countable
+City;urban;concrete;countable
+Class;education;concrete;countable
+Classroom;education;concrete;countable
+Client;business;concrete;countable
+Climate;environmental;abstract;uncountable
+Clothes;fashion;concrete;uncountable
+Coast;geography;concrete;uncountable
+Coffee;food;concrete;uncountable
+Collection;art;concrete;countable
+College;education;concrete;countable
+Combination;math;abstract;countable
+Committee;organization;concrete;countable
+Communication;language;abstract;uncountable
+Community;society;abstract;countable
+Company;business;concrete;countable
+Comparison;concept;abstract;countable
+Competition;sport;abstract;uncountable
+Complaint;expression;abstract;countable
+Computer;technology;concrete;countable
+Concept;philosophy;abstract;countable
+Conclusion;reasoning;abstract;countable
+Condition;health;abstract;countable
+Confusion;emotion;abstract;uncountable
+Connection;technology;abstract;countable
+Consequence;result;abstract;uncountable
+Construction;building;concrete;uncountable
+Contact;communication;concrete;uncountable
+Context;language;abstract;uncountable
+Contract;business;concrete;countable
+Contribution;donation;abstract;countable
+Voici le CSV correspondant à la liste des noms avec les informations demandées :
+
+nom;tag;info1;info2
+Control;work;concrete;countable
+Conversation;human;abstract;countable
+Cookie;food;concrete;countable
+Country;nature;abstract;countable
+County;nature;concrete;countable
+Courage;human;abstract;uncountable
+Course;education;concrete;countable
+Cousin;family;concrete;countable
+Craft;work;concrete;countable
+Credit;finance;abstract;countable
+Criticism;communication;abstract;uncountable
+Culture;education;abstract;uncountable
+Currency;finance;abstract;uncountable
+Customer;business;concrete;countable
+Cycle;transport;concrete;countable
+Dad;family;concrete;countable
+Data;technology;concrete;uncountable
+Database;technology;concrete;countable
+Date;time;concrete;countable
+Day;time;abstract;countable
+Dealer;business;concrete;countable
+Death;life;abstract;uncountable
+Debt;finance;abstract;uncountable
+Decision;thought;abstract;countable
+Definition;education;abstract;countable
+Delivery;logistics;concrete;countable
+Demand;business;abstract;uncountable
+Department;business;concrete;countable
+Departure;travel;concrete;countable
+Depression;psychology;abstract;uncountable
+Depth;nature;concrete;uncountable
+Description;communication;abstract;countable
+Design;art;concrete;uncountable
+Desk;office;concrete;countable
+Development;business;abstract;uncountable
+Device;technology;concrete;countable
+Diamond;jewelry;concrete;countable
+Difference;mathematics;abstract;countable
+Difficulty;education;abstract;uncountable
+Dinner;food;concrete;countable
+Direction;communication;abstract;countable
+Director;business;concrete;countable
+Dirt;nature;concrete;uncountable
+Disaster;nature;concrete;countable
+Discipline;education;abstract;uncountable
+Discussion;communication;abstract;countable
+Disease;health;concrete;countable
+Disk;technology;concrete;countable
+Distribution;business;concrete;uncountable
+Dog;animal;concrete;countable
+Drama;human;abstract;countable;
+            Drawer;object;concrete;countable
+            Drawing;art;abstract;countable
+            Driver;human;concrete;countable
+            Ear;body part;concrete;countable
+            Earth;nature;concrete;uncountable
+            Economics;science;abstract;uncountable
+            Economy;business;abstract;uncountable
+            Editor;profession;concrete;countable
+            Education;field of study;abstract;uncountable
+            Effect;result;concrete;countable
+            Efficiency;quality;abstract;uncountable
+            Effort;action;concrete;uncountable
+            Egg;food;concrete;countable
+            Election;event;concrete;countable
+            Elevator;transport;concrete;countable
+            Emotion;human;abstract;uncountable
+            Emphasis;quality;abstract;uncountable
+            Employee;profession;concrete;countable
+            Employer;profession;concrete;countable
+            Employment;condition;abstract;uncountable
+            End;conclusion;concrete;countable
+            Energy;physics;abstract;uncountable
+            Engine;machine;concrete;countable
+            Entertainment;activity;abstract;uncountable
+            Enthusiasm;feeling;abstract;uncountable
+            Entry;place;concrete;countable
+            Environment;nature;concrete;uncountable
+            Equipment;tool;concrete;uncountable
+            Error;mistake;concrete;countable
+            Establishment;place;concrete;countable
+            Estate;property;concrete;countable
+            Event;activity;concrete;countable
+            Exam;test;concrete;countable
+            Examination;test;concrete;countable
+            Example;illustration;concrete;countable
+            Exchange;transaction;concrete;countable
+            Excitement;feeling;abstract;uncountable
+            Exercise;activity;concrete;uncountable
+            Experience;knowledge;abstract;uncountable
+            Explanation;information;abstract;countable
+            Expression;language;abstract;countable
+            Extent;degree;abstract;uncountable
+            Eye;body part;concrete;countable
+            Face;body part;concrete;countable
+            Fact;information;concrete;countable
+            Failure;result;concrete;uncountable
+            Family;human;concrete;countable
+            Farmer;profession;concrete;countable
+            Fat;food;concrete;uncountable
+Voici la liste des noms :
+
+```
+Feature
+Feedback
+Field
+Figure
+Film
+Finding
+Fire
+Fish
+Flight
+Focus
+Food
+Football
+Force
+Form
+Fortune
+Foundation
+Frame
+Freedom
+Friendship
+Fun
+Funeral
+Future
+Game
+Garbage
+Garden
+Gate
+Gene
+Gift
+Girl
+Girlfriend
+Goal
+Government
+Grandmother
+Grocery
+Group
+Growth
+Guest
+Guidance
+Guide
+Guitar
+Hair
+Half
+Hall
+Hand
+Hat
+Head
+Health
+Hearing
+Heart
+Heat
+```
+
+En utilisant les tags proposés (animal, vegetable, object, human, transport, work, nature et autre) ainsi que les informations "abstract/concrete" et "countable/uncountable", voici la liste des noms au format CSV demandé :
+
+```
+Feature;autre;abstract;countable
+Feedback;autre;abstract;countable
+Field;nature;concret;uncountable
+Figure;object;concret;countable
+Film;work;concret;countable
+Finding;autre;concret;countable
+Fire;nature;concret;uncountable
+Fish;animal;concret;countable
+Flight;transport;concret;uncountable
+Focus;autre;abstract;countable
+Food;vegetable;concret;uncountable
+Football;sport;concret;countable
+Force;autre;concret;uncountable
+Form;autre;concret;countable
+Fortune;autre;concret;uncountable
+Foundation;constrution;concret;countable
+Frame;object;concret;countable
+Freedom;autre;abstract;uncountable
+Friendship;autre;abstract;uncountable
+Fun;autre;abstract;uncountable
+Funeral;autre;concret;countable
+Future;autre;abstract;uncountable
+Game;autre;concret;countable
+Garbage;autre;concret;uncountable
+Garden;nature;concret;countable
+Gate;object;concret;countable
+Gene;science;abstract;countable
+Gift;autre;concret;countable
+Girl;human;concret;countable
+Girlfriend;human;concret;countable
+Goal;autre;abstract;countable
+Government;autre;concret;uncountable
+Grandmother;human;concret;countable
+Grocery;shopping;concret;countable
+Group;autre;concret;countable
+Growth;autre;abstract;uncountable
+Guest;autre;concret;countable
+Guidance;autre;abstract;uncountable
+Guide;autre;concret;countable
+Guitar;music;concret;countable
+Hair;human;concret;uncountable
+Half;autre;concret;countable
+Hall;autre;concret;countable
+Hand;human;concret;countable
+Hat;clothes;concret;countable
+Head;human;concret;countable
+Health;autre;abstract;uncountable
+Hearing;human;abstract;uncountable
+Heart;human;concret;countable
+Heat;science;nature;uncountable
+```
+Voici la liste des noms convertis en format CSV avec les tags animal, vegetable, object, human, transport, work, nature et autre, ainsi que les informations sur leur caractère concret/abstrait et comptable/non-comptable :
+
+Height;nature;concrete;uncountable;
+Highway;transport;concrete;countable;
+Historian;human;concrete;countable;
+History;human;abstract;uncountable;
+Home;object;abstract;countable;
+Homework;work;abstract;uncountable;
+Honey;animal;concrete;uncountable;
+Hope;human;abstract;uncountable;
+Hospital;human;concrete;countable;
+Hotel;work;concrete;countable;
+House;object;concrete;countable;
+Housing;object;abstract;uncountable;
+Ice;nature;concrete;uncountable;
+Idea;human;abstract;countable;
+Image;object;concrete;countable;
+Imagination;human;abstract;uncountable;
+Impact;nature;concrete;uncountable;
+Importance;human;abstract;uncountable;
+Impression;human;abstract;countable;
+Improvement;work;abstract;uncountable;
+Income;work;concrete;uncountable;
+Independence;human;abstract;uncountable;
+Indication;human;abstract;countable;
+Industry;work;abstract;uncountable;
+Inflation;economy;abstract;uncountable;
+Information;object;abstract;uncountable;
+Initiative;work;abstract;countable;
+Injury;human;concrete;countable;
+Insect;animal;concrete;countable;
+Inside;object;abstract;uncountable;
+Inspection;work;concrete;countable;
+Inspector;work;concrete;countable;
+Instance;object;abstract;countable;
+Instruction;work;abstract;countable;
+Insurance;work;abstract;uncountable;
+Intention;human;abstract;countable;
+Interaction;human;abstract;uncountable;
+Interest;work;abstract;uncountable;
+Internet;object;concrete;uncountable;
+Introduction;work;abstract;countable;
+Investment;economy;abstract;uncountable;
+Issue;work;abstract;countable;
+Item;object;concrete;countable;
+Job;work;concrete;countable;
+Judgment;human;abstract;countable;
+Key;object;concrete;countable;
+Kind;human;abstract;countable;
+King;human;concrete;countable;
+Knowledge;human;abstract;uncountable;
+Lab;work;concrete;countable;
+Ladder;object;concrete;countable;
+Lady;human;concrete;countable;
+Lake;nature;concrete;countable;
+Language;human;abstract;uncountable;
+Law;work;abstract;uncountable;
+Leader;human;concrete;countable;
+Leadership;work;abstract;uncountable;
+Length;object;concrete;uncountable;
+Level;object;concrete;uncountable;
+Library;object;concrete;countable;
+Life;nature;abstract;uncountable;
+Light;object;concrete;uncountable;
+Line;object;concrete;countable;
+Link;object;concrete;countable;
+List;object;concrete;countable;
+Literature;art;abstract;uncountable;
+Location;place;concrete;uncountable;
+Loss;emotion;abstract;uncountable;
+Love;emotion;abstract;uncountable;
+Machine;object;concrete;countable;
+Magazine;art;concrete;countable;
+Maintenance;work;concrete;uncountable;
+Mall;place;concrete;countable;
+Man;human;concrete;countable;
+Management;work;abstract;uncountable;
+Manager;work;concrete;countable;
+Manufacturer;work;concrete;countable;
+Map;object;concrete;countable;
+Market;work;concrete;countable;
+Marketing;work;abstract;uncountable;
+Marriage;human;concrete;uncountable;
+Material;object;concrete;uncountable;
+Math;science;abstract;uncountable;
+Matter;science;abstract;uncountable;
+Meal;food;concrete;countable;
+Meaning;language;abstract;uncountable;
+Measurement;science;abstract;uncountable;
+Meat;food;concrete;uncountable;
+Media;art;abstract;uncountable;
+Medicine;science;abstract;uncountable;
+Medium;object;concrete;uncountable;
+Member;human;concrete;countable;
+Membership;work;abstract;uncountable;
+Memory;mind;abstract;uncountable;
+Menu;food;concrete;countable;
+Message;communication;concrete;countable;
+Metal;object;concrete;uncountable;
+Method;work;abstract;uncountable;
+Midnight;time;concrete;uncountable;
+Mind;human;abstract;uncountable;
+Voici le format CSV demandé avec les informations fournies pour chaque nom de la liste:
+
+nom;tag;info1;info2
+Mixture;other;concrete;countable
+Mode;other;abstract;countable
+Model;object;concrete;countable
+Mom;human;concrete;countable
+Moment;other;abstract;countable
+Money;object;concrete;uncountable
+Month;other;concrete;countable
+Mood;other;abstract;countable
+Morning;other;concrete;countable
+Mouse;animal;concrete;countable
+Movie;other;concrete;countable
+Mud;nature;concrete;uncountable
+Music;other;abstract;uncountable
+Name;other;abstract;countable
+Nation;other;concrete;countable
+Nature;nature;abstract;uncountable
+Negotiation;other;abstract;uncountable
+Network;other;concrete;countable
+News;other;concrete;uncountable
+Newspaper;other;concrete;countable
+Night;other;concrete;countable
+Note;other;concrete;countable
+Nothing;other;abstract;uncountable
+Number;other;concrete;countable
+Object;object;concrete;countable
+Obligation;other;abstract;countable
+Office;other;concrete;countable
+Oil;nature;concrete;uncountable
+Operation;other;abstract;countable
+Opinion;other;abstract;countable
+Opportunity;other;abstract;countable
+Orange;vegetable;concrete;countable
+Order;other;abstract;countable
+Organization;other;abstract;countable
+Outcome;other;abstract;countable
+Outside;other;concrete;uncountable
+Oven;object;concrete;countable
+Owner;other;concrete;countable
+Page;other;concrete;countable
+Paint;other;concrete;uncountable
+Painting;other;concrete;countable
+Paper;other;concrete;uncountable
+Part;other;abstract;countable
+Passenger;other;concrete;countable
+Passion;other;abstract;uncountable
+Patience;other;abstract;uncountable
+Payment;other;abstract;countable
+Penalty;other;abstract;countable
+People;human;concrete;countable
+Percentage;other;abstract;countable
+Perception;human;abstract;uncountable
+Performance;human;concrete;uncountable
+Period;nature;concrete;countable
+Permission;human;abstract;uncountable
+Person;human;concrete;countable
+Personality;human;abstract;uncountable
+Perspective;human;abstract;uncountable
+Philosophy;human;abstract;uncountable
+Phone;object;concrete;countable
+Photo;object;concrete;countable
+Physics;nature;abstract;uncountable
+Piano;object;concrete;countable
+Picture;object;concrete;countable
+Pie;food;concrete;countable
+Piece;object;concrete;countable
+Pizza;food;concrete;countable
+Place;object;concrete;countable
+Plan;work;abstract;countable
+Platform;object;concrete;countable
+Player;human;concrete;countable
+Poem;art;abstract;countable
+Poet;human;concrete;countable
+Poetry;art;abstract;uncountable
+Point;mathematics;abstract;countable
+Police;human;concrete;uncountable
+Policy;government;abstract;uncountable
+Politics;government;abstract;uncountable
+Pollution;nature;concrete;uncountable
+Population;nature;concrete;uncountable
+Position;work;abstract;countable
+Possession;human;abstract;uncountable
+Possibility;abstract;abstract;uncountable
+Post;work;concrete;countable
+Pot;object;concrete;countable
+Potato;vegetable;concrete;countable
+Power;abstract;abstract;uncountable
+Practice;work;concrete;uncountable
+Preference;human;abstract;uncountable
+Preparation;work;abstract;uncountable
+Presence;human;abstract;uncountable
+Presentation;work;concrete;countable
+President;human;concrete;countable
+Pressure;nature;concrete;uncountable
+Price;economic;abstract;uncountable
+Priority;abstract;abstract;uncountable
+Problem;abstract;abstract;countable
+Procedure;work;abstract;countable
+Process;work;abstract;countable
+Product;work;concrete;countable
+Profession;work;abstract;countable
+nom;tag;info1;info2
+Professor;human;concrete;countable
+Profit;work;abstract;uncountable
+Program;work;abstract;countable
+Promotion;work;abstract;countable
+Property;object;concrete;countable
+Proposal;work;abstract;countable
+Protection;nature;concrete;uncountable
+Psychology;human;abstract;uncountable
+Purpose;human;abstract;uncountable
+Quality;abstract;uncountable
+Quantity;abstract;uncountable
+Queen;human;concrete;countable
+Question;human;abstract;countable
+Radio;object;concrete;uncountable
+Range;nature;concrete;countable
+Rate;math;abstract;countable
+Ratio;math;abstract;countable
+Reaction;science;abstract;countable
+Reality;nature;abstract;uncountable
+Reason;human;abstract;uncountable
+Reception;work;abstract;uncountable
+Recipe;food;abstract;countable
+Recognition;work;abstract;countable
+Recommendation;work;abstract;uncountable
+Record;object;concrete;countable
+Recording;object;concrete;countable
+Reflection;human;abstract;uncountable
+Refrigerator;object;concrete;countable
+Region;nature;concrete;countable
+Relation;human;abstract;uncountable
+Relationship;human;abstract;countable
+Replacement;object;concrete;countable
+Republic;human;abstract;countable
+Reputation;work;abstract;uncountable
+Requirement;work;abstract;countable
+Research;work;abstract;uncountable
+Resolution;work;abstract;uncountable
+Resource;nature;concrete;countable
+Response;human;abstract;countable
+Responsibility;human;abstract;countable
+Restaurant;food;concrete;countable
+Result;work;abstract;countable
+Revenue;economy;abstract;uncountable
+Review;work;abstract;countable
+Revolution;history;abstract;countable
+Risk;economy;abstract;countable
+River;nature;concrete;countable
+Road;transport;concrete;countable
+Rock;nature;concrete;countable
+Role;human;abstract;countable
+nom;tag;info1;info2
+Room;object;concrete;countable
+Rule;work;abstract;countable
+Safety;object;abstract;uncountable
+Salad;vegetable;concrete;uncountable
+Salt;object;concrete;uncountable
+Sample;object;concrete;countable
+Satisfaction;abstract;uncountable;
+Scale;object;concrete;countable
+Scene;nature;concrete;countable
+School;human;concrete;countable
+Science;nature;abstract;uncountable
+Screen;object;concrete;uncountable
+Secretary;human;concrete;countable
+Section;object;concrete;countable
+Sector;work;concrete;countable
+Security;object;abstract;uncountable
+Selection;work;concrete;uncountable
+Sense;human;abstract;uncountable
+Series;object;concrete;uncountable
+Service;work;concrete;uncountable
+Session;work;concrete;countable
+Setting;object;concrete;uncountable
+Shape;object;concrete;countable
+Share;work;abstract;uncountable
+Shirt;clothing;concrete;countable
+Side;object;concrete;countable
+Sign;object;abstract;uncountable
+Signature;object;abstract;uncountable
+Significance;abstract;uncountable;
+Singer;human;concrete;countable
+Sir;human;concrete;countable
+Sister;human;concrete;countable
+Site;object;concrete;countable
+Situation;abstract;uncountable;
+Size;object;abstract;countable
+Skill;human;concrete;uncountable
+Society;human;abstract;uncountable
+Software;object;abstract;uncountable
+Soil;nature;concrete;uncountable
+Solution;work;abstract;countable
+Son;human;concrete;countable
+Song;art;concrete;countable
+Sound;object;concrete;uncountable
+Soup;food;concrete;uncountable
+Source;object;concrete;countable
+Space;nature;abstract;uncountable
+Speaker;object;concrete;countable
+Speech;art;abstract;uncountable
+Sport;activity;concrete;uncountable
+Square;shape;concrete;countable
+Voici le tableau CSV demandé :
+
+nom;tag;info1;info2
+Standard;other;concrete;countable
+Star;nature;concrete;countable
+State;other;abstract;countable
+Statement;other;abstract;countable
+Steak;food;concrete;countable
+Step;other;abstract;countable
+Stock;finance;concrete;uncountable
+Storage;other;concrete;uncountable
+Store;work;concrete;countable
+Story;other;abstract;countable
+Stranger;human;concrete;countable
+Strategy;other;abstract;countable
+Stress;human;abstract;uncountable
+Structure;other;concrete;countable
+Student;human;concrete;countable
+Studio;work;concrete;countable
+Study;other;abstract;uncountable
+Style;other;abstract;countable
+Subject;other;abstract;countable
+Success;other;abstract;uncountable
+Suggestion;other;abstract;countable
+Sun;nature;concrete;uncountable
+Supermarket;work;concrete;countable
+Surgery;work;concrete;uncountable
+Sympathy;human;abstract;uncountable
+System;technology;abstract;uncountable
+Table;home;concrete;countable
+Tale;other;abstract;countable
+Task;work;abstract;countable
+Tax;economy;abstract;countable
+Tea;food;concrete;uncountable
+Teacher;human;concrete;countable
+Technology;technology;abstract;uncountable
+Television;entertainment;concrete;countable
+Temperature;nature;abstract;concrete
+Tennis;sport;concrete;uncountable
+Tension;human;abstract;uncountable
+Term;other;abstract;countable
+Test;education;concrete;countable
+Thanks;other;abstract;uncountable
+Theory;education;abstract;countable
+Thing;other;concrete;countable
+Thought;other;abstract;countable
+Throat;human;concrete;countable
+Time;other;abstract;uncountable
+Tongue;human;concrete;countable
+Tool;work;concrete;countable
+Tooth;human;concrete;countable
+Top;other;concrete;countable
+Topic;other;abstract;countable
+Town;human;concrete;countable;
+Trade;work;abstract;uncountable;
+Tradition;human;abstract;countable;
+Trainer;human;concrete;countable;
+Training;work;abstract;uncountable;
+Transportation;transport;concrete;uncountable;
+Truth;human;abstract;countable;
+Two;human;concrete;countable;
+Type;object;abstract;countable;
+Uncle;human;concrete;countable;
+Understanding;human;abstract;countable;
+Union;human;abstract;countable;
+Unit;object;concrete;countable;
+University;object;concrete;countable;
+User;human;concrete;countable;
+Value;object;abstract;countable;
+Variation;nature;abstract;countable;
+Variety;nature;abstract;countable;
+Vehicle;transport;concrete;countable;
+Version;object;concrete;countable;
+Video;object;concrete;countable;
+View;nature;concrete;countable;
+Village;human;nature;countable;
+Virus;nature;concrete;uncountable;
+Voice;human;concrete;countable;
+Volume;object;abstract;countable;
+War;human;concrete;uncountable;
+Warning;human;abstract;countable;
+Water;nature;concrete;uncountable;
+Way;object;concrete;countable;
+Weakness;human;abstract;countable;
+Wealth;abstract;uncountable;
+Weather;nature;abstract;uncountable;
+Web;object;abstract;countable;
+Wedding;work;concrete;countable;
+Week;time;concrete;countable;
+While;time;abstract;uncountable;
+Wife;human;concrete;countable;
+Wind;nature;concrete;uncountable;
+Winner;human;concrete;countable;
+Woman;human;concrete;countable;
+Wood;nature;concrete;uncountable;
+Word;object;concrete;countable;
+Work;work;abstract;uncountable;
+Worker;human;concrete;countable;
+World;nature;concrete;countable;
+Writer;human;concrete;countable;
+Writing;work;abstract;uncountable;
+Year;time;abstract;countable;
+Youth;human;abstract;countable;

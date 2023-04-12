@@ -6,27 +6,29 @@ load_dotenv()
 
 
 
-verbs = {}
+# get the verbs/nouns in JSON file
+verbs = []
 with open("save_verbs.json", "r") as f:
   d = json.load(f)
   verbs = d
   f.close()
 
-new_verbs = []
-with open("verbs.txt", "r") as f:
-  for line in f:
-    verb, level, frequency = line.replace('\n', '').split(';')
-    print(f"verb: {verb} -- level: {level} -- frequency: {frequency}")
-    new_verbs.append({
-      "infinity": verb,
-      "past_simple": verbs[verb]['past_simple'],
-      "past_participe": verbs[verb]['past_participe'],
-      "french": verbs[verb]['french'],
-      "level": verbs[verb]['level'],
-      "frequency": int(verbs[verb]['frequency'])
-    })
 
+print(f"number of verbs: {len(verbs)}")
+
+
+with open("verbs_exemple.txt", "r") as f:
+  for line in f:
+    line = line.replace('\n', '').split(';')
+    
+    print(line[0])
+    verb = list(filter(lambda x: x['infinity'] == line[0], verbs))[0]
+    if 'examples' not in verb:
+      verb['examples'] = []
+    verb['examples'].append((line[1], line[2]))
+    
+print(verbs)
 
 with open('save_verbs.json', "w") as f:
-  f.write(json.dumps(new_verbs, indent=4))
+  f.write(json.dumps(verbs, indent=4))
     
