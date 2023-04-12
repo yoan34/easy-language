@@ -54,8 +54,9 @@ if __name__ == "__main__":
         for line in f:
             nouns.append(line.replace('\n', ''))
   
-    nouns = nouns[:200]
-    with open("nouns_with_gpt.txt", "a") as f:
+    
+    nouns = nouns[:100]
+    with open("nouns_with_gpt_update.txt", "a") as f:
         
         for i in range(0, len(nouns), 50):
             j = i + 50
@@ -65,7 +66,7 @@ if __name__ == "__main__":
             completion = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
                 messages=[
-                {"role": "user", "content": f"peux-tu cité une catégorie pour les noms suivant, un niveau entre A1,A2,B1,B2,C1,C2 et un score de fréquence entre 1 et 10 de la forme: nom;A1;7 par exemple. Voici la liste des noms: {nouns_chunk}"}
+                {"role": "user", "content": f"peux-tu traduire, citer une catégorie pour les noms suivant, un niveau entre A1,A2,B1,B2,C1,C2 et un score de fréquence entre 1 et 10 de la forme: apple;pomme;A1;7;fruit par exemple. Voici la liste des noms: {nouns_chunk}"}
                 ]
             )
             print(completion.choices[0].message.content, file=f)

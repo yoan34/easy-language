@@ -1,3 +1,206 @@
 - Action physique : Abandon, Absorb, Abuse, Accelerate, Accent, Act, Add, Address, Adjust, Advance, Advertise, Aggravate, Alternate, Amend, Amuse, Announce, Annoy, Answer, Appear, Appease, Applaud, Apply, Approach, Arrest, Arrive, Ask, Assist, Assure.
 - Action mentale : Accommodate, Accuse, Achieve, Acknowledge, Acquire, Advice, Analyse, Approve, Argue, Arise, Arrange, Assess.
 - Sentiment : Admire, Admit, Adore, Advice, Afford, Agree, Allow.
+- Action physique: Abandon, Absorb, Abuse, Accelerate, Act, Add, Address, Adjust, Admire, Admit, Adore, Advance, Advertise, Afford, Alternate, Amend, Amuse, Announce, Annoy, Answer, Appear, Appease, Applaud, Apply, Approach, Arrest, Arrive, Ask, Assist, 
+- Action mentale: Accept, Accommodate, Accuse, Achieve, Acknowledge, Acquire, Advice, Agree, Allow, Analyse, Apologize, Approve, Argue, Arrange, Assess, Assure 
+- Sentiment: Accent
+Attach - action physique
+Attack - action physique
+Attempt - action mentale
+Attend - action mentale
+Attract - action physique
+Avoid - action mentale
+Await - action mentale
+Awake - action physique
+Back - action physique
+Balance - action physique
+Bang - action physique
+Bark - action physique
+Bat - action physique
+Battle - action physique
+Be - action mentale
+Bear - action physique
+Beat - action physique
+Become - action mentale
+Befall - action physique
+Befriend - action mentale
+Beg - action mentale
+Beget - action physique
+Begin - action physique
+Behave - action mentale
+Behold - action mentale
+Believe - sentiment
+Belong - action mentale
+Bend - action physique
+Bereave - sentiment
+Beseech - action mentale
+Bet - action mentale
+Bid - action mentale
+Bind - action physique
+Bite - action physique
+Blame - action mentale
+Bleed - action physique
+Blend - action physique
+Bless - action mentale
+Blink - action physique
+Blow - action physique
+Blush - sentiment
+Boil - action physique
+Bond - action mentale
+Borrow - action physique
+Brag - action mentale
+Brake - action physique
+Break - action physique
+Breathe - action physique
+Breed - action physique
+Bring - action physique
+Broadcast - Action physique (parler, transmettre un message à distance)
+Broaden - Action mentale (élargir, élargir les horizons)
+Bruise - Action physique (blesser, causer une blessure superficielle)
+Brush - Action physique (brosser, nettoyer avec une brosse)
+Buckle - Action physique (boucler, attacher avec une boucle)
+Bug - Action mentale (défauter, signaler un défaut ou un bogue)
+Build - Action physique (construire, ériger une structure)
+Bundle - Action physique (emballer, regrouper plusieurs choses ensemble)
+Burn - Action physique/sentiment (brûler, causer une combustion ou une douleur vive)
+Burst - Action physique (éclater, se briser soudainement)
+Buy - Action physique (acheter, acquérir un bien ou un service)
+Calculate - Action mentale (calculer, effectuer des opérations mathématiques)
+Call - Action physique/mentale (appeler, communiquer avec quelqu'un à distance ou demander quelque chose)
+Calm - Sentiment (calmer, apaiser un état d'anxiété ou de stress)
+Camp - Action physique (camper, établir un campement)
+Capitulate - Action mentale (capituler, abandonner ou céder à une personne ou une situation)
+Care - Sentiment (prendre soin, s'occuper de quelque chose ou quelqu'un)
+Carry - Action physique (porter, déplacer quelque chose d'un endroit à un autre)
+Cash - Action physique (encaisser, échanger un chèque ou un billet de banque)
+Catch - Action physique (attraper, saisir quelque chose en mouvement)
+Cause - Action mentale (causer, être la raison d'un événement ou d'une situation)
+Cease - Action mentale (cesser, arrêter ou mettre fin à quelque chose)
+Center - Action physique/mentale (centrer, se concentrer ou se focaliser sur quelque chose)
+Challenge - Action mentale (défier, mettre au défi une personne ou une idée)
+Change - Action mentale (changer, modifier ou altérer quelque chose)
+Charge - Action physique/mentale (charger, donner une tâche ou une responsabilité ou facturer un montant pour un service)
+Chase - Action physique (poursuivre, courir après quelque chose ou quelqu'un)
+Chat - Action mentale (discuter, parler informellement avec un ou plusieurs personnes)
+Check - Action mentale (vérifier, confirmer si quelque chose est correct ou non)
+Chide - Sentiment (réprimander, donner un avertissement ou un reproche)
+Choke - Action physique (étouffer, empêcher l'air d'entrer dans les poumons)
+Choose - Action mentale (choisir, prendre une décision sur quelque chose)
+Chop - Action physique (couper, trancher quelque chose avec une hache ou un couteau)
+Circle - Action physique (tourner autour de, faire le tour de quelque chose)
+Claim - Action mentale (revendiquer, déclarer quelque chose comme étant vrai ou à soi)
+Clap - Action physique (applaudir, frapper des mains ensemble)
+Clarify - Action mentale (clarifier, rendre quelque chose plus clair ou plus compréhensible)
+Clean - Action physique (nettoyer, enlever la saleté ou la poussière)
+Click - Action physique (cliquer, appuyer sur un bouton ou une souris d'ordinateur)
+Climb - Action physique (grimper, monter à une hauteur)
+Cling - Action physique (adhérer, rester attaché à quelque chose ou quelqu'un)
+Close - Action physique/mentale (fermer, couper ou mettre fin à quelque chose)
+Coach - Action mentale (entraîner, donner des conseils et enseigner à quelqu'un)
+Collapse - Action physique (s'effondrer, tomber brusquement)
+Collect - Action physique (collectionner, rassembler plusieurs choses ensemble)
+Collide - Action physique (entrer en collision, heurter quelque chose)
+Combine - Action physique (combiner, mélanger ou fusionner plusieurs choses ensemble)
+Come - Action physique (venir, se déplacer vers l'endroit où se trouve le locuteur)
+Command - Action mentale (commander, donner un ordre à quelqu'un)
+Commit - Action mentale (commettre, s'engager à faire quelque chose ou prendre une décision)
+Compare - Action mentale
+Compensate - Action mentale
+Complete - Action physique
+Compose - Action mentale
+Consider - Action mentale
+Consist - Action mentale
+Contain - Action physique
+Continue - Action physique
+Cook - Action physique
+Copy - Action physique
+Cost - Action mentale
+Count - Action mentale
+Cover - Action physique
+Crash - Action physique
+Creep - Action physique
+Cross - Action physique
+Crown - Action physique
+Cry - Sentiment
+Cut - Action physique
+Damage - Action physique
+Dance - Action physique
+Deal - Action mentale
+Decide - Action mentale
+Declare - Action mentale
+Decline - Action mentale
+Decorate - Action physique
+Delay - Action mentale
+Deliver - Action physique
+Demonstrate - Action physique
+Deny - Action mentale
+Depend - Action mentale
+Destroy - Action physique
+Develop - Action mentale
+Devote - Action mentale
+Die - Action physique
+Dig - Action physique
+Disapprove - Sentiment
+Disclose - Action mentale
+Display - Action physique
+Distract - Action mentale
+Dive - Action physique
+Divide - Action physique
+Do - Action physique
+Double - Action physique
+Draw - Action physique
+Dream - Action mentale
+Dress - Action physique
+Drink - Action physique
+Drive - Action physique
+Drop - Action physique
+Dry - action physique
+Dump - action physique
+Dwell - action physique
+Dye - action physique
+Earn - action physique
+Ease - action physique
+Eat - action physique
+Eject - action physique
+Elect - action physique
+Embarrass - sentiment
+Embrace - action physique
+Emerge - action physique
+Enclose - action physique
+Encourage - sentiment
+End - action physique
+Engage - action physique
+Enhance - action mental
+Enjoy - sentiment
+Enquire - action mental
+Envy - sentiment
+Erase - action physique
+Escape - action physique
+Exaggerate - action mental
+Excite - sentiment
+Exclaim - action mentale
+Exclude - action mentale
+Exist - état
+Experience - action mentale
+Explain - action mentale
+Expose - action physique
+Express - action mentale
+Extend - action physique
+Extract - action physique
+Eye - action physique
+Fail - action mentale
+Fall - action physique
+Fancy - action mentale
+Fasten - action physique
+Fatten - action physique
+Fear - sentiment
+Feed - action physique
+Feel - sentiment
+Feint - action physique
+Fight - action physique
+File - action physique
+Fill - action physique
+Find - action physique
+Finish - action physique
+Fire - action physique
+Fish - action physique

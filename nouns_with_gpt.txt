@@ -1,250 +1,700 @@
-'Ability';B2;8
-'Access';B1;7
-'Accident';A2;8
-'Account';B1;9
-'Act';A2;7
-'Action';B1;9
-'Activity';B1;10
-'Actor';B1;6
-'Ad';B1;4
-'Addition';B1;4
-'Address';A2;8
-'Administration';C1;7
-'Advantage';B2;8
-'Advertising';B2;5
-'Advice';B1;8
-'Affair';B2;6
-'Age';A1;9
-'Agency';B2;6
-'Agreement';B1;8
-'Air';A2;10
-'Airport';B1;8
-'Alcohol';B2;6
-'Ambition';B2;5
-'Amount';B1;8
-'Analysis';C1;6
-'Analyst';B2;5
-'Animal';A1;9
-'Answer';A2;8
-'Anxiety';B2;5
-'Apartment';B1;7
-'Appearance';B2;7
-'Apple';A2;7
-'Application';B1;7
-'Appointment';B1;7
-'Area';B1;9
-'Argument';B2;8
-'Army';B2;6
-'Arrival';B1;7
-'Art';B1;7
-'Article';B1;8
-'Aspect';B2;7
-'Assignment';B2;6
-'Assistance';B2;8
-'Assistant';B2;6
-'Association';C1;5
-'Assumption';B2;6
-'Atmosphere';B2;6
-'Attempt';B1;7
-'Attention';B1;8
-'Attitude';B2;7
-Ability;B1;4
-Access;B2;5
-Accident;A2;7
+Ability;B1;6
+Access;A2;8
+Accident;A2;8
 Account;B1;6
-Act;B2;8
+Act;A2;9
 Action;B1;7
-Activity;A2;9
-Actor;B2;6
-Ad;B1;8
-Addition;B2;5
-Address;B1;9
-Administration;B2;5
-Advantage;B2;7
-Advertising;B2;6
-Advice;B1;9
-Affair;B2;5
+Activity;B1;7
+Actor;B2;4
+Ad;B2;3
+Addition;B2;2
+Address;A2;8
+Administration;B2;3
+Advantage;B1;6
+Advertising;B2;4
+Advice;A2;9
+Affair;B2;3
 Age;A1;10
-Agency;B2;5
+Agency;B2;4
 Agreement;B1;7
 Air;A2;9
-Airport;B1;8
-Alcohol;B2;6
-Ambition;B2;5
-Amount;B1;7
-Analysis;B2;5
-Analyst;B2;4
-Animal;A1;10
-Answer;B1;9
-Anxiety;B2;6
+Airport;B1;6
+Alcohol;B2;2
+Ambition;B2;4
+Amount;B1;5
+Analysis;B2;4
+Analyst;C1;1
+Animal;A1;8
+Answer;A2;9
+Anxiety;B2;3
 Apartment;B1;6
-Appearance;B2;5
-Apple;A1;8
-Application;B1;7
-Appointment;B2;6
-Area;A2;9
-Argument;B2;7
-Army;B2;5
-Arrival;B2;6
-Art;B1;6
-Article;B1;7
-Aspect;B2;7
-Assignment;B2;5
-Assistance;B2;6
-Assistant;B2;6
-Association;B2;5
-Assumption;B2;5
-Atmosphere;B2;7
-Attempt;B2;6
-Attention;B1;8
+Appearance;B2;4
+Apple;A2;9
+Application;B1;5
+Appointment;B1;6
+Area;A1;9
+Argument;B2;3
+Army;B1;5
+Arrival;B2;3
+Art;B1;7
+Article;B2;4
+Aspect;B2;4
+Assignment;B2;3
+Assistance;B2;3
+Assistant;B2;4
+Association;B2;4
+Assumption;B2;4
+Atmosphere;B2;4
+Attempt;B1;6
+Attention;B1;7
 Attitude;B1;7
-Audience;B1;6
+Audience;B2;9
 Aunt;A2;5
-Average;B1;6
-Awareness;B2;4
+Average;B1;7
+Awareness;C1;6
 Back;A1;8
 Bad;A1;9
-Balance;B2;6
-Ball;A1;7
-Bank;B1;8
-Baseball;B2;5
-Basis;B2;4
-Basket;A1;6
-Bath;A1;8
-Bathroom;B1;7
-Bedroom;B1;8
-Beer;A2;6
-Beginning;B1;7
-Benefit;B1;6
+Balance;B2;8
+Ball;A2;7
+Bank;B1;6
+Baseball;B1;5
+Basis;C1;4
+Basket;A2;6
+Bath;A1;6
+Bathroom;A2;6
+Bedroom;A2;6
+Beer;A2;7
+Beginning;B1;8
+Benefit;B1;7
 Bird;A2;6
-Birth;B2;5
+Birth;B1;6
 Birthday;A2;7
-Bit;A2;8
-Blood;B2;6
-Board;B1;8
-Boat;B1;7
-Body;B1;9
-Bonus;B2;7
+Bit;B2;5
+Blood;B2;4
+Board;B1;6
+Boat;A2;6
+Body;B1;8
+Bonus;B2;5
 Book;A1;9
-Boss;B1;7
-Bottom;B2;5
-Box;A1;8
+Boss;B2;6
+Bottom;B2;6
+Box;A2;7
 Boy;A1;7
-Boyfriend;B2;5
-Bread;A1;8
-Breath;A2;7
-Brother;B1;8
-Building;B1;8
+Boyfriend;B1;6
+Bread;A2;7
+Breath;B1;7
+Brother;A2;7
+Building;B1;6
 Bus;A1;7
-Business;B1;9
-Buyer;B2;6
-Cabinet;B2;5
-Camera;A2;7
+Business;B1;8
+Buyer;B2;5
+Cabinet;B2;4
+Camera;B1;6
 Cancer;B2;4
 Candidate;B2;6
-Capital;B2;7
-Car;A1;8
+Capital;B2;6
+Car;A2;8
 Card;A1;7
 Care;B1;8
-Career;B1;9
-Case;B1;9
-Cash;B1;5
-Cat;A1;9
-Category;B1;8
-Cause;B2;6
-Celebration;B2;3
-Cell;B1;7
+Career;B1;7
+Case;B1;8
+Cash;B1;4
+Cat;A1;8
+Category;B2;6
+Cause;B1;5
+Celebration;B1;3
+Cell;B2;7
 Championship;C1;2
-Chance;A2;9
-Chapter;B2;5
-Charity;B2;4
-Cheek;B2;2
-Chemistry;B2;4
-Chest;B1;6
-Chicken;A1;6
-Child;A1;8
-Childhood;B1;6
+Chance;B1;7
+Chapter;B2;6
+Charity;B1;4
+Cheek;B2;3
+Chemistry;B2;3
+Chest;B2;4
+Chicken;A2;6
+Child;A1;9
+Childhood;B1;7
 Chocolate;A2;7
-Choice;A2;8
-Church;B1;6
-Cigarette;B2;3
-City;B1;8
-Class;A2;9
-Classroom;B1;7
-Client;B1;8
-Climate;B2;5
-Clothes;A2;8
+Choice;B1;8
+Church;A2;5
+Cigarette;B2;4
+City;A1;10
+Class;A1;8
+Classroom;A2;6
+Client;B2;5
+Climate;B2;4
+Clothes;A1;7
 Coast;B1;5
 Coffee;A2;9
-Collection;B2;4
-College;B1;6
+Collection;B2;5
+College;B2;7
 Combination;B2;4
-Committee;B2;5
+Committee;B2;4
 Communication;B2;8
 Community;B1;6
 Company;B1;8
-Comparison;B2;5
-Competition;B2;7
+Comparison;B2;6
+Competition;B1;6
 Complaint;B2;4
-Computer;B1;8
-Concept;B2;7
-Conclusion;B2;6
-Condition;B2;7
+Computer;B2;8
+Concept;B2;6
+Conclusion;B2;5
+Condition;B1;7
 Confusion;B2;4
-Connection;B2;6
-Consequence;B2;6
-Construction;B2;5
-Contact;B1;7
-Context;B2;8
-Contract;B2;5
+Connection;B2;7
+Consequence;B1;5
+Construction;B2;6
+Contact;B2;6
+Context;B2;6
+Contract;B2;7
 Contribution;B2;5
-Control;B1;5
-Conversation;B2;3
-Cookie;A2;6
-Country;A1;8
-County;B1;5
-Courage;B2;4
-Course;B1;7
-Cousin;B2;3
-Craft;A2;5
-Credit;B1;6
-Criticism;B2;4
+Control;B1;6
+Conversation;A2;5
+Cookie;A2;8
+Country;A1;10
+County;B2;4
+Courage;B1;3
+Course;A2;7
+Cousin;A1;6
+Craft;B1;4
+Credit;B2;6
+Criticism;B2;2
 Culture;B1;8
-Currency;B2;4
-Customer;A2;7
-Cycle;B2;4
-Dad;A2;6
-Data;B2;8
-Database;B2;7
-Date;A1;8
-Day;A1;9
-Dealer;B2;5
-Death;B1;7
+Currency;B2;6
+Customer;B1;8
+Cycle;B1;4
+Dad;A1;9
+Data;B2;9
+Database;B2;8
+Date;A1;9
+Day;A1;10
+Dealer;B1;4
+Death;A2;6
 Debt;B2;6
-Decision;B1;6
-Definition;B2;7
-Delivery;B2;6
-Demand;B2;6
-Department;B1;6
-Departure;B2;5
-Depression;B2;6
+Decision;B1;7
+Definition;B2;5
+Delivery;B2;7
+Demand;B2;5
+Department;B1;8
+Departure;B1;5
+Depression;B2;3
 Depth;B2;5
-Description;B2;7
-Design;B1;6
-Desk;A2;5
-Development;B2;7
-Device;B2;5
-Diamond;B2;4
+Description;B2;6
+Design;B1;8
+Desk;B1;6
+Development;B2;9
+Device;B2;6
+Diamond;B2;3
 Difference;B1;7
-Difficulty;B2;6
-Dinner;A2;4
-Direction;B1;7
-Director;B2;5
-Dirt;B2;4
-Disaster;B2;4
-Discipline;B2;5
-Discussion;B2;6
-Disease;B2;6
+Difficulty;B2;4
+Dinner;A2;7
+Direction;B1;6
+Director;B2;4
+Dirt;B2;2
+Disaster;B2;2
+Discipline;B2;4
+Discussion;B1;7
+Disease;B2;7
 Disk;B2;5
-Distribution;B2;7
-Dog;A1;8
+Distribution;B2;6
+Dog;A1;10
+'Drama';B2;9
+'Drawer';B1;6
+'Drawing';A2;5
+'Driver';A2;7
+'Ear';A1;9
+'Earth';A2;8
+'Economics';B2;8
+'Economy';B2;9
+'Editor';B1;6
+'Education';B1;9
+'Effect';B1;8
+'Efficiency';C1;6
+'Effort';A2;9
+'Egg';A2;9
+'Election';B2;7
+'Elevator';B1;5
+'Emotion';B1;9
+'Emphasis';C1;6
+'Employee';B1;8
+'Employer';B2;7
+'Employment';B2;8
+'End';A2;9
+'Energy';B1;8
+'Engine';B2;7
+'Entertainment';B2;8
+'Enthusiasm';C1;6
+'Entry';B1;6
+'Environment';B2;9
+'Equipment';B2;8
+'Error';B1;6
+'Establishment';B2;7
+'Estate';B2;5
+'Event';B2;9
+'Exam';B1;8
+'Examination';B1;8
+'Example';A2;9
+'Exchange';B2;7
+'Excitement';B2;8
+'Exercise';B1;8
+'Experience';B2;9
+'Explanation';B1;6
+'Expression';B1;6
+'Extent';B2;6
+'Eye';A1;9
+'Face';A2;9
+'Fact';A2;9
+'Failure';B2;6
+'Family';B1;9
+'Farmer';B1;5
+'Fat';A2;8
+Feature;B2;5
+Feedback;B2;3
+Field;A2;8
+Figure;B2;6
+Film;A2;7
+Finding;B1;5
+Fire;A1;8
+Fish;A1;9
+Flight;B1;6
+Focus;B2;5
+Food;A1;10
+Football;A2;6
+Force;B2;4
+Form;B1;7
+Fortune;C1;3
+Foundation;C1;4
+Frame;B1;6
+Freedom;B2;4
+Friendship;B2;6
+Fun;A2;8
+Funeral;B2;3
+Future;B1;9
+Game;A1;9
+Garbage;B2;2
+Garden;A2;7
+Gate;B1;5
+Gene;B2;3
+Gift;A1;8
+Girl;A1;9
+Girlfriend;B1;4
+Goal;A2;6
+Government;B2;5
+Grandmother;A2;5
+Grocery;B1;5
+Group;B1;8
+Growth;B2;5
+Guest;B1;7
+Guidance;B2;4
+Guide;B2;5
+Guitar;B1;6
+Hair;A2;7
+Half;B2;5
+Hall;A2;6
+Hand;A1;9
+Hat;A2;7
+Head;A1;8
+Health;B1;7
+Hearing;B1;6
+Heart;A2;6
+Heat;A2;7
+Height;A2;2
+Highway;A1;4
+Historian;B2;3
+History;A1;8
+Home;A1;10
+Homework;A1;7
+Honey;A2;4
+Hope;B1;6
+Hospital;A2;10
+Hotel;A2;8
+House;A1;10
+Housing;B2;5
+Ice;A2;6
+Idea;A1;9
+Image;B1;5
+Imagination;B2;4
+Impact;B2;3
+Importance;B2;3
+Impression;B2;4
+Improvement;B2;5
+Income;B1;8
+Independence;B2;4
+Indication;B2;4
+Industry;B2;6
+Inflation;C1;3
+Information;B1;10
+Initiative;B2;5
+Injury;B2;5
+Insect;B2;5
+Inside;B1;7
+Inspection;B2;5
+Inspector;B2;5
+Instance;B2;6
+Instruction;B2;5
+Insurance;B2;6
+Intention;B2;6
+Interaction;B2;5
+Interest;A2;10
+Internet;B1;9
+Introduction;B2;5
+Investment;B2;6
+Issue;B2;7
+Item;B1;7
+Job;A1;10
+Judgment;B2;5
+Key;B1;5
+Kind;B1;8
+King;B2;4
+Knowledge;B2;9
+Lab;B2;4
+Ladder;A2;4
+Lady;A1;6
+Lake;A2;5
+Language;B1;9
+Law;B2;8
+Leader;B2;7
+Leadership;C1;6
+Length;B1;5
+Level;A2;7
+Library;B1;8
+Life;A1;10
+Light;B1;6
+Line;A2;9
+Link;B1;4
+List;A2;8
+Literature;B2;7
+Location;B1;7
+Loss;B1;5
+Love;A2;10
+Machine;B1;5
+Magazine;B2;6
+Maintenance;B2;4
+Mall;A2;3
+Man;A1;9
+Management;B2;8
+Manager;B2;7
+Manufacturer;B2;3
+Map;A2;6
+Market;B2;9
+Marketing;B2;8
+Marriage;B2;7
+Material;B1;8
+Math;B1;9
+Matter;A2;6
+Meal;A2;6
+Meaning;B1;8
+Measurement;B2;7
+Meat;A2;7
+Media;B2;8
+Medicine;B2;7
+Medium;B1;6
+Member;B1;7
+Membership;B2;4
+Memory;B1;6
+Menu;A2;4
+Message;B1;9
+Metal;B1;7
+Method;B1;8
+Midnight;A2;5
+Mind;B1;8
+Mixture;B2;4
+Mode;B1;6
+Model;B1;6
+Mom;A1;9
+Moment;B1;7
+Money;A2;10
+Month;A2;10
+Mood;B1;7
+Morning;A1;9
+Mouse;A2;8
+Movie;A2;9
+Mud;A2;6
+Music;A1;9
+Name;A1;8
+Nation;B2;4
+Nature;B1;6
+Negotiation;B2;3
+Network;B2;4
+News;A2;10
+Newspaper;B1;7
+Night;A2;9
+Note;A2;8
+Nothing;A1;9
+Number;A1;8
+Object;B1;6
+Obligation;B2;3
+Office;B1;7
+Oil;B1;6
+Operation;B2;4
+Opinion;B2;5
+Opportunity;B2;5
+Orange;A2;7
+Order;B1;7
+Organization;B2;4
+Outcome;B2;5
+Outside;B1;8
+Oven;A2;8
+Owner;B1;7
+Page;A2;9
+Paint;B1;7
+Painting;B2;4
+Paper;A1;8
+Part;B1;7
+Passenger;A2;8
+Passion;B2;3
+Patience;B2;4
+Payment;B2;4
+Penalty;B2;5
+People;A1;9
+Percentage;B2;5
+Perception;B1;6
+Performance;B2;5
+Period;A2;9
+Permission;B1;6
+Person;A1;10
+Personality;B2;8
+Perspective;B2;7
+Philosophy;B2;6
+Phone;A2;9
+Photo;A1;10
+Physics;B2;4
+Piano;B1;5
+Picture;A1;9
+Pie;A2;7
+Piece;A2;8
+Pizza;A2;9
+Place;A1;10
+Plan;B1;7
+Platform;B2;6
+Player;B1;6
+Poem;B1;8
+Poet;B2;7
+Poetry;B2;8
+Point;A2;9
+Police;B1;7
+Policy;B2;6
+Politics;B2;7
+Pollution;B2;6
+Population;B2;5
+Position;B1;8
+Possession;B2;6
+Possibility;B2;8
+Post;A2;9
+Pot;A2;8
+Potato;A1;9
+Power;B1;7
+Practice;B2;7
+Preference;B2;6
+Preparation;B1;7
+Presence;B2;7
+Presentation;B2;8
+President;B2;5
+Pressure;B2;8
+Price;B1;8
+Priority;B2;7
+Problem;B1;8
+Procedure;B2;7
+Process;B2;7
+Product;B1;7
+Profession;B2;6
+Professor; C1; 3
+Profit; B2; 8
+Program; A2; 9
+Promotion; B1; 6
+Property; B2; 7
+Proposal; B1; 5
+Protection; B2; 6
+Psychology; C2; 4
+Purpose; B1; 7
+Quality; B1; 8
+Quantity; B2; 7
+Queen; B2; 4
+Question; A1; 10
+Radio; B1; 7
+Range; B1; 7
+Rate; B1; 8
+Ratio; B2; 6
+Reaction; B2; 7
+Reality; B2; 7
+Reason; B1; 8
+Reception; B2; 6
+Recipe; B2; 7
+Recognition; B2; 7
+Recommendation; B2; 5
+Record; B2; 7
+Recording; B2; 6
+Reflection; B2; 5
+Refrigerator; B2; 3
+Region; B2; 7
+Relation; B1; 7
+Relationship; B2; 7
+Replacement; B2; 6
+Republic; B2; 4
+Reputation; B2; 6
+Requirement; B2; 7
+Research; C1; 4
+Resolution; B2; 6
+Resource; B2; 7
+Response; B2; 7
+Responsibility; B2; 7
+Restaurant; B1; 6
+Result; B1; 7
+Revenue; B2; 6
+Review; B1; 7
+Revolution; B2; 5
+Risk; B1; 7
+River; B1; 8
+Road; A2; 8
+Rock; B2; 8
+Role; A2; 9
+Room; A1; 8
+Rule; A2; 7
+Safety; A2; 8
+Salad; A1; 7
+Salt; A1; 8
+Sample; A2; 7
+Satisfaction; B1; 6
+Scale; B2; 5
+Scene; B1; 6
+School; A1; 9
+Science; B1; 6
+Screen; B1; 6
+Secretary; B2; 4
+Section; B1; 5
+Sector; B2; 4
+Security; B1; 5
+Selection; B1; 5
+Sense; A2; 8
+Series; B2; 5
+Service; A2; 7
+Session; B1; 5
+Setting; B1; 5
+Shape; A2; 7
+Share; A2; 7
+Shirt; A1; 9
+Side; A1; 8
+Sign; A2; 7
+Signature; B2; 4
+Significance; B2; 3
+Singer; B1; 6
+Sir; B2; 3
+Sister; A2; 7
+Site; A1; 9
+Situation; B1; 7
+Size; A1; 8
+Skill; A2; 7
+Society; B1; 6
+Software; B2; 4
+Soil; B1; 6
+Solution; B2; 5
+Son; A2; 7
+Song; A2; 8
+Sound; A1; 9
+Soup; A1; 8
+Source; B2; 5
+Space; A2; 7
+Speaker; B2; 4
+Speech; B1; 5
+Sport; A2; 7
+Square; A2; 7
+Standard;B1;6
+Star;A1;8
+State;A2;9
+Statement;B2;5
+Steak;A2;3
+Step;A1;7
+Stock;B1;6
+Storage;B2;4
+Store;A1;8
+Story;B1;7
+Stranger;B2;3
+Strategy;B2;4
+Stress;B1;6
+Structure;B1;5
+Student;A2;8
+Studio;B1;4
+Study;A2;9
+Style;B1;6
+Subject;A2;8
+Success;B1;6
+Suggestion;B2;4
+Sun;A1;7
+Supermarket;B2;3
+Surgery;B2;3
+Sympathy;B2;3
+System;B1;7
+Table;A1;8
+Tale;B1;6
+Task;A2;9
+Tax;B1;6
+Tea;A1;9
+Teacher;A2;8
+Technology;B2;5
+Television;B1;7
+Temperature;B2;4
+Tennis;B1;5
+Tension;B2;4
+Term;B1;7
+Test;A2;9
+Thanks;A1;8
+Theory;B2;5
+Thing;A1;9
+Thought;B1;6
+Throat;B2;3
+Time;A1;9
+Tongue;B2;3
+Tool;B1;5
+Tooth;B1;5
+Top;A2;8
+Topic;B1;7
+- Town; A1; 8
+- Trade; A2; 7
+- Tradition; B1; 6
+- Trainer; B2; 4
+- Training; B1; 5
+- Transportation; B2; 4 
+- Truth; A2; 8 
+- Two; A1; 9 
+- Type; A2; 7 
+- Uncle; A2; 5 
+- Understanding; B2; 4 
+- Union; B1; 5 
+- Unit; A2; 6 
+- University; B2; 3 
+- User; B1; 6 
+- Value; B2; 3 
+- Variation; B2; 3 
+- Variety; B1; 5 
+- Vehicle; B1; 6 
+- Version; B2; 4 
+- Video; B1; 7 
+- View; A2; 8 
+- Village; A2; 7 
+- Virus; B1; 5 
+- Voice; A2; 6 
+- Volume; B2; 3 
+- War; B1; 6 
+- Warning; B1; 5 
+- Water; A1; 9 
+- Way; A1; 10 
+- Weakness; B2; 4 
+- Wealth; B2; 4 
+- Weather; B1; 5 
+- Web; B1; 6 
+- Wedding; B1; 5 
+- Week; A2; 8 
+- While; B1; 6 
+- Wife; A2; 5 
+- Wind; A2; 7 
+- Winner; B1; 5 
+- Woman; A1; 8 
+- Wood; B1; 5 
+- Word; A1; 9 
+- Work; A1; 10 
+- Worker; B1; 6 
+- World; A2; 7 
+- Writer; B2; 3 
+- Writing; B2; 3 
+- Year; A1; 8 
+- Youth; A2; 6

@@ -13,7 +13,7 @@ with open("save_verbs.json", "r") as f:
   
 print(len(verbs))
 
-verbs = list(verbs)[:50]
+verbs = list(verbs)[:250]
 with open("category_verbs.txt", "a") as f:
   for i in range(0, len(verbs), 50):
       j = i + 50
